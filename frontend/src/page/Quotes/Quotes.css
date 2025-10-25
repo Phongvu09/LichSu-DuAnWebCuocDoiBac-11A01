@@ -1,0 +1,11 @@
+.quotes-page {
+    padding: 24px;
+    text-align: center;
+}
+
+.quotes-page li {
+    margin: 10px 0;
+    list-style: none;
+    color: #7a4a1e;
+    font-weight: 500;
+}

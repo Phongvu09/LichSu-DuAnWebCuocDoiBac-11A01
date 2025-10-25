@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Đường Kách Mệnh",
+    "year": 1927,
+    "description": "Tác phẩm tập hợp các bài giảng của Nguyễn Ái Quốc tại lớp huấn luyện chính trị ở Quảng Châu, Trung Quốc. Là nền tảng lý luận đầu tiên cho cách mạng Việt Nam.",
+    "image": "/src/assets/images/works/duong-kach-menh.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Nhật ký trong tù",
+    "year": 1943,
+    "description": "Tập thơ được Bác viết trong thời gian bị giam ở Trung Quốc. Vừa thể hiện tinh thần thép, vừa toát lên tâm hồn trong sáng, nhân văn của người chiến sĩ cách mạng.",
+    "image": "/src/assets/images/works/nhat-ky-trong-tu.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Lời kêu gọi toàn quốc kháng chiến",
+    "year": 1946,
+    "description": "Bản lời kêu gọi vang dội kêu gọi nhân dân Việt Nam đứng lên chống thực dân Pháp, mở đầu cuộc kháng chiến trường kỳ giành độc lập.",
+    "image": "/src/assets/images/works/loi-keu-goi.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Di chúc của Chủ tịch Hồ Chí Minh",
+    "year": 1969,
+    "description": "Bản Di chúc thiêng liêng được Người viết trong những năm cuối đời, thể hiện tầm nhìn, tư tưởng và tình cảm sâu nặng dành cho dân tộc, Đảng và con người.",
+    "image": "/src/assets/images/works/di-chuc.jpg"
+  }
+]

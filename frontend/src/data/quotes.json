@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Không có gì quý hơn độc lập tự do.",
+    "context": "Câu nói nổi tiếng của Chủ tịch Hồ Chí Minh, thể hiện tinh thần yêu nước và ý chí kiên cường của dân tộc Việt Nam.",
+    "year": 1966
+  },
+  {
+    "id": 2,
+    "text": "Vì lợi ích mười năm trồng cây, vì lợi ích trăm năm trồng người.",
+    "context": "Nhấn mạnh tầm quan trọng của giáo dục và con người trong sự nghiệp xây dựng đất nước.",
+    "year": 1958
+  },
+  {
+    "id": 3,
+    "text": "Dễ trăm lần không dân cũng chịu, khó vạn lần dân liệu cũng xong.",
+    "context": "Thể hiện niềm tin tuyệt đối của Bác vào sức mạnh của nhân dân.",
+    "year": 1951
+  },
+  {
+    "id": 4,
+    "text": "Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công.",
+    "context": "Lời hiệu triệu về tinh thần đoàn kết dân tộc trong mọi hoàn cảnh.",
+    "year": 1959
+  },
+  {
+    "id": 5,
+    "text": "Thanh niên là người chủ tương lai của nước nhà.",
+    "context": "Nhắc nhở thế hệ trẻ về trách nhiệm xây dựng và bảo vệ Tổ quốc.",
+    "year": 1955
+  }
+]

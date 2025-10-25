@@ -1,0 +1,112 @@
+.timeline-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 16px;
+    color: #3b2e1a;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.timeline-heading {
+    text-align: center;
+    color: #5b3610;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.timeline-intro {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto 40px;
+    font-size: 1rem;
+    color: #4a3c25;
+    line-height: 1.6;
+}
+
+.timeline-list {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+}
+
+.timeline-item {
+    background: #fff7ef;
+    border-left: 6px solid #7a4a1e;
+    border-radius: 8px;
+    padding: 16px 24px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    position: relative;
+}
+
+.timeline-item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    background: #fff2e3;
+}
+
+.timeline-year {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #7a4a1e;
+    margin-bottom: 8px;
+}
+
+.timeline-content h2 {
+    margin: 0 0 6px;
+    font-size: 1.25rem;
+    color: #3a2a12;
+}
+
+.timeline-location {
+    font-size: 0.95rem;
+    color: #5a4731;
+    margin-bottom: 8px;
+}
+
+.timeline-desc {
+    font-size: 1rem;
+    color: #33291c;
+    line-height: 1.5;
+}
+
+/* Hiệu ứng đường dọc giữa */
+.timeline-list::before {
+    content: "";
+    position: absolute;
+    left: 12px;
+    width: 3px;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(#7a4a1e, #b47c4e);
+    border-radius: 2px;
+    opacity: 0.4;
+}
+
+.timeline-item::before {
+    content: "";
+    position: absolute;
+    top: 24px;
+    left: -8px;
+    width: 14px;
+    height: 14px;
+    background: #7a4a1e;
+    border-radius: 50%;
+    box-shadow: 0 0 0 4px #fff7ef;
+}
+
+@media (max-width: 700px) {
+    .timeline-item {
+        padding: 14px 16px;
+    }
+
+    .timeline-year {
+        font-size: 1.2rem;
+    }
+
+    .timeline-content h2 {
+        font-size: 1.1rem;
+    }
+}

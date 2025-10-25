@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "year": "1911",
+    "title": "Ra đi tìm đường cứu nước",
+    "location": "Bến Nhà Rồng, Sài Gòn",
+    "description": "Ngày 5/6/1911, Nguyễn Tất Thành rời Tổ quốc để tìm con đường cứu dân, cứu nước.",
+    "image": "/images/1911.jpg",
+    "details": "Người làm phụ bếp trên tàu Latouche-Tréville, bắt đầu hành trình bôn ba khắp năm châu bốn bể để tìm đường giải phóng dân tộc Việt Nam."
+  },
+  {
+    "id": 2,
+    "year": "1920",
+    "title": "Xác định con đường cách mạng vô sản",
+    "location": "Tours, Pháp",
+    "description": "Nguyễn Ái Quốc tham dự Đại hội Đảng Xã hội Pháp, bỏ phiếu tán thành Quốc tế Cộng sản.",
+    "image": "/images/1920.jpg",
+    "details": "Sự kiện này đánh dấu bước ngoặt tư tưởng: Người khẳng định con đường giải phóng dân tộc Việt Nam là cách mạng vô sản theo chủ nghĩa Mác – Lênin."
+  },
+  {
+    "id": 3,
+    "year": "1930",
+    "title": "Tham gia thành lập Đảng Cộng sản Việt Nam",
+    "location": "Hồng Kông, Trung Quốc",
+    "description": "Nguyễn Ái Quốc chủ trì Hội nghị hợp nhất các tổ chức cộng sản, khai sinh Đảng Cộng sản Việt Nam.",
+    "image": "/images/1930.jpg",
+    "details": "Ngày 3/2/1930, Cương lĩnh chính trị đầu tiên được thông qua, đánh dấu sự ra đời của Đảng Cộng sản Việt Nam – bước ngoặt vĩ đại của cách mạng nước ta."
+  },
+  {
+    "id": 4,
+    "year": "1945",
+    "title": "Cách mạng Tháng Tám thành công",
+    "location": "Hà Nội",
+    "description": "Dưới sự lãnh đạo của Đảng, nhân dân giành chính quyền về tay nhân dân.",
+    "image": "/images/1945.jpg",
+    "details": "Ngày 2/9/1945, tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+  },
+  {
+    "id": 5,
+    "year": "1946",
+    "title": "Toàn quốc kháng chiến chống Pháp",
+    "location": "Hà Nội – Việt Bắc",
+    "description": "Khi thực dân Pháp quay lại xâm lược, Bác Hồ ra lời kêu gọi toàn quốc kháng chiến.",
+    "image": "/images/1946.jpg",
+    "details": "“Thà hi sinh tất cả chứ nhất định không chịu mất nước, không chịu làm nô lệ.” – Lời kêu gọi của Chủ tịch Hồ Chí Minh trở thành hiệu triệu thiêng liêng cho cả dân tộc."
+  },
+  {
+    "id": 6,
+    "year": "1954",
+    "title": "Chiến thắng Điện Biên Phủ",
+    "location": "Điện Biên, Việt Nam",
+    "description": "Chiến thắng lịch sử Điện Biên Phủ buộc Pháp phải ký Hiệp định Genève.",
+    "image": "/images/1954.jpg",
+    "details": "Đây là thắng lợi vĩ đại của nhân dân Việt Nam dưới sự lãnh đạo của Đảng và Chủ tịch Hồ Chí Minh, mở ra kỷ nguyên mới cho dân tộc."
+  },
+  {
+    "id": 7,
+    "year": "1969",
+    "title": "Chủ tịch Hồ Chí Minh qua đời",
+    "location": "Hà Nội",
+    "description": "Ngày 2/9/1969, Bác Hồ từ trần, để lại niềm tiếc thương vô hạn.",
+    "image": "/images/1969.jpg",
+    "details": "Bác Hồ ra đi để lại di sản tư tưởng, đạo đức, phong cách – ngọn đuốc soi đường cho cách mạng Việt Nam và cho toàn dân tộc."
+  }
+]
