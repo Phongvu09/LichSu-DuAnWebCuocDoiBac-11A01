@@ -24,7 +24,7 @@ import TDD from "../../assets/GD1/TDD.png";
 import TDTPT from "../../assets/GD1/TDTPT.png";
 import TKSTK from "../../assets/GD1/TKSTK.png";
 import TQHH from "../../assets/GD1/TQHH.png";
-import TTHP from "../../assets/GD1/TTHP.JPG";
+import TTHP from "../../assets/GD1/TTHP.jpg";
 import TTHPV from "../../assets/GD1/TTHPV.png";
 
 
