@@ -5,7 +5,6 @@ import bia from "../../assets/home/bia-trang-chu.png";
 import anh1 from "../../assets/home/anh1.jpg";
 import anh2 from "../../assets/home/anh2.JPG";
 import anh3 from "../../assets/home/anh3.JPG";
-import anh4 from "../../assets/home/anh4.jpg";
 import anh5 from "../../assets/home/anh5.jpg";
 import anh6 from "../../assets/home/anh6.jpg";
 import bgSlideshow from "../../assets/home/bia-trang-chu.png"; // ảnh nền chung cho vùng about
