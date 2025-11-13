@@ -127,7 +127,7 @@ export default function Header() {
             {/* --- Hàng 1: Logo + Title --- */}
             <div className="header-row header-top">
                 <Link to="/" className="logo-area" onClick={() => setMenuOpen(false)}>
-                    <img src="/src/assets/icons/logo.png" alt="logo" className="logo-img" />
+                    {/* <img src="/src/assets/icons/logo.png" alt="logo" className="logo-img" /> */}
                     <div className="logo-text">
                         <div className="site-title">Hành Trình Cuộc Đời Bác Hồ</div>
                         <div className="site-sub">Tư liệu — Dòng thời gian — Học tập</div>
