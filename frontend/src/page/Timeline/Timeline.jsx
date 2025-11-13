@@ -18,7 +18,9 @@ export default function Timeline() {
 
     return (
         <div className="timeline-container">
-            <h1 className="timeline-heading">Hành Trình Cuộc Đời Bác Hồ</h1>
+            <h1 className="timeline-heading">    QUÁ TRÌNH HOẠT ĐỘNG CÁCH MẠNG </h1>
+            <h1 className="timeline-heading">    CỦA CHỦ TỊCH HỒ CHÍ MINH</h1>
+
             <p className="timeline-intro">
                 Từng dấu mốc ghi lại hành trình vĩ đại của Chủ tịch Hồ Chí Minh —
                 từ tuổi thơ tại Nghệ An đến khi trở thành vị lãnh tụ vĩ đại của dân tộc Việt Nam.

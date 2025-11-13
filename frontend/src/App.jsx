@@ -9,6 +9,10 @@ import Rewards from "./page/Rewards/Rewards.jsx";
 import Contact from "./page/Contact/Contact.jsx";
 import Biography from "./page/Biography/Biography.jsx";
 import TimelineDetail from "./page/TimelineDetail/TimelineDetail.jsx";
+import Legacy_TTHCM from "./page/Legacy/Legacy-TTHCM.jsx";
+import LegacyWorld from "./page/Legacy/Legacy-World.jsx";
+import Legacy_DSVVHDD from "./page/Legacy/Legacy-DSVVHDD.jsx";
+
 import "./App.css";
 
 function App() {
@@ -25,6 +29,9 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/timeline/:id" element={<TimelineDetail />} />
           <Route path="/biography" element={<Biography />} />
+          <Route path="/legacy-tthcm" element={<Legacy_TTHCM />} />
+          <Route path="/legacy-world" element={<LegacyWorld />} />
+          <Route path="/legacy-dsvvhdd" element={<Legacy_DSVVHDD />} />
 
 
         </Routes>

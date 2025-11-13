@@ -26,56 +26,78 @@
 .hero {
     width: 100%;
     height: 100vh;
-    /* full màn hình */
     position: relative;
     overflow: hidden;
     margin-top: 20px;
-    /* cách header nhiều hơn 1 chút */
     margin-bottom: 2rem;
-    /* gần phần sau hơn */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5d0b6;
 }
 
 .hero-image {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
     object-position: center center;
-    filter: brightness(92%) contrast(105%);
     user-select: none;
 }
 
-/* ===== ABOUT SECTION ===== */
+/* ===== ABOUT SECTIONS ===== */
 .section {
-    padding: 2rem 0;
-    /* giảm khoảng cách giữa các section */
+    padding: 2rem 8%;
 }
 
+/* === about-wrapper chung === */
 .about-wrapper {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    min-height: 100vh;
+    min-height: 600px;
 
-    /* Ảnh nền full màn hình */
+    padding: 0 0rem;
+    box-sizing: border-box;
+    color: #fff;
+
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    /* không bị cố định gây mất nền */
-
-    padding: 4rem 8%;
-    color: #f9f5ef;
     box-shadow: inset 0 0 80px rgba(0, 0, 0, 0.4);
 }
 
-/* Ảnh slideshow bên trái */
+/* === Riêng section about có ảnh nền full ngang === */
+.about-bg-section>.about-wrapper {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+/* Container nội dung căn giữa */
+.about-content {
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 2rem;
+    box-sizing: border-box;
+}
+
+/* Ảnh bên trái */
 .about-left {
     position: relative;
-    /* flex: 1 1 50%; */
+    flex: 1;
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
 }
 
 .about-image {
@@ -83,69 +105,93 @@
     max-width: 700px;
     height: auto;
     object-fit: cover;
-    border-radius: 0;
+    border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
     user-select: none;
-    z-index: 1;
+    transition: transform 0.3s ease;
 }
 
-/* Nút điều hướng slide */
+.about-image:hover {
+    transform: scale(1.02);
+}
+
+/* Nút điều hướng */
 .nav-btn {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: transparent;
+    background: rgba(255, 255, 255, 0.6);
     border: none;
-    font-size: 2.5rem;
-    color: #fff;
+    font-size: 1.5rem;
     cursor: pointer;
-    opacity: 0;
-    transition: opacity 0.3s;
-    z-index: 2;
+    padding: 10px 15px;
+    border-radius: 50%;
+    transition: background 0.3s;
+    z-index: 10;
 }
 
-.about-left:hover .nav-btn {
-    opacity: 1;
+.nav-btn:hover {
+    background: rgba(255, 255, 255, 0.9);
 }
 
 .nav-btn.left {
-    left: 20px;
+    left: -40px;
 }
 
 .nav-btn.right {
-    right: 20px;
+    right: -40px;
 }
 
-/* Dấu chấm bên dưới ảnh */
+/* Dots */
 .dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
     position: absolute;
     bottom: 15px;
     left: 50%;
     transform: translateX(-50%);
-    display: flex;
-    gap: 0.6rem;
-    z-index: 2;
+    z-index: 10;
 }
 
 .dot {
-    width: 12px;
-    height: 12px;
-    background-color: rgba(255, 255, 255, 0.3);
+    height: 10px;
+    width: 10px;
+    margin: 0 5px;
+    background-color: #bbb;
     border-radius: 50%;
-    transition: background-color 0.3s ease;
+    display: inline-block;
     cursor: pointer;
+    transition: background-color 0.3s;
 }
 
 .dot.active {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: #fff;
 }
 
-/* Chữ bên phải */
+/* Ảnh aboutUs bên phải */
+.about-us-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-us-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    object-fit: cover;
+    user-select: none;
+}
+
+/* Phần chữ bên phải (section 2) */
 .about-right {
-    flex: 1 1 40%;
-    text-align: left;
+    flex: 1;
+    margin-left: 2rem;
     color: #fff;
-    padding-left: 2rem;
 }
 
 .about-right h2 {
@@ -166,26 +212,32 @@
         margin-top: 70px;
     }
 
+    .section {
+        padding: 2rem 1.5rem;
+    }
+
     .about-wrapper {
-        flex-direction: column;
-        text-align: center;
-        padding: 3rem 1.5rem;
         min-height: auto;
     }
 
-    .about-left {
-        width: 100%;
-        margin-bottom: 2rem;
+    .about-content {
+        flex-direction: column;
+        padding: 0;
+        gap: 1.5rem;
     }
 
-    .about-image {
-        width: 100%;
-        height: auto;
-    }
-
+    .about-left,
+    .about-us-container,
     .about-right {
-        padding-left: 0;
-        color: #fff;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .about-image,
+    .about-us-image {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
     }
 
     .about-right h2 {
@@ -209,154 +261,101 @@
     }
 }
 
-.home {
+.about-image {
     width: 100%;
-    overflow-x: hidden;
-}
-
-/* === HERO === */
-.hero {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    /* chiếm hết chiều cao màn hình */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
-    /* để nếu ảnh không đủ vẫn có nền */
-    overflow: hidden;
-}
-
-.hero-image {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    /* ✅ hiển thị toàn bộ ảnh, không bị mất phần nào */
-    object-position: center center;
-    /* căn giữa ảnh */
-}
-
-/* Nếu bạn muốn ảnh luôn full chiều ngang, có thể thử thêm tuỳ chọn này:
-.hero-image {
-  object-fit: cover; 
-  object-position: center center;
-}
-*/
-
-/* === ABOUT === */
-.section {
-    padding: 50px 5%;
+    max-width: 700px;
+    /* giữ max rộng */
+    aspect-ratio: 16 / 9;
+    /* giữ tỉ lệ 16:9 cố định */
+    object-fit: cover;
+    /* cắt ảnh đầy khung, không méo */
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    user-select: none;
+    transition: transform 0.3s ease;
 }
 
 .about-wrapper {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    width: 100vw;
+    /* full viewport width */
+    padding: 0;
+    /* không padding, sát lề */
+    margin: 0;
+    /* không margin */
+    box-sizing: border-box;
     background-size: cover;
     background-position: center;
-    padding: 50px;
-    border-radius: 20px;
     color: #fff;
-    background-blend-mode: multiply;
-    background-color: rgba(0, 0, 0, 0.3);
+    min-height: 600px;
+}
+
+.about-left,
+.about-right {
+    padding: 0;
+    /* sát lề trong mỗi phần */
 }
 
 .about-left {
-    position: relative;
-    flex: 1;
+    flex: 0 0 45%;
+    /* chiếm 45% */
     display: flex;
     justify-content: flex-start;
-    align-items: center;
+    /* ép sát trái */
 }
 
-
-.about-image:hover {
-    transform: scale(1.02);
-}
-
-.nav-btn {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: rgba(255, 255, 255, 0.6);
-    border: none;
-    font-size: 1.5rem;
-    cursor: pointer;
-    padding: 10px 15px;
-    border-radius: 50%;
-    transition: background 0.3s;
-}
-
-.nav-btn:hover {
-    background: rgba(255, 255, 255, 0.9);
-}
-
-.nav-btn.left {
-    left: -40px;
-}
-
-.nav-btn.right {
-    right: -40px;
-}
-
-.dots {
-    display: flex;
-    justify-content: center;
-    margin-top: 15px;
-}
-
-.dot {
-    height: 10px;
-    width: 10px;
-    margin: 0 5px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.dot.active {
-    background-color: #fff;
+.about-left .about-image {
+    width: 100%;
+    aspect-ratio: 12 / 9;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    user-select: none;
+    transition: transform 0.3s ease;
 }
 
 .about-right {
-    flex: 1;
-    margin-left: 50px;
-    color: #fff;
-}
-
-.about-right h2 {
-    font-size: 2rem;
-    margin-bottom: 15px;
-    color: #f4e1c1;
-}
-
-.about-right p {
-    line-height: 1.6;
-    font-size: 1.1rem;
-}
-
-.about-left {
-    position: relative;
-    flex: 1;
+    flex: 0 0 60%;
+    /* chiếm 55% */
     display: flex;
-    justify-content: flex-start;
-    /* để ảnh sát bên trái */
+    margin-left: 10px;
+    justify-content: flex-end;
+    /* ép sát phải */
     align-items: center;
-
 }
 
-.about-image {
+.about-right img {
     width: 100%;
-    /* chiếm 70% chiều rộng vùng about-left */
+    max-width: none;
+    /* không giới hạn max-width */
     aspect-ratio: 16 / 9;
-    /* giữ tỉ lệ 16:9 cố định */
     object-fit: cover;
-    /* cắt ảnh lấp đầy khung mà không méo */
     border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-    transition: transform 0.4s ease, opacity 0.4s ease;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
     user-select: none;
+}
+
+.about-right img {
+    width: 100%;
+    max-width: none;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    user-select: none;
+    margin: 0;
+    /* chắc chắn không có margin */
+    padding: 0;
+    /* chắc chắn không có padding */
+    display: block;
+    /* tránh khoảng cách dưới ảnh */
+}
+
+.about-right {
+    flex-grow: 1;
+    /* cho phép mở rộng hết không gian còn lại */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 0;
 }

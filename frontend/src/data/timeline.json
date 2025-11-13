@@ -1,65 +1,446 @@
+
 [
   {
     "id": 1,
-    "year": "1911",
-    "title": "Ra đi tìm đường cứu nước",
-    "location": "Bến Nhà Rồng, Sài Gòn",
-    "description": "Ngày 5/6/1911, Nguyễn Tất Thành rời Tổ quốc để tìm con đường cứu dân, cứu nước.",
-    "image": "/images/1911.jpg",
-    "details": "Người làm phụ bếp trên tàu Latouche-Tréville, bắt đầu hành trình bôn ba khắp năm châu bốn bể để tìm đường giải phóng dân tộc Việt Nam."
+    "year": "Giai đoạn 1 (Trước 1911)",
+    "title": " Trước ra đi tìm đường cứu nước",
+    "location": "Việt Nam",
+    "description": "",
+    "stage1":{
+      "title":"I.Thời niên thiếu của Bác - Thời kì khổ cực giúp tạo nên con người kiên cường",
+      "location": "Việt Nam",
+      "detail":[
+     { 
+        "type":"text",
+        "content":"Vào những năm cuối của thế kỉ XIX, sau hai bản hiệp ước Harmand (1883) và hiệp ước Patenôtre (1884) do nhà Nguyễn kí với thực dân Pháp, đất nước bị chia cắt thành ba xứ là Bắc Kỳ (Tonkin), Trung Kỳ (Annam), Nam Kỳ (Cochinchine) dưới ba chế độ khác nhau nhưng đều do Pháp quản lý hoặc thao túng. Đất nước lúc này chìm ngập trong khủng hoảng, xã hội nông dân khốn khổ, bị bóc lột nặng nề bởi những chính sách đô hộ hà khắc của thực dân Pháp cùng với những mâu thuẫn xã hội gay gắt và các phong trào đấu tranh diễn ra liên miên với nhiều hình thức khác nhau. Thực trạng lúc này của đất nước cũng được miêu tả trong bài thơ Chạy giặc của Nguyễn Đình Chiểu: "
+      },
+      { 
+        "type":"poem",
+     "content":"” Tan chợ vừa nghe tiếng súng Tây|Một bàn cờ thế phút sa tay|Bỏ nhà lũ trẻ lơ xơ chạy|Mất ổ bầy chim dáo dác bay|Bến Nghé của tiền tan bọt nước|Ðồng Nai tranh ngói nhuốm màu mây|Hỏi trang dẹp loạn rày đâu vắng?|Nỡ để dân đen mắc nạn này!”|"
+      },
+      { 
+        "type":"text",
+        "content":"Trong bối cảnh đất nước hỗn loạn như vậy, nhân dân đã phải trải qua những năm tháng sống trong điều kiện nghèo túng. Gia đình của Nguyễn Sinh Cung cũng không khấm khá gì hơn, nguồn thu nhập của gia đình năm người chủ yếu phụ thuộc vào nghề dệt của mẹ và dạy học của cha. Ngay từ những năm tháng tuổi thơ phải sống trong hoàn cảnh khốn khó đã giúp Người hiểu được nỗi khó khăn của người nghèo và sự vất vả của nhân dân khi phải sống trong cảnh “ăn bữa nay, lo bữa mai “."
+      },
+      { 
+        "type":"text",
+        "content":"Năm 1894, Nguyễn Sinh Sắc (cha của Nguyễn Sinh Cung) tham gia kì thi Hương và đỗ cử nhân tại trường thi Nghệ An. Một năm sau (1895), ông đem theo vợ cùng với hai người con trai  vào kinh đô Huế để tham gia thi Hội, những năm này giữa Nghệ An và Huế không có đường xe lửa hay xe ngựa, ô tô nên cả gia đình phải đi bộ trong nửa tháng. Thế nhưng ông lại thi trượt và phải chờ đến ba năm sau để được thi lại. Trong khoảng thời gian đó, ông xin làm hành tẩu bộ Hộ để có tiền nuôi gia đình."
+      },
+      { 
+        "type":"image",
+        "src":"NSX",
+        "alt":"Nguyễn Sinh Sắc(1862 - 1929)"
+      },
+      { 
+        "type":"image",
+        "src":"NSX",
+        "alt":"Ngôi nhà Bác cùng anh trai và cha ở trọ tại Huế (1898-1901, làng Dương) "
+      },
+      { 
+        "type":"text",
+        "content":" Năm 1898, ông thi lại nhưng vẫn trượt, nhờ sự vận động của ông Hồ Sĩ Tạo với các quan lại đồng liêu quen biết ở triều đình Huế, Nguyễn Sinh Sắc được nhận vào học Quốc Tử Giám ở Huế, chờ đợi kỳ thi tiếp theo. Lúc này gia đình ông vô cùng túng khó. Gần cuối năm 1898, theo lời mời của ông Nguyễn Sĩ Độ, ông Nguyễn Sinh Sắc về dạy học cho một số học sinh ở làng Dương Nỗ, tại ngôi nhà của ông Nguyễn Sĩ Khuyến (em trai ông Nguyễn Sĩ Độ), xã Phú Dương, huyện Phú Vang, tỉnh Thừa Thiên, cách thành phố Huế 6km. Nguyễn Sinh Cung cùng anh theo cha về đây và bắt đầu học chữ Hán tại lớp học của cha. Tại đây, cậu bé Cung bắt đầu bộc lộ thiên tư hơn người, học đâu nhớ đó và cũng là học sinh xuất nhất lớp."
+      },
+      { 
+        "type":"image",
+        "src":"NTHNVX",
+        "alt":"Tranh: Nguyễn Tất Thành đang nghe các bậc cha chú đàm đạo việc nước "
+      },
+      { 
+        "type":"text",
+        "content":" Trước kỳ thi Hội (1901), với tư cách là một quan chức của triều đình Huế, ông còn tham dự Hội đồng giám khảo chấm thi Hương tại Thanh Hóa năm 1900. Thế nhưng trong thời gian ông vào Thanh Hóa chấm thi và dẫn theo con trai cả Khiêm, bà Hoàng Thị Loan ở Huế ốm nặng do phải làm việc đến kiệt quệ trong thời gian dài. Bấy giờ bà lại còn đang mang thai người con thứ tư. Lúc này chỉ có cậu bé Cung ở cạnh. Tuy được mọi người xung quanh tận tình giúp đỡ, bà Loan không qua khỏi và mất sau khi sinh con trai út.Cậu bé sau khi ra đời cũng bệnh tật triền miên nên cụ Sắc đành gửi hai đứa con về lại quê ngoại ở Nghệ An. Nguyễn Sinh Cung – lúc này chỉ mới 11 tuổi đã phải bồng em trai khắp nơi đi xin sữa nhưng em trai cũng không qua khỏi. Việc mất cả mẹ và em liên tiếp trong khoảng thời gian ngắn đã để lại vết thương lớn  trong long cậu bé Cung. Những trải nghiệm đau thương trong quá khứ giúp cậu nhìn nhận rõ hơn về cuộc sống của nhân dân dưới sự cai trị thực dân Pháp và cũng góp phần định hình nên tính cách kiên cường, bất khuất sau này. "
+      },
+      { 
+        "type":"image",
+        "src":"HTL",
+        "alt":"Hoàng Thị Loan (1868-1901)"
+      },
+      { 
+        "type":"image",
+        "src":"NOGDB",
+        "alt":"Nhà số 112, đường Mai Thúc Loan (Huế), nơi gia đình bác ở  "
+      }
+    ]
+    },
+    "stage2":{
+      "title":"II.Giai đoạn từ năm 1901 - 1906",
+      "location": "Việt Nam",
+      "detail":[
+    { 
+        "type":"text",
+        "content":"  Kỳ thi Hội khoa Tân Sửu (1901), ông Sắc cuối cùng đỗ Phó bảng và trở về quê nội làm “lễ vào làng” cho hai người con trai. Người anh được đặt tên là Tất Đạt, còn người em được đặt là Tất Thành. Từ đây trở về sau, Người đã gắn liền với cái tên Nguyễn Tất Thành – làm gì cũng thành công.  Tại quê nhà, Nguyễn Tất Thành được gửi đến học chữ Hán với các thầy giáo Hoàng Phan Quỳnh, Vương Thúc Quý và sau là thầy Trần Thân. Các thầy đều là những người yêu nước. Nguyễn Tất Thành được nghe nhiều chuyện qua các buổi bàn luận thời cuộc giữa các thầy với các sĩ phu yêu nước. Nguyễn Tất Thành dần dần hiểu được thời cuộc và sự day dứt của các bậc cha chú trước cảnh nước mất, nhà tan. Trong những người mà ông Sắc thường gặp gỡ có cụ Phan Bội Châu. Giống như nhiều nhà Nho yêu nước lúc bấy giờ, Phan Bội Châu cũng day dứt trước hiện tình đất nước và số phận của dân tộc. Con người nhiệt huyết ấy trong lúc rượu say vẫn thường ngâm hai câu thơ của Viên Mai:"
+      },
+      { 
+        "type":"poem",
+        "content":"“Mỗi phạn bất vong duy trúc bạch,|Lập thân tối hạ thị văn chương”."
+      },
+      { 
+        "type":"text",
+        "content":"Chỉ vỏn vẹn hai câu thơ đã tác động nhiều đến suy nghĩ của Nguyễn Tất Thành và góp phần định hướng cho người thiếu niên sớm có những hoài bão lớn. Khoảng tháng 9 năm 1905, Nguyễn Tất Thành và Nguyễn Tất Đạt được cha xin cho theo học lớp dự bị Trường tiểu học Pháp – bản xứ ở thành phố Vinh. Chính tại ngôi trường này, Nguyễn Tất Thành lần đầu tiên được tiếp xúc với khẩu hiệu “Liberté, Égalité, Fraternité” (Tự do – Bình đẳng – Bác ái). Những trải nghiệm tại ngôi trường này giúp Nguyễn Tất Thành mở rộng thêm tầm nhìn và nhận thức về thực trạng của các nước thuộc địa lúc bấy giờ. "
+      },
+      { 
+        "type":"image",
+        "src":"TTHP",
+        "alt":"Trường tiểu học Pháp – bản xứ ở thành phố Vinh"
+      }
+    ]
+    },
+    "stage3":{
+      "title":"III.Giai đoạn từ năm 1906 - 1909",
+      "location": "Việt Nam",
+      "detail":[
+    { 
+        "type":"text",
+        "content":"Năm 1906, Nguyễn Tất Thành theo cha vào Huế lần thứ hai để vào học tại trường tiểu học Pháp-Việt Đông Ba. Tại đây, ông trải qua các niên khóa 1906-1907 lớp nhì và 1907-1908 lớp nhất. Trong kỳ thi primaire (tương đương tốt nghiệp tiểu học). Ông Lê Thiện – bạn học năm xưa của Nguyễn Tất Thành kể lại:" 
+    },
+      { 
+        "type":"quote",
+        "content":"“Khi học lớp nhất, trò Cung là một trong 10 học sinh giỏi nhất lớp, được chọn đi thi vượt cấp. Bấy giờ chúng tôi học thầy Lê Nguyên Lương kiêm hiệu trưởng dạy Pháp văn và cụ Hoàng Thông dạy Hán, thầy Choquet bên Quốc Học sang dạy địa dư. Trò Cung các môn đều khá, Hán văn thì không ai bì kịp, nhiều bài luận được thầy giáo khen hay trước lớp.”"
+      },
+      { 
+        "type":"image",
+        "src":"TTHPV",
+        "alt":"Trường tiểu học Pháp-Việt Đông Ba niên khóa 1907-1908"
+      },
+      { 
+        "type":"text",
+        "content":"  Tháng 4 năm 1908, do bị mất mùa liên tiếp 3 năm, nông dân sáu huyện của tỉnh Thừa Thiên kéo nhau về kinh thành, bà con vây quanh tòa Khâm sứ ở cầu Tràng Tiền để đòi giảm sưu, giảm thuế, kinh đô Huế lúc này vô cùng hỗn loạn. Nguyễn Tất Thành cũng tham gia sự kiện này. Đây là lần đầu tiên Người tham gia một cuộc đấu tranh, là khởi đầu cho một cuộc đời không đấu tranh giành lại độc lập đất nước Việt Nam."
+    },
+    { 
+        "type":"image",
+        "src":"TKSTK",
+        "alt":"Tòa khấm sứ Trung Kì nơi Nguyễn Tất Thành tham gia đấu tranh"
+      },
+      { 
+        "type":"text",
+        "content":"  Trong suốt giai đoạn theo học tại trường Quốc Học, Người được nghe những câu chuyện về nước Pháp phồn hoa, xa xôi từ người thầy từng theo học tại trường thuộc địa Paris, về việc thư viện ở đấy có các tài liệu về những cuộc cách mạng có ở khắp mọi nơi trên thế giới. Ở trường cũng có những người yêu nước như thầy Hoàng Thông, thầy Lê Văn Miến. Cùng thời gian đó, Nguyễn Tất Thành còn được nghe kể về những hành động của những ông vua yêu nước như Thành Thái, Duy Tân và những bàn luận về con đường cứu nước trong các sĩ phu yêu nước. Học với thầy Miên, vào cuối mỗi tiết học, Tất Thành thường được nghe thầy kể nhiều chuyện hấp dẫn. Có hôm, thầy kể rằng: "
+      },
+      { 
+        "type":"quote",
+        "content":"” Ở bên Pháp cũng có người nghèo, đêm đêm, các cô gái Pháp nghèo phải ra vườn Lúcxămbua làm tiền để kiếm sống; ông già, bà lão không nơi nương tựa, chống gậy đi dọc theo các đường phố sục sạo các thùng rác tìm những thứ gì còn ăn được thì ăn... Trong các thư viện, các bảo tàng của Pháp có nhiều cổ vật, nhiều sách vở quý. Đặc biệt là người đọc có thể đến thư viện đó đọc những quyển sách nói về cách mạng Pháp và cách mạng thế giới. Người Pháp ở Pháp khác người Pháp ở Việt Nam. Người Pháp ở Pháp từ ông viện Hàn lâm xuống cho đến người dân lao động đều rất quý trọng người Việt Nam, miễn là người Việt Nam có tư cách, biết tự trọng, làm việc giỏi, học hành chăm chỉ.”."
+      },
+      { 
+        "type":"text",
+        "content":"  Những câu chuyện ngắn của thầy Miên đã giúp Nguyễn Tất Thành nhận ra được rằng dù ở bất cứ nơi đâu, cũng đều có người giàu và nghèo, sự đối lập ấy không bao giờ thay đổi dù có ở một quốc gia tiên tiến, hiện đại đến đâu. Trong những năm tháng theo học tại Huế, Nguyễn Tất Thành luôn chăm chỉ học tập, nỗ lực để có thể đạt đến ước mơ của mình, bạn học của Tất Thành là Lê Thiện kể lại rằng: "
+      },
+      { 
+        "type":"quote",
+        "content":"“... Sức học của anh Cung  ở Quốc học xuất sắc hơn trước. Trí nhớ của anh phát triển một cách lạ thường. Thầy giáo mới viết lên bảng một bài Récitation (Học thuộc lòng), anh đọc một vài lần, thầy giáo lau sạch bài trên bảng, anh có thể đọc lại được. Khi làm luận, anh hay chêm những câu văn vấn. Có một lần trả luận, thầy Queignec (Quâynhéc) cầm bài của anh Cung giới thiệu với học sinh cả lớp rằng: “Cung a traité le sujet de redaction en vers. C'est un élève intelligent et vraiment distingué” (Trò Cung đã làm cái đề luận này bằng thơ; đây là một học sinh thông minh và xuất chúng).” "
+      },
+       { 
+        "type":"image",
+        "src":"TQHH",
+        "alt":"Trường Quốc Học Huế niên khóa 1908-1909"
+      }
+    ]
+    },
+    "stage4":{
+      "title":"IV. Giai đoạn từ năm 1909 – 1911 – Hành trình Nam tiến và Ra đi tìm đường cứu nước",
+      "location": "Việt Nam",
+      "detail":[
+    { 
+        "type":"text",
+        "content":"Khoảng tháng 6 năm 1909, Nguyễn Tất Thành rời Trường Quốc học Huế theo cha vào Bình Định, khi cha ông được bổ nhiệm chức Tri huyện Bình Khê (1907). Trong thời gian ở Bình Khê, Nguyễn Tất Thành thường được cha dẫn đi thăm các sĩ phu trong vùng và thăm di tích lịch sử vùng Tây Sơn, từ đây đã giúp Nguyễn Tất Thành học hỏi thêm được nhiều kinh nghiệm từ các thế hệ chiến sĩ cách mạng tiền bối. Cuối năm 1909, Nguyễn Tất Thành được cha gửi học tiếp lớp nhất tại Trường tiểu học Pháp – Việt Quy Nhơn.Ông Nguyễn Sinh Sắc hiểu khả năng và chí hướng người con trai thứ của mình nên đã tạo điều kiện cho anh được tiếp tục học lên. Đến tháng 5 năm 1910. Nguyễn Tất Thành sau khi hoàn thành chương trình tiểu học quyết định không theo cha về Huế mà vào Phan Thiết dạy thể dục và chữ Quốc ngữ cho học sinh tại Trường Dục Thanh của Hội Liên Thành - vốn là một tổ chức được các sĩ phu yêu nước thời bấy giờ thành lập năm 1908. Trong khoảng thời gian dạy học tại trường Dục Thanh, Nguyễn Tất Thành đã gặp gỡ nhiều nhà nho yêu nước đương thời, tham gia vào các công tác bí mật, đảm nhận công việc liên lạc và nuôi dưỡng ý chí đuổi thực dân Pháp, giải phóng đất nước. Ngoài giờ lên lớp, Nguyễn Tất Thành tìm những cuốn sách quý trong tủ sách của cụ Nguyễn Thông để đọc. Lần đầu tiên Người được tiếp cận với những tư tưởng tiến bộ của các nhà khai sáng Pháp như Rousseau, Voltaire, Montesquieu. Những tư tưởng này đã giúp Nguyễn Tất Thành có được quan điểm của riêng mình về đường lối cứu nước, ông tuy ngưỡng mộ Đề Thám (Hoàng Hoa Thám), Phan Châu Trinh và Phan Bội Châu nhưng lại chưa thật sự tán thành con đường giải phóng đất nước của họ. Sự tiếp cận với những tư tưởng mới cùng khát khao tìm ra một con đường đúng đắn để giải phóng đất nước đó càng thôi thúc anh tìm đường đi ra nước ngoài. "
+      },
+      { 
+        "type":"image",
+        "src":"TDTPT",
+        "alt":"Trường Dục Thanh (Phan Thiết)8"
+      },
+      { 
+        "type":"text",
+        "content":"  Tháng 2 năm 1911, nhờ vào sự giúp đỡ của Hội Liên Thành, Nguyễn Tất Thành có cơ hội được đến Sài Gòn – là trung tâm hành chính, thương mại và giao lưu quốc tế sầm uất nhất thời bấy giờ. Anh đi ghe bầu theo ông Hồ Tá Bang – người có công lớn thành lập “Liên Thành thương quán”, để vào Sài Gòn, nơi được mệnh danh là “Nam Kỳ trực trị”. Tại đây, Nguyễn Tất Thành theo học trường Bá Nghệ, trường đào tạo công nhân hàng hải và công nhân chuyên nghiệp cho xưởng Ba Son (bây giờ là trường Cao đẳng Kỹ thuật Cao Thắng), vừa đi bán báo ở khu vực thương cảng để kiếm sống và đồng thời tìm hiểu thêm về đời sống công nhân. Thế nhưng anh chỉ học được vỏn vẹn 3 tháng, anh quyết định sẽ tìm một công việc trên một con tàu viễn dương để được ra nước ngoài học hỏi tinh hoa của phương Tây – điều mà anh đã luôn khát khao từ những năm tháng còn học tại Huế: "
+    },
+    { 
+        "type":"quote",
+        "content":"“Sài Gòn mới mở một trường dạy nghề ba năm chuyên đào tạo công nhân hàng hải và công nhân cơ khí cho xưởng Ba Son. Trường chật hẹp, trên đầu các thợ học việc chằng chịt những dây cua-roa. Anh Nguyễn Tất Thành xin vào học ở trường này. Anh muốn trở thành một công nhân đứng máy. Người thanh niên ấy mang đến Sài Gòn bầu nhiệt huyết và cái mới trong cách nghĩ và cách sống... Tiếng gọi của lý tưởng không cho anh Thành học hết ba năm ở trường dạy nghề. Mới học ba tháng, anh mới học 3 tháng, ....”"
+  },
+    { 
+        "type":"image",
+        "src":"NBTSG",
+        "alt":"Căn nhà Bác ở tại Sài Gòn (Số 5, đường Châu Văn Liêm, phường Chợ Lớn)"
+      },
+      { 
+        "type":"text",
+        "content":"  Thế nhưng để được đi Pháp lúc bấy giờ không phải là chuyện dễ dàng để mà có thể thực hiện mà không phải nghĩ ngợi gì:"
+      },
+      { 
+        "type":"quote",
+        "content":"“Nhưng sang Pháp đâu phải chuyện cứ muốn là được. Trước tiên phải vào Sài Gòn đã. Anh vào Sài Gòn, xin vào Trường Bá Nghệ cũng gọi là Trường Máy ở giữa chợ Mới và chợ Cũ, gần chùa Chà. Trường này đào tạo nhân viên hàng hải và công nhân chuyên nghiệp cho xưởng Ba Son. Học ở đây vừa khỏi bị nghi ngờ, vừa có cơm ăn, lại vừa biết ít nhiều về máy móc... Lệ thường là phải học ba năm mới thành nghề. Nhưng Anh Thành không định học cho đến lúc thành nghề. Chừng ba tháng sau, tìm được một chân phụ bếp trên chiếc tàu đô đốc Latouche Tréville của hãng Vận tải hợp nhất; thế là anh lẳng lặng ra đi”."
+      },
+      { 
+        "type":"text",
+        "content":"  Bất chấp mọi khó khăn và những rủi ro của việc bị các mật thám, tai mắt của Pháp để ý, Nguyễn Tất Thành không từ bỏ ý định của mình. Vào ngày 5 tháng 6 năm 1911, từ Bến Nhà Rồng, Gia Định (nay là TP.HCM), người thanh niên tràn đầy hoài bão cách mạng mang tên Nguyễn Tất Thành vừa tròn 21 tuổi, lấy tên là Văn Ba đã xuống con tàu Amiral Latouche Tréville xin làm phụ bếp, quyết tâm ra đi tìm con đường cứu nước cho dân tộc. Đã trải nghiệm và thấu hiểu được những nguyên nhân không thành công của các phong trào yêu nước đầu thế kỷ XX của các bậc tiền bối, với nhãn quan chính trị và nhiệt huyết của tuổi trẻ, Nguyễn Tất Thành đã sang phương Tây để tìm hiểu các nước rồi trở về giúp đồng bào mình: “Tôi muốn đi ra nước ngoài xem nước Pháp và các nước khác. Sau khi xem xét họ làm như thế nào, tôi sẽ trở về giúp đồng bào chúng ta”. Từ chuyến tàu này, Nguyễn Tất Thành đã mở ra một chương mới trong cuộc đời cách mạng của mình. Trong hơn 30 năm bôn ba ở nước ngoài tiếp theo, người thanh niên ấy đã đi qua hơn 3 đại dương, 4 châu lục Á, Âu, Phi, Mỹ với gần 30 quốc gia khác nhau, gặp gỡ, tiếp xúc và học hỏi nhiều dân tộc, nền văn hóa khác nhau, … hiểu thấu bản chất của chủ nghĩa tư bản, đế quốc, nỗi thống khổ và số phận của dân tộc thuộc địa."
+      },
+       { 
+        "type":"image",
+        "src":"TDD",
+        "alt":"Tàu đô đốc Amiral Latouche Tréville"
+      },
+       { 
+        "type":"image",
+        "src":"BLBB",
+        "alt":"Bác làm bồi bàn trên tàu"
+      }
+    ]
+    }
+   
   },
   {
     "id": 2,
-    "year": "1920",
+    "year": "Giai đoạn 2 (1911 - 1920)",
     "title": "Xác định con đường cách mạng vô sản",
     "location": "Tours, Pháp",
     "description": "Nguyễn Ái Quốc tham dự Đại hội Đảng Xã hội Pháp, bỏ phiếu tán thành Quốc tế Cộng sản.",
-    "image": "/images/1920.jpg",
+    "image": "/images/1920",
     "details": "Sự kiện này đánh dấu bước ngoặt tư tưởng: Người khẳng định con đường giải phóng dân tộc Việt Nam là cách mạng vô sản theo chủ nghĩa Mác – Lênin."
   },
   {
     "id": 3,
-    "year": "1930",
+    "year": "Giai đoạn 3 (1920 - 1931)",
     "title": "Tham gia thành lập Đảng Cộng sản Việt Nam",
     "location": "Hồng Kông, Trung Quốc",
     "description": "Nguyễn Ái Quốc chủ trì Hội nghị hợp nhất các tổ chức cộng sản, khai sinh Đảng Cộng sản Việt Nam.",
-    "image": "/images/1930.jpg",
+    "image": "/images/1930",
     "details": "Ngày 3/2/1930, Cương lĩnh chính trị đầu tiên được thông qua, đánh dấu sự ra đời của Đảng Cộng sản Việt Nam – bước ngoặt vĩ đại của cách mạng nước ta."
   },
+  
   {
     "id": 4,
-    "year": "1945",
-    "title": "Cách mạng Tháng Tám thành công",
-    "location": "Hà Nội",
-    "description": "Dưới sự lãnh đạo của Đảng, nhân dân giành chính quyền về tay nhân dân.",
-    "image": "/images/1945.jpg",
-    "details": "Ngày 2/9/1945, tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+    "year": "Giai đoạn 4 (1931 - 1945)",
+    "location":"Hồng Kông - Hà Nội - Liên Xô - Việt Nam - Trung Quốc - Việt Nam",
+    "description":"",
+    "stage1":{
+      "title":"Bị bắt tại Hồng Kông và Cách mạng Tháng Tám thành công",
+      "location": "Hồng Kông - Hà Nội",
+      "detail":[
+      { 
+        "type":"text",
+        "content":"Vào những năm đầu thập niên 1930, thế giới chìm trong cơn chấn động chưa từng có: cuộc Đại khủng hoảng kinh tế (1929-1933) bùng nổ từ nước Mỹ phồn hoa, rồi như ngọn lửa dữ, lan nhanh sang toàn bộ châu Âu tư bản. Nhà máy đóng cửa, công nhân thất nghiệp, thương nhân phá sản… cả xã hội rơi vào vòng xoáy suy thoái và hoảng loạn.  Giữa cơn bão ấy, Đế quốc Pháp, vốn là một nước tư bản thực dân, không tự mình gánh chịu hậu quả mà lại trút toàn bộ gánh nặng lên vai các thuộc địa, trong đó có Việt Nam. Phụ thuộc chặt chẽ vào nền kinh tế Pháp, Việt Nam lập tức bị cuốn vào cơn khủng hoảng: ruộng đồng bỏ hoang, nhà máy ngừng chạy, hàng hóa khan hiếm, giá cả leo thang, còn người dân thì ngày một lầm than dưới ách bóc lột nặng nề."
+      },    
+      { 
+        "type":"text",
+        "content":"Trong bức tranh u ám ấy, mâu thuẫn giữa nhân dân Việt Nam và thực dân Pháp bùng lên dữ dội. Đói nghèo, áp bức và tuyệt vọng đã thổi bùng ngọn lửa đấu tranh. Từ những tiếng hô nhỏ lẻ trong bóng tối đến phong trào Xô viết Nghệ– Tĩnh vang dội, nơi người dân vùng lên giành lấy quyền sống và tự do của chính mình. Không chỉ riêng Việt Nam, ngọn lửa phản kháng ấy còn lan rộng khắp các thuộc địa khác trên thế giới, làm lung lay tận gốc hệ thống thống trị của chủ nghĩa thực dân. Và dường như cảm nhận được mối đe dọa, các cường quốc châu Âu như Anh và Pháp vội vã thắt chặt mạng lưới tình báo, đặc biệt ở châu Á – Đông Nam Á, để ngăn chặn “làn sóng đỏ” đang dâng lên từ Quốc tế Cộng sản. Một thời kỳ giông bão như mở ra, nơi mà nghèo đói, áp bức và khát vọng tự do cùng va đập, tạo nên những chương bi tráng trong lịch sử đấu tranh của các dân tộc thuộc địa."
+      },
+      { 
+        "type":"text",
+        "content":"Vào thời điểm ấy, một biến cố tưởng chừng nhỏ đã khơi nguồn cho chuỗi sự kiện chấn động: đặc phái viên của Quốc tế Cộng sản– Joseph Ducroux, bị Sở Mật thám Đông Dương bí mật đọc trộm thư từ liên lạc. Toàn bộ thông tin sau đó được chuyển cho cơ quan tình báo Anh, mở đầu cho một vụ truy quét quy mô lớn. Ngày 1 tháng 6 năm 1931, Ducroux cùng 16 đồng chí đang hoạt động tại Singapore bị bắt giữ. Từ đây, mạng lưới của Quốc tế Cộng sản ở châu Á bị rung chuyển; nhiều đầu mối quan trọng tại Trung Quốc và Hồng Kông bị lộ, trong đó có Nguyễn Ái Quốc, khi ấy đang hoạt động bí mật dưới cái tên Tống Văn Sơ."
+      },
+      { 
+        "type":"text",
+        "content":"Rạng sáng ngày 6 tháng 6 năm 1931, lúc kim đồng hồ vừa chừng hai giờ, cảnh sát bất ngờ ập vào ngôi nhà số 186 phố Tam Kung, Cửu Long. Họ bắt giữ Tống Văn Sơ với cáo buộc “tuyên truyền chống chính quyền Anh”, dựa trên Sắc lệnh cấm xuất bản tài liệu phản chính quyền năm 1914 của chính quyền thuộc địa Hồng Kông. Ông bị áp giải về nhà tù Victoria, nơi từng giam giữ nhiều nhân vật bị xem là “nguy hiểm cho đế quốc”. Thế nhưng, mọi thứ nhanh chóng vượt khỏi dự tính của họ. Sau khi thẩm tra, nhà chức trách Hồng Kông không tìm được bằng chứng nào chứng minh ông có liên hệ với Quốc tế Cộng sản hay vi phạm luật pháp Anh quốc. Dẫu vậy, nguy hiểm vẫn chưa qua. Tại Đông Dương, Toàn quyền Pháp René Robin, khi hay tin Nguyễn Ái Quốc bị bắt, lập tức gửi công văn cho chính quyền Anh ở Hồng Kông, yêu cầu dẫn độ ông về Đông Dương. Đổi lại, phía Pháp cam kết sẽ trao cho Anh một số tù nhân là đảng viên cộng sản Ấn Độ và Myammar- một cuộc mặc cả lạnh lùng trên bàn cờ chính trị giữa hai đế quốc."
+      },
+      { 
+        "type":"image",
+        "src":"TVS",
+        "alt":"Hình ảnh Tống Văn Sợ chụp tại sở Cảnh sát Hồng Kông"
+      },
+      { 
+        "type":"text",
+        "content":"Tuy nhiên, tình thế lúc ấy vô cùng rối rắm. Giữa Anh và Pháp khi đó không hề tồn tại một hiệp ước dẫn độ dành cho phạm nhân chính trị, nên chính quyền Hồng Kông- thuộc địa của Anh, không thể giao nộp Nguyễn Ái Quốc một cách hợp pháp. Sau sáu ngày tạm giam, họ buộc phải ra lệnh trục xuất ông khỏi Hồng Kông. Theo kế hoạch bí mật, ông sẽ bị áp giải cùng lính canh lên một con tàu Pháp, điểm đến được định sẵn: Việt Nam- nơi thực dân Pháp đang chờ sẵn. Đây là kết quả của một thỏa thuận ngầm giữa chính quyền Pháp và Tổng lãnh sự Pháp tại Hồng Kông. Thực chất, đó không khác gì một âm mưu thủ tiêu: bởi từ tháng 10 năm 1929, Tòa án Vinh (Nghệ An) đã kết án tử hình vắng mặt Nguyễn Ái Quốc. Nếu ông bị đưa trở lại Đông Dương, án tử sẽ lập tức được thi hành."
+      },
+      { 
+        "type":"text",
+        "content":"Nhưng âm mưu ấy không thể giấu mãi. Dưới sự hỗ trợ của Quốc tế Cộng sản, tin tức về vụ bắt giữ nhanh chóng bị rò rỉ. Ngày 19 tháng 6 năm 1931, tờ L’Humanité (Nhân đạo), cơ quan ngôn luận của Đảng Cộng sản Pháp, đã đăng tin về việc Tống Văn Sơ bị bắt ở Hồng Kông. Chỉ bốn ngày sau, ngày 23 tháng 6, tờ The Times (Anh) tiếp tục đăng bài cáo buộc chính quyền Hồng Kông đã bắt giữ Nguyễn Ái Quốc theo yêu cầu của Pháp, khiến vụ việc trở thành một đề tài chính trị gây chấn động dư luận châu Âu. Trước sức ép từ công chúng và báo giới, Bộ Thuộc địa Anh buộc phải lên tiếng. Họ cho rằng việc dẫn độ này vi phạm Sắc lệnh Trục xuất năm 1917, đồng thời yêu cầu mở cuộc điều tra. Đến ngày 10 tháng 7 năm 1931, một cuộc thẩm vấn bằng tiếng Anh được tiến hành."
+      },
+      { 
+        "type":"text",
+        "content":"Trong suốt buổi thẩm vấn, người tù bình tĩnh đến lạ thường. Ông phủ nhận danh tính Nguyễn Ái Quốc, khẳng định mình là Tống Văn Sơ, mang quốc tịch Trung Quốc, từng đến Pháp nhưng chưa từng tới Liên Xô, không liên hệ với Quốc tế Cộng sản và không quen biết Ducroux; ngoại trừ việc có một lần ký tên trên tấm danh thiếp tại nơi ở của Ducroux. Ông cũng kiên quyết phản đối việc bị trục xuất về Đông Dương, mà chỉ đồng ý rời đi nếu được đưa đến Anh quốc."
+      },
+      { 
+        "type":"text",
+        "content":"“Theo sử gia William Duiker, bản thân cuộc thẩm vấn này đã vi phạm luật trục xuất thời đó. Bởi lẽ, theo quy định, chính quyền phải xác minh nhân thân và nơi sinh của người bị trục xuất ngay sau khi bắt giữ, chứ không phải hơn một tháng sau như trường hợp Tống Văn Sơ. Thêm vào đó, người tiến hành lấy lời khai không phải là thẩm phán, mà là một viên chức Anh làm việc tại Vụ Hoa kiều Hồng Kông. Điều này càng làm dấy lên nghi ngờ về tính hợp pháp của toàn bộ vụ việc.”"
+      },
+      { 
+        "type":"text",
+        "content":"Trước tình thế ngàn cân treo sợi tóc ấy, tổ chức Cứu tế Đỏ Quốc tế- một cơ quan thuộc Quốc tế Cộng sản- đã nhanh chóng vào cuộc. Nhằm giải cứu Tống Văn Sơ, họ thuê luật sư Francis Henry Loseby, một người Anh có tư tưởng tiến bộ, để đảm nhiệm vai trò bào chữa và bảo vệ pháp lý. Ngay khi tiếp cận hồ sơ vụ việc, Loseby lập tức nhận ra mưu đồ của chính quyền thực dân. Ông cảnh báo thẳng thừng: nếu chính quyền Hồng Kông trục xuất Tống Văn Sơ, người này sẽ ngay lập tức bị Pháp bắt giữ khi vừa rời khỏi lãnh thổ Hồng Kông, và bị đưa về Đông Dương để thi hành bản án tử hình vắng mặt đã tuyên từ năm 1929. Với giọng điềm tĩnh nhưng dứt khoát, Loseby yêu cầu chính quyền Hồng Kông phải trả tự do cho thân chủ và cho phép ông được tự do rời đi đến nơi mình mong muốn."
+      },
+      { 
+        "type":"text",
+        "content":"Trước những lập luận sắc bén ấy, Thống đốc Hồng Kông William Peel ban đầu tỏ ra do dự. Nhưng sau nhiều lần trao đổi và chịu sức ép từ dư luận Anh, ông buộc phải chấp thuận đề nghị của Loseby. Trong bức điện mật gửi về Bộ Thuộc địa Anh ở London, Peel đề xuất thả Tống Văn Sơ với điều kiện ông phải rời khỏi Hồng Kông trong vòng bảy ngày. Vị thống đốc cũng nhấn mạnh: việc trục xuất về Đông Dương chẳng khác nào một “hành động dẫn độ trá hình”, hoàn toàn đi ngược lại với nguyên tắc công pháp Anh quốc- thứ mà người Anh luôn tự hào bảo vệ."
+      },
+      { 
+        "type":"text",
+        "content":"Thế nhưng, phía Pháp không dễ dàng từ bỏ. Nhận thấy cơ hội dẫn độ đang dần trôi tuột khỏi tay, chính quyền Đông Dương gia tăng áp lực ngoại giao, thúc giục Tổng lãnh sự Pháp tại Hồng Kông bằng mọi giá phải ngăn chặn việc phóng thích Tống Văn Sơ. Cuộc đấu trí giữa ba thế lực: Anh, Pháp và Quốc tế Cộng sản, bước sang giai đoạn căng thẳng nhất, khi mỗi bên đều tung ra những nước cờ quyết định trên bàn cờ chính trị quốc tế."
+      },
+      { 
+        "type":"text",
+        "content":"Đại sứ Pháp tại London là Jules Cambon tuyên bố với chính phủ Anh rằng:  ''Tống Văn Sơ (Nguyễn Ái Quốc) là một 'mối hiểm họa trên bình diện quốc tế và đề nghị không được thả tự ''. Đồng thời Bộ Ngoại giao Anh lúc đó cũng muốn giữ hợp tác với Pháp, để qua đó cả hai có thể cùng hợp tác trong hoạt động đàn áp nổi dậy trong khu vực Châu Á, khẳng định lại vị thế của bản thân tại khu vực, nên đề nghị phải trục xuất Tống Văn Sơ về Việt Nam theo như ý muốn của Pháp. Đứng trước lợi ích chính trị to lớn của các ông lớn Châu Âu, Peel buộc phải tống đạt lệnh trục xuất thứ hai. Để ngăn lệnh này, ngày 31 tháng 12 năm 1931, luật sư Loseby đệ đơn kiện yêu cầu đình quyền giam giữ (lệnh bảo thân) lên Tòa án Tối cao Hồng Kông – tòa án cao nhất trong hệ thống tư pháp Hông Kông, nhằm buộc vụ án phải được xét xử công khai. Trong khi đó, chính quyền Pháp tin chắc sẽ bắt được Nguyễn Ái Quốc. Ngày 8 tháng 8, toàn quyền Đông Dương đã gửi bức điện mật mã số 843 đến bộ Thuộc địa Pháp ở Paris: "
+      },
+      { 
+        "type":"quote",
+        "content":"“Tiếp theo những bức điện của tôi số 784 và 835, tôi lấy làm phấn khởi báo tin Ngài Bộ trưởng biết rằng Nguyễn Ái Quốc đã bị bắt ở Hồng Kông ngày 6 tháng 6 tại địa chỉ ghi trên giấy tờ tịch thu được tại Singapore trên người Serge Lefranc (1). Việc bắt bớ này thực hiện được là nhờ có sự phối hợp giữa giám đốc Sở Liêm phóng Đông Dương với Sở Cảnh sát Anh tại Hồng Kông và Singapore, cùng với Sở cảnh sát tại tô giới Pháp ở Thượng Hải. Sự phối hợp đó đã tạo điều kiện cho chúng ta từ một tháng nay tiến hành những vụ bắt quan trọng ở Singapore, ở Hồng Kông, ở Thượng Hải, những tên chống đối như Hồ Tùng Mậu, Nguyễn Huy Bốn, Serge Lefranc, Đỗ Ngọc Du. Sở Liêm phóng Đông Dương còn bắt được tất cả những người lãnh đạo Đảng Cộng sản Đông Dương và chín người từ Moskva về.”"
+      },
+      { 
+        "type":"text",
+        "content":"Những ngày giữa tháng tám năm 1931, trong căn phòng xử án ngột ngạt của Tòa án Tối cao Hồng Kông, cái tên Tống Văn Sơ - thân phận bí ẩn đứng sau nhà cách mạng Nguyễn Ái Quốc - vang lên giữa vô vàn tiếng gõ búa, cãi biện và những toan tính chính trị. Trước mặt ông là cả bộ máy hành chính thuộc địa, còn bên cạnh chỉ có Loseby, F. C. Jenkin và A. M. L. Soares, ba luật sư nhỏ bé nhưng kiên cường, dốc lòng bảo vệ người tù chính trị ấy. Trong hai phiên đầu (14 và 15 tháng 8), tưởng chừng ánh sáng công lý đã le lói khi Thẩm phán Joseph Kemp ngỏ ý xem xét bác bỏ lệnh trục xuất. Nhưng ngay ngày hôm đó, Thống đốc William Peel như muốn dập tắt tia hy vọng, lại vội vàng ký một lệnh trục xuất mới, trao tận tay bị cáo ngay giữa phòng xử. Khi ấy, luật sư Jenkin đứng bật dậy, giọng ông run lên vì phẫn nộ: “Đây là sự lạm dụng trắng trợn quyền hành pháp!” Thế nhưng, tất cả đều vô ích. Ngày 11 tháng 9, Tòa Tối cao tuyên bố: lệnh trục xuất hợp pháp. Cánh cửa tự do khép lại."
+      },
+      { 
+        "type":"text",
+        "content":"Không cam chịu, nhóm luật sư lập tức kháng án lên Viện Cơ mật Hoàng gia Anh, cơ quan quyền lực cao nhất đối với các thuộc địa. Họ tuyên bố: “Lệnh trục xuất đó là trái luật, trái đạo lý và trái lương tâm.” Nhưng rồi, công lý lại một lần nữa trễ hẹn -Viện Cơ mật chỉ có thể xét xử vào cuối năm 1932, hơn một năm sau."
+      },
+      { 
+        "type":"text",
+        "content":"Trong quãng chờ đợi ấy, người tù không hề phạm tội hình sự nào được chuyển từ Nhà tù Victoria đến bệnh xá Bowen Road, nơi ông vật lộn với căn bệnh lao phổi. Trong những bức thư gửi Lâm Đức Thụ, ông thú nhận: “Tôi yếu lắm, thường ho ra máu.” Giữa cơn hiểm nghèo, ông được các đồng chí và Hoàng thân Cường Để âm thầm chu cấp tiền thuốc men; một mối liên hệ kỳ lạ giữa hai con người ở hai con đường khác biệt nhưng cùng đau đáu vì nước."
+      },
+      { 
+        "type":"text",
+        "content":"Đầu năm 1932, vụ án của Tống Văn Sơ được Ủy ban Luật pháp thuộc Viện Cơ mật tiếp nhận. Lần này, bên nguyên được đại diện bởi Dennis Nowell Prit- một luật sư nổi tiếng người Anh, thiên tả và đầy cảm tình với phong trào vô sản. Phía bị đơn là Richard Stafford Cripps, Phó Chưởng lý Anh, cũng thuộc cánh tả. Thật trớ trêu, cả hai người, ở hai chiến tuyến, lại cùng hướng trái tim về công lý. Cripps, có lẽ cũng hiểu lẽ phải thuộc về ai, bèn chủ động dàn xếp ngoài tòa. Ngày 27 tháng 6 năm 1932, hai bên đạt được thỏa thuận: bên nguyên rút kháng án, đổi lại nhiều điều khoản có lợi. Nhờ vậy, phiên tranh tụng chưa bao giờ diễn ra, nhưng chiến thắng vẫn thuộc về Nguyễn Ái Quốc."
+      },
+      { 
+        "type":"text",
+        "content":"Ngày 21 tháng 7 năm 1932, vì bên nguyên đơn đã rút kháng án, Cơ mật viện ra phán quyết với 4 điều khoản quan trọng, trong đó có việc bỏ quy định áp giải bằng tàu biển, cấm trục xuất đến lãnh thổ Pháp, thuộc địa bảo hộ của Pháp hoặc đi bằng tàu biển của Pháp, và quan trọng nhất là yêu cầu chính quyền Hồng Kông nỗ lực đưa ông đến nơi ông muốn. Sau 18 tháng bị giam giữ, Nguyễn Ái Quốc được trả tự do. Ông cải trang thành một nhà nho Trung Hoa, trú ẩn bí mật tại Hiệp hội Thanh niên Cơ đốc (YMCA), âm thầm chuẩn bị hành trình đi Moskva- trái tim của phong trào cách mạng thế giới. Đầu tháng 1 năm 1933, dưới sự giúp đỡ của Loseby, ông rời Hồng Kông, đặt chân đến Singapore. Nhưng định mệnh lại trêu ngươi: chính quyền Hồng Kông gửi điện mật báo trước, khiến ông bị từ chối nhập cảnh và bị bắt lại khi vừa quay về. Ngày 19 tháng 1 năm 1933, ông bị bắt lần thứ hai."
+      },
+      { 
+        "type":"text",
+        "content":"Tin dữ khiến Loseby tức tốc cầu cứu Thống đốc Peel. May thay, Peel vẫn còn chút nhân đạo, ra lệnh phóng thích Nguyễn Ái Quốc và yêu cầu ông rời Hồng Kông trong ba ngày. Chiều muộn 22 tháng 1 năm 1933, trong làn sương mù dày đặc, một chiếc thuyền nhỏ lặng lẽ rời bến cảng. Trên đó, một thương nhân Trung Hoa giả trang đang hướng về phía chân trời. Không ai biết rằng người ấy chính là Nguyễn Ái Quốc, người vừa thoát khỏi vòng vây của cả một đế quốc.Thuyền lướt qua eo biển Lý Ngư Môn, tiến ra con tàu An Huy. Và từ đây, ông chính thức rời Hồng Kông, vượt qua Hạ Môn, Thượng Hải để đến Moskva, bắt đầu một chương mới của cuộc đời cách mạng."
+      }
+    ]
+    },
+    "stage2":{
+      "title":"Trở lại Liên Xô",
+      "location": "Lien Xô",
+      "detail":[
+     { 
+        "type":"text",
+        "content":"Nguyễn Ái Quốc đặt chân đến Moskva vào mùa xuân năm 1934, trở lại nơi từng giúp ông tìm ra lý tưởng và ánh sáng dẫn đường cho cuộc đời cách mạng. Giữa thành phố phủ tuyết đang dần tan, ông- dưới bí danh Lin- theo học tại Trường Quốc tế Lenin, ngôi trường đào tạo những chiến sĩ cộng sản quốc tế. Tại đây, ông có cơ hội nghiên cứu tại Viện Nghiên cứu các vấn đề Dân tộc và Thuộc địa, để hiểu sâu hơn về chính trị thế giới và tìm lời giải cho con đường giải phóng dân tộc. Trong thời gian ấy, ông cũng hoàn thành luận án tiến sĩ về vấn đề ruộng đất ở Đông Dương, một công trình thể hiện tư duy sắc bén và tầm nhìn chiến lược cho cách mạng Việt Nam. Sau đó, với tên mới Linov, ông tham dự Đại hội lần thứ VII của Quốc tế Cộng sản với vai trò là quan sát viên của Ban Thư ký Dalburo. Giữa hội trường lớn của Moskva, bao quanh là những nhà cách mạng đến từ khắp các châu lục, ánh mắt ông vẫn sáng lên niềm tin mãnh liệt rằng: con đường giải phóng dân tộc chỉ có thể gắn liền với con đường cách mạng vô sản. Thế nhưng, trong khi ông dồn hết tâm sức cho lý tưởng, thì ở chính nơi từng là chỗ dựa tinh thần ấy, những nghi ngờ lại bắt đầu dấy lên. Ban lãnh đạo hải ngoại của Đảng Cộng sản Đông Dương cho rằng ông thiếu trung thành chính trị, khiến ông phải chịu cảnh giám sát ngặt nghèo trong suốt nhiều năm. Từ năm 1934 đến năm 1938, ông gần như bị cô lập ở Liên Xô, mang thân bệnh tật nhưng vẫn giữ vững niềm tin không đổi. Mãi đến khi Ban thẩm tra của Quốc tế Cộng sản xác nhận không có bằng chứng buộc tội, ông mới được minh oan. Dẫu từng chịu sự nghi ngờ cay đắng, Nguyễn Ái Quốc vẫn không hề oán giận, vẫn miệt mài nghiên cứu và học tập tại Viện Dân tộc và Thuộc địa, chuẩn bị cho ngày trở lại. Ngày 6 tháng 6 năm 1938, ông viết thư gửi cho một đồng chí trong Quốc tế Cộng sản, bày tỏ nguyện vọng tha thiết được về nước, được lãnh đạo nhân dân Việt Nam đứng lên kháng chiến chống thực dân Pháp. Và rồi, tháng 10 năm 1938, sau bốn năm âm thầm giữa lòng Moskva, Người rời Liên Xô, mang theo khát vọng lớn lao cùng ý chí không gì lay chuyển quay về quê hương. Dẫu con đường phía trước vẫn đầy gian nguy, nhưng ngọn lửa trong Bác- ngọn lửa vì dân, vì nước- vẫn chưa bao giờ tắt."
+      },
+      { 
+        "type":"image",
+        "src":"DHL6",
+        "alt":"Đại hội VII - Quốc tế Cộng sản tại Liên Xô"
+      }
+    ]
+    },
+    "stage3":{
+      "title":"Trở lại quê hương",
+      "location": "Việt Nam",
+      "detail":[
+        { 
+        "type":"text",
+        "content":"Tháng 1 năm 1941, Hoàng Văn Thụ, lúc bấy giờ là Ủy viên Thường vụ Trung ương Đảng từ Việt Nam sang Quảng Tây, Trung Quốc để báo cáo kết quả xây dựng và củng cố an toàn khu Cao Bằng với Bác. Bác cũng tự nhận định được rằng, Cao Bằng sẽ là nơi mở ra triển vọng lớn cho cách mạng. Ngày 28 tháng 1 năm 1941, Bác trở lại Việt Nam sau hơn 30 năm bôn ba ở nước ngoài. Bác quay trở về quê hương, trong tay chỉ mang theo một chiếc vali nhỏ đan bằng mây tre đựng quần áo và một chiếc máy chữ xách tay nhỏ, không cầu kì, cao sang. Nhà thơ Tố Hữu cũng đã viết về sự kiện này qua bốn câu thơ: "
+      },
+      { 
+        "type":"poem",
+        "content":" ''Bác đã về đây, Tổ quốc ơi!|Nhớ thương hòn đất ấm hơi Người.||Ba mươi năm ấy, chân không nghỉ,||Mà đến bây giờ mới tới nơi.'' "
+      },
+      { 
+        "type":"text",
+        "content":"  Bác lui về ở tại hang Cốc Bó, bản Pác Bó, tỉnh Cao Bằng. Tại đây, Bác mở các lớp huấn luyện cán bộ, đào tạo các thế hệ chiến sĩ cách mạng tương lai, cho in sách báo, tham gia các hoạt động thường ngày. Các tài liệu huấn luyện và tuyên truyền chủ yếu là do Bác dịch từ các ngôn ngữ khác nhau trên toàn thế giới và viết về nhiều chủ đề khác nhau. Cứ mỗi cuốn sách như vậy, tại cuối sách ông luôn viết “Việt Nam độc lập năm 1945” như thể hiện quyết tâm giải phóng dân tộc của toàn thể nhân dân Việt Nam. Bác cũng cho lập nhiều các hội đoàn nhân dân như Hôi Phụ nữ Cứu quốc, Hội Phụ lão Cứu quốc, Hội Nông dân Cứu quốc, … Điều này thể hiện quan điểm vô cùng sâu sắc của Bác rằng dù ở bất kỳ giới tính, độ tuổi, giai cấp nào cũng có quyền được đóng góp, tham gia vào cuộc kháng chiến, giành lấy độc lập cho quê hương."
+      },
+      { 
+        "type":"image",
+        "src":"BHTPB",
+        "alt":"Bác Hồ tại Pác Bó - Cao Bằng cùng với các chiến sĩ cách mạng"
+      },
+      { 
+        "type":"text",
+        "content":" Trong khoảng thời gian ở tại Cao Bằng, từ ngày 10 đến ngày 19 tháng 5 năm 1941, Bác chủ trì cho cuộc Hội nghị lần thứ 8 (mở rộng) của Trung ương Đảng họp tại Pác Bó, Cao Bằng. Tại cuộc Hội nghị này, Bác đã hoàn thành việc chuyển hướng chỉ đạo chiến lược cách mạng Việt Nam, quay trở lại với con đường cách mạng mà Người đã chọn lựa từ năm 1930, một lần nữa giương cao ngọn cờ đấu tranh giải phóng dân tộc với việc thành lập Việt Nam Độc lập Đồng minh, gọi tắt là Việt Minh."
+      },
+      { 
+        "type":"image",
+        "src":"vov4",
+        "alt":"Ảnh chụp ngày 10 tháng 5 năm 1941 - Ngày đầu tiên của Hội nghị Trung ương lần thứ 8"
+      },
+      { 
+        "type":"image",
+        "src":"LKN",
+        "alt":"Lán Khuổi Nậm ở Pác Bó, xã Trường Hà, huyện Hà Quảng, Cao Bằng, nơi diễn ra Hội nghị Trung ương Đảng cộng sản Đông dương lần thứ VIII (tháng 5, 1941)"
+      },
+      { 
+        "type":"image",
+        "src":"HNTULT8",
+        "alt":"Hội nghị trung ương lần thứ 8"
+      }
+      ]
+        },
+    "stage4":{
+      "title":"Bị bắt giam tại Trung Quốc",
+      "location": "Trung Quốc",
+      "detail":[
+       { 
+        "type":"text",
+        "content":"Ngày 13 tháng 8 năm 1942, Bác lấy tên Hồ Chí Minh để sang Trung Quốc. Trên danh nghĩa là làm đại diện cho cả Việt Minh và Hội Quốc tế Phản Xâm lược Việt Nam (một hội đoàn do Bác thành lập ra trước đó) nhằm tranh thủ sự ủng hộ từ Trung Hoa Dân Quốc. Đây là lần đầu tiên Bác dùng tên Hồ Chí Minh trên giấy tờ cá nhân, khai nhân thân là ''Việt Nam-Hoa kiều''. Tuy nhiên, Bác lại bị chính quyền địa phương của Trung Hoa Dân quốc bắt giữ vào ngày 29 tháng 8 trong  khi đang đi cùng một người dẫn người đường Trung Quốc. Bác đã phải trải qua hơn một năm giam cầm, trải qua khoảng 30 nhà tù. Trong thời gian này (từ tháng 8 năm 1942 đến tháng 9 năm 1943), ông đã sáng tác tập ''Nhật ký trong tù'', một tác phẩm được nhiều tác giả Việt Nam, phương Tây và Trung Quốc (như Quách Mạt Nhược, Viên Ưng, Hoàng Tranh) đánh giá cao. Tập thơ này là một văn kiện lịch sử quan trọng, đồng thời là một tác phẩm văn học lớn thể hiện tư tưởng, tình cảm của người anh hùng giải phóng dân tộc vĩ đại, nhà văn hóa kiệt xuất của Việt Nam và có tác dụng giáo dục sâu sắc đối với nhiều thế hệ người Việt Nam. Một trong những bài thơ nổi tiếng trong tập thơ có thể kể đến như “Ngắm trăng”: "
+      },
+      { 
+        "type":"poem",
+        "content":"“Trong tù không rượu cũng không hoa|Cảnh đẹp đêm nay khó hững hờ|Người ngắm trăng soi ngoài cửa sổ|Trăng nhòm khe cửa ngắm nhà thơ.”"      },
+      { 
+        "type":"text",
+        "content":"  Do việc hiểu nhầm ngữ nghĩa từ một cán bộ tên Cáp khi phiên dịch từ tiếng Trung sang tiếng Việt, các đồng chí của Bác (Phạm Văn Đồng, Võ Nguyên Giáp, Vũ Anh.) tại Việt Nam đã lầm tưởng Bác đã hy sinh, thậm chí tổ chức đám tang và đọc điếu văn. Vài tháng sau, mọi người mới nhận được thư và biết được tình hình thực tế. Kể từ năm 1943, các cơ quan liên quan bắt đầu vận động để giải thoát cho Người khỏi cảnh tù đày. Ngày 25 tháng 10 năm 1943, Hội Quốc tế Chống Xâm lược ở Đông Dương gửi thư đề nghị can thiệp đến Đại sứ Mỹ và Thống chế Tưởng Giới Thạch, trả tự do cho Hồ Chí Minh. Đại diện Đảng Cộng sản Trung Quốc cũng đã gợi ý về khả năng Hồ Chí Minh có thể hợp tác với phe Đồng Minh (Cơ quan Tình báo chiến lược Hoa Kỳ – OSS* và SACO*). OSS và cơ quan ngoại giao Mỹ sau đó đã thương lượng với Chính phủ Trung Hoa Dân quốc để giải thoát Hồ Chí Minh và thuyết phục Bác hợp tác với OSS. Ngày 10 tháng 9 năm 1943, Bác được trả tự do, kết thúc chuỗi ngày ngục tù tại Trung Quốc. "
+      }
+      ]
+        },
+    "stage5":{
+      "title":"Cuộc khởi nghĩa chống thực dân Pháp và Nhật",
+      "location": "Việt Nam",
+      "detail":[
+       { 
+        "type":"text",
+        "content":"Cuối tháng 9 năm 1944, Bác trở về Việt Nam sau nhiều năm chịu cảnh tù đày gian khổ tại Trung Quốc. Vào lúc này, các đồng chí của Bác ở Liên tỉnh ủy Cao-Bắc-Lạng như Võ Nguyên Giáp, Phạm Văn Đồng, … đã quyết định tiến hành phát động chiến tranh du kích trong phạm vi liên tỉnh, xét thấy lực lượng vũ trang và căn cứ địa đang có hiện tại chưa đủ chặt chẽ và còn để lộ ra nhiều sơ hở, Bác đã kịp thời ra tay ngăn chặn quyết định này. Thay vào đó, để có thể chuẩn bị kỹ càng hơn cho cuộc kháng chiến, Bác ra lệnh cho tổ chức lực lượng kháng chiến một cách hiệu quả và khoa học hơn, đồng thời ra chỉ thị thành lập một đội quân mang tính chính quy là đội Việt Nam Tuyên truyền Giải phóng quân (được xem như là tiền thân của Quân đội nhân dân Việt Nam), với 34 đội viên là các tiểu đội trưởng, trung đội trưởng hoặc thành viên của các quân đổi nhỏ, rải rác trước đó của Việt Minh, với chỉ huy tổng là đồng chí Võ Nguyên Giáp, nhằm tạo ra một khối thống nhất, dồi dào và nhân lực và trí tuệ. Cuối năm 1944, Bác trở lại Côn Minh (Vân Nam, Trung Quốc). Ngày 9 tháng 3 năm 1945, xảy ra sự kiện Nhật đảo chính Pháp và giành được quyền kiểm soát hoàn toàn bán đảo Đông Dương. Trước biến động ấy, vào ngày 12 tháng 3, Ban Thường vụ Đảng Cộng sản Đông Dương đã đưa ra chỉ thị “Nhật – Pháp bắn nhau và hành động của chúng ta” nhằm đưa ra những phản ứng tức thời, phát động phong trào kháng Nhật cứu nước. Cụ thể, chỉ thị này đưa ra những thay đổi về hình thức tuyên truyền, tổ chức đấu tranh để thích nghi với thời kỳ tiền khởi nghĩa, tập dượt quần chúng tiến lên khởi nghĩa giành chính quyền. Tại Côn Minh, Bác gặp Trung tướng Mỹ Chennault, Chennault đã thể hiện thái độ ủng hộ và đứng về phía Đồng Minh nhằm chống lại sức ảnh hưởng của phát xít Nhật. Theo Bác, đây là một tín hiệu cho thấy Mỹ đang dần ủng hộ Việt Minh. Nhân thấy Hoa Kỳ đang có ý định sử dụng các tổ chức cách mạng của người Việt vào các hoạt động quân sự chống lại Nhật Bản tại Việt Nam, Người đã cố gắng thiết lập các mối quan hệ song phương với các cơ quan tình báo Hoa Kỳ, làm mọi cách để cuộc kháng chiến nhận được sự ủng hộ từ các thế lực quốc tế. Việt Minh có nhiệm vụ giải cứu các phi công gặp nạn trong chiến tranh với Nhật Bản, cung cấp các thông tin tình báo cho OSS, tiến hành một số hành động tuyên truyền cho Trung Hoa Dân Quốc và OWI*. "
+      },
+      { 
+        "type":"text",
+        "content":"Đổi lại, ta nhận được sự cung cấp vũ khí, phương tiện liên lạc và các hỗ trợ về mặt y tế, cố vấn và huấn luyện quân đội trong quy mô nhỏ. "
+      },
+      { 
+        "type":"text",
+        "content":" Vào những ngày tháng 7 năm 1945, Bác ốm nặng, tưởng chừng như không thể qua khỏi. Theo lời kể của đại tướng Võ Nguyên Giáp thì vào một đêm nô, Bác có nói một lời như lời trăng trối rằng: “… dù cho có phải đốt cả Trường Sơn, cũng kiên quyết dành cho được độc lập”. Thế nhưng nhờ vào sự hỗ trợ về thuốc men và y tế từ lực lượng OSS, Bác đã vượt qua được cơn nguy kịch, có thể tiếp tục công cuộc kháng chiến chống Nhật. Vào thời gian này, dưới sự vơ vét và bóc lột tàn khốc của thực dân Pháp và Phát xít Nhật, tại miền Bắc Việt Nam xảy ra nạn đói với quy mô cực kỳ khủng khiếp và kéo dài từ tháng 10 năm 1944 đến tận tháng 5 năm 1945, khiến hơn 2 triệu người chết. Khung cảnh khắp nơi tiêu điều, xơ xác, bao phủ bởi màu xám xịt. Từng đoàn người ''lũ lượt bồng bế'', thất thểu dắt díu ăn xin từ tỉnh này đến tỉnh khác. Khi ấy, người chết la liệt. Những ''thây ma'' không còn phân biệt được già, trẻ, gái, trai. Nỗi ám ảnh được nhà thơ Văn Cao khắc họa trong bài thơ Chiếc xe xác đi qua phường Dạ Lạc (1945):"
+      },
+      { 
+        "type":"poem",
+        "content":" ''Ngã tư nghiêng nghiêng xe xác|Đi vào ngõ khói Công Yên|Thấy bâng khuâng lối cỏ hư huyền|Hương nha phiến chập chùng mộng ảo|Bánh nghiến nhựa đường kêu sào sạo|- Ai vạc xương, đổ sọ xuống lòng xe?|Chiếc Quỷ xa qua bốn ngả ê chề|Chở vạn kiếp đi hoang ra khỏi vực'' "
+      },
+      { 
+        "type":"text",
+        "content":"Tình cảnh đau thương khi đó còn được nhà Bàng Bá Lân kể lại một cách trần trụi, hiện thực trong bài thơ Đói, viết năm 1957: "
+      },
+      { 
+        "type":"poem",
+        "content":"''Một mùi tanh lộn mửa thoảng mà kinh.|Mùi nhạt nhẽo nặng nề kỳ dị,|(Mùi tanh hôi ám ảnh mãi bên mình|Khiến cả tháng ăn không còn ngon bữa!)|Những thây đó cứ xỉu dần tắt thở,|Nằm cong queo mắt vẫn mở trừng trừng.|Trông con ngươi còn đọng lệ rưng rưng,|Miệng méo xệch như khóc còn dang dở.|Có thây chết ba hôm còn nằm đó,|Ruồi tám phương bâu lại khóc vo vo.|Rồi ven đường đôi nhát cuốc hững hờ|Đắp điếm vội những nấm mồ nông dối!''"
+      },
+      { 
+        "type":"text",
+        "content":" Nhân dân lúc này sống trong cảnh khốn cùng, quyết tâm vùng lên đấu tranh giành lấy sự sống. Lợi dụng tình hình đó, Việt Minh đã xây dựng lực lượng lớn trên khắp cả nước, tập hợp nhân dân phá các kho thóc Nhật để lấy gạo phát cho dân đói, giải quyết các vấn đề sống còn của đất nước lúc ấy. Đồng thời, một đại hội đại biểu toàn quốc họp trên chiến khu, quyết định thành lập Quốc dân Đại hội, tức quốc hội lâm thời. Tại chính trường quốc tế lúc bấy giờ, Thế Chiến II đã dần đi đến hồi kết. Tại mặt trận châu Âu, Phát xít Đức đã đầu hàng quân Đồng Minh vào ngày 7 tháng 5 năm 1945. Còn tại mặt trận Thái Bình Dương, sau những thất bại liên tiếp về mặt quân sự của Phát xít Nhật, cùng với sự kiện Mỹ thả hai quả bom nguyên tử xuống Hiroshima và Nagasaki lần lượt vào ngày 6 và 9 tháng 8, Nhật Bản lúc này đã hoàn toàn tê liệt và cùng đầu hàng vào ngày 15 tháng 8, cùng với việc phe Đồng Minh chưa kịp ổn định để tiến vào chiếm giữ khu vực Đông Dương từ tay Nhật Bản. Trước thời cơ không thể nào hoàn hảo hơn, Bác cùng các đồng chí lãnh đạo ngay lập tức tận dụng thời cơ quý giá này để phát động tổng khởi nghĩa giành chính quyền trên quy mô cả nước. Ngày 16 tháng 8, Tổng bộ Việt Minh triệu tập Đại hội quốc dân tại Tân Trào (Tuyên Quang), cử ra Ủy ban Dân tộc Giải phóng tức Chính phủ Lâm thời, với Hồ Chí Minh làm Chủ tịch. Hưởng ứng lời kêu gọi toàn quốc kháng chiến, ngọn lửa khởi nghĩa nhanh chóng bùng nổ và lan rộng trên khắp cả nước. Với lực lượng nòng cốt là những người nông dân bị áp bức, bóc lột trong suốt thời kì bị chiếm đóng, khí thế của cuộc khởi nghĩa không gì có thể lấn át nổi. Chỉ trong vòng 10 ngày ngắn ngủi, lần lượt từng cơ sở chính quyền Việt Minh đã được thiết lập trên toàn bộ các tỉnh lỵ. Hầu hết các địa phương trên cả nước lúc này đều thuộc quyền kiểm soát của Việt Nam; trong khi đó tại Huế và Sài Gòn sau khi cuộc khởi nghĩa thắng lợi hoàn toàn vào lần lượt các ngày 23 tháng 8 và 25 tháng 8; Hoàng đế Bảo Đại tuyên chiếu thoái vị vào ngày 25 tháng 8, chính thức chấm dứt hoàn toàn triều đại quân chủ cuối cùng của Việt Nam."
+      },
+      { 
+        "type":"image",
+        "src":"CMT8",
+        "alt":"Khởi nghĩa thắng lợi tại Sài Gòn ngày 25 tháng 8"
+      }
+      ]
+        },
+    "stage6":{
+      "title":"Thời khắc lịch sử của dân tộc",
+      "location": "Việt Nam",
+      "detail":[
+       { 
+        "type":"text",
+        "content":"Cuộc tổng khởi nghĩa giành chính quyền chính thức thắng lợi hoàn toàn và kết thúc bằng sự kiện chủ tịch Hồ Chí Minh đọc bản “Tuyên ngôn độc lập” trên Quảng trường Ba Đình, Hà Nội vào ngày 2 tháng 9 năm 1945; đồng thời tuyên bố thành lập nước Việt Nam Dân chủ Cộng hòa. Tuyên ngôn Độc lập năm 1945 của chủ tịch Hồ Chí Minh như một dấu mốc quan trọng, một bản hùng ca bất diệt, là vết son chói lọi trong lịch sử hơn bốn nghìn năm của dân tộc. Nó chấm dứt ách đô hộ tàn ác của thực dân và phòng kiến, khẳng định nền độc lập, tự do của đất nước trước toàn thế giới, mở ra một kỷ nguyên mới cho dân tộc, viết lại số phận của những con người bị áp bức, bóc lột. Sau đây là trích dẫn của bản Tuyên ngôn độc lập:"
+      },
+      { 
+        "type":"text",
+        "content":""
+      },
+      { 
+        "type":"text",
+        "content":""
+      },
+      { 
+        "type":"text",
+        "content":""
+      }
+      ]
+        }
   },
+
+
   {
     "id": 5,
-    "year": "1946",
+    "year": "Giai đoạn 5 (1945 - 1969)",
     "title": "Toàn quốc kháng chiến chống Pháp",
     "location": "Hà Nội – Việt Bắc",
     "description": "Khi thực dân Pháp quay lại xâm lược, Bác Hồ ra lời kêu gọi toàn quốc kháng chiến.",
-    "image": "/images/1946.jpg",
+    "image": "/images/1946",
     "details": "“Thà hi sinh tất cả chứ nhất định không chịu mất nước, không chịu làm nô lệ.” – Lời kêu gọi của Chủ tịch Hồ Chí Minh trở thành hiệu triệu thiêng liêng cho cả dân tộc."
-  },
-  {
-    "id": 6,
-    "year": "1954",
-    "title": "Chiến thắng Điện Biên Phủ",
-    "location": "Điện Biên, Việt Nam",
-    "description": "Chiến thắng lịch sử Điện Biên Phủ buộc Pháp phải ký Hiệp định Genève.",
-    "image": "/images/1954.jpg",
-    "details": "Đây là thắng lợi vĩ đại của nhân dân Việt Nam dưới sự lãnh đạo của Đảng và Chủ tịch Hồ Chí Minh, mở ra kỷ nguyên mới cho dân tộc."
-  },
-  {
-    "id": 7,
-    "year": "1969",
-    "title": "Chủ tịch Hồ Chí Minh qua đời",
-    "location": "Hà Nội",
-    "description": "Ngày 2/9/1969, Bác Hồ từ trần, để lại niềm tiếc thương vô hạn.",
-    "image": "/images/1969.jpg",
-    "details": "Bác Hồ ra đi để lại di sản tư tưởng, đạo đức, phong cách – ngọn đuốc soi đường cho cách mạng Việt Nam và cho toàn dân tộc."
   }
 ]

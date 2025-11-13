@@ -1,0 +1,223 @@
+/* Legacy.css */
+
+/* Reset cơ bản */
+* {
+    box-sizing: border-box;
+}
+
+.legacy {
+    /* ĐÃ THAY ĐỔI: Sử dụng font Georgia */
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f5f1e7;
+    color: #3b2c1a;
+    overflow-x: hidden;
+}
+
+/* Ảnh bìa full màn hình */
+.cover {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+}
+
+.cover-image {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    filter: brightness(60%);
+    z-index: 0;
+}
+
+.cover-title {
+    position: relative;
+    z-index: 1;
+    color: #f9f5ef;
+    font-size: 4rem;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+    user-select: none;
+}
+
+/* Section chung */
+.section {
+    padding: 2rem 6%;
+    /* giảm padding để các section gần nhau hơn */
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.section-content {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+
+.image-left .image-wrapper {
+    order: 0;
+    margin-right: 4rem;
+}
+
+.image-left .text-wrapper {
+    order: 1;
+}
+
+.image-right .image-wrapper {
+    order: 1;
+}
+
+.image-right .text-wrapper {
+    order: 0;
+}
+
+.image-wrapper img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    user-select: none;
+    display: block;
+    object-fit: cover;
+}
+
+.text-wrapper {
+    flex: 1;
+    min-width: 300px;
+}
+
+.text-wrapper h2 {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+    /* giảm margin heading */
+    color: #6b4c2a;
+    text-align: center;
+    font-weight: 700;
+}
+
+.section h2 {
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+    /* đồng bộ margin */
+    font-weight: 700;
+    color: #7a4a1e;
+    text-align: center;
+}
+
+.text-wrapper p {
+    font-size: 1.2rem;
+    line-height: 1.7;
+    text-align: justify;
+    color: #4a3d1b;
+    margin-bottom: 1rem;
+}
+
+/* Quote đặc biệt */
+.quote {
+    border-left: 4px solid #d2b48c;
+    padding-left: 1rem;
+    margin: 1rem 0;
+    font-style: italic;
+    color: #7a4a1e;
+    background-color: #fff4dc;
+    box-shadow: 2px 2px 6px rgba(210, 180, 140, 0.2);
+    border-radius: 4px;
+    text-align: center;
+    font-size: 1.8rem;
+    /* chữ to hơn */
+    font-weight: 700;
+    /* in đậm */
+    line-height: 1.6;
+}
+
+/* Thanh ngăn cách */
+.divider {
+    width: 80%;
+    height: 4px;
+    background-color: #d2b48c;
+    margin: 0.1rem auto;
+    /* margin rất nhỏ để gần section */
+    border-radius: 2px;
+    box-shadow: 0 0 8px rgba(210, 180, 140, 0.6);
+}
+
+/* Responsive nhỏ hơn 768px */
+@media (max-width: 768px) {
+    .section-content {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .image-wrapper img {
+        max-width: 100%;
+    }
+
+    .text-wrapper {
+        min-width: 100%;
+        text-align: center;
+    }
+
+    .text-wrapper p {
+        text-align: center;
+    }
+
+    .quote {
+        font-size: 1.5rem;
+        /* thu nhỏ quote trên mobile */
+    }
+}
+
+/* Phần giới thiệu Tư tưởng Hồ Chí Minh */
+.intro {
+    background-color: #fff7e6;
+    border-left: 8px solid #d2b48c;
+    padding: 2rem 3rem;
+    margin-bottom: 4rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(210, 180, 140, 0.3);
+    color: #4a3d1b;
+}
+
+.intro h2 {
+    font-size: 2.8rem;
+    margin-bottom: 1.2rem;
+    font-weight: 700;
+    color: #7a4a1e;
+    text-align: center;
+}
+
+.intro p {
+    font-size: 1.2rem;
+    line-height: 1.75;
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+
+.quote {
+    border-left: 4px solid #d2b48c;
+    padding-left: 1rem;
+    margin: 1rem 0;
+    font-style: italic;
+    color: #7a4a1e;
+    background-color: #fff4dc;
+    box-shadow: 2px 2px 6px rgba(210, 180, 140, 0.2);
+    border-radius: 4px;
+
+    text-align: center;
+    /* Căn giữa chữ */
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.6;
+}
+
+/* Nếu bên trong .quote có thẻ con khác, ép luôn text-align center */
+.quote,
+.quote * {
+    text-align: center !important;
+}

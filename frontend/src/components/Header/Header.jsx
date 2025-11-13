@@ -73,54 +73,68 @@ export default function Header() {
     };
 
     const menuData = [
+        // {
+        //     title: "Trang chủ",
+        //     link: "/",
+        //     dropdown: [
+        //         { name: "Thông tin cá nhân", link: "/biography" },
+        //         { name: "Gia đình & Quê hương", link: "/factors" },
+        //         { name: "Tri thức", link: "/biography#knowledge" },
+        //     ],
+        // },
         {
-            title: "Giới thiệu",
-            link: "/biography",
+            title: "Trang chủ",
+            link: "/",
+        },
+        {
+            title: "Cuộc đời",
+            link: "/",
             dropdown: [
-                { name: "Thông tin cá nhân", link: "/biography" },
-                { name: "Gia đình & Quê hương", link: "/factors" },
-                { name: "Tri thức", link: "/biography#knowledge" },
+                { name: "Tiểu sử", link: "/biography" },
+                { name: "Yếu tố tác động đến quá trình hoạt động cách mạng", link: "/factors" },
             ],
         },
         {
-            title: "Cuộc đời & Sự nghiệp",
+            title: "Quá trình hoạt động cách mạng",
             link: "/timeline",
-            // dropdown: [
-            //     { name: "1911 – Tìm đường cứu nước", link: "/timeline#1911" },
-            //     { name: "1920 – Con đường cách mạng", link: "/timeline#1920" },
-            //     { name: "1930 – Thành lập Đảng", link: "/timeline#1930" },
-            //     { name: "1945 – Cách mạng Tháng Tám", link: "/timeline#1945" },
-            // ],
-        },
-        {
-            title: "Tư tưởng & Tác động",
             dropdown: [
-                { name: "Tác phẩm - Câu chuyện tiêu biểu", link: "/works" },
-                { name: "Yếu tố tác động", link: "/factors" },
-                { name: "Học tập & Làm theo", link: "/learn" },
+                { name: "Giai đoạn 1 (Trước 1911)", link: "/timeline/1" },
+                { name: "Giai đoạn 2 (1911 -1920)", link: "/timeline/2" },
+                { name: "Giai đoạn 3 (1920 - 1931)", link: "/timeline/3" },
+                { name: "Giai đoạn 4 (1931 - 1945)", link: "/timeline/4" },
+                { name: "Giai đoạn 5 (1945 - 1969)", link: "/timeline/5" },
+
 
             ],
         },
         {
-            title: "Di sản & Ảnh hưởng",
-            dropdown: [
-                { name: "Công lao - Đóng góp", link: "/contributions" },
-                { name: "Dấu ấn thế giới", link: "/worldimpact" },
-                { name: "Dấu ấn Việt Nam hiện đại", link: "/legacy" },
-
-            ],
+            title: "Công lao - Đóng góp ",
+            link: "/contributions"
         },
         {
-            title: "Học tập & Tương tác",
+            title: "Dấu ấn của Người",
             link: "/learn",
             dropdown: [
-                { name: "Bài học", link: "/learn" },
-                { name: "Trò chơi", link: "/quiz" },
-                { name: "Phần thưởng", link: "/rewards" },
+                {
+                    name: "Với dân tộc Việt Nam", link: "/legacy",
+                    dropdown: [
+                        { name: "Di sản về tư tưởng", link: "/legacy-tthcm" },
+                        { name: "Di sản về văn và hóa đạo đức", link: "/legacy-dsvvhdd" },
+                    ],
+                },
+                { name: "Với lịch sử Thế giới", link: "/legacy-world" },
             ],
         },
-        { title: "Liên hệ", link: "/contact" },
+        {
+            title: "Các tác phẩm của Bác",
+            link: "/learn",
+        },
+        {
+            title: "Mẫu truyện",
+            link: "/learn",
+        },
     ];
+
 
     return (
         <header className={`header ${visible ? "show" : "hide"}`}>
@@ -160,14 +174,28 @@ export default function Header() {
                                 {m.dropdown && (
                                     <ul className={`dropdown ${activeDropdown === i ? "visible" : ""}`}>
                                         {m.dropdown.map((s, k) => (
-                                            <li key={k}>
+                                            <li key={k} className={s.dropdown ? "has-submenu" : ""}>
                                                 <Link to={s.link} onClick={() => setMenuOpen(false)}>
                                                     {s.name}
                                                 </Link>
+
+                                                {/* Nếu có dropdown con thì render submenu */}
+                                                {s.dropdown && (
+                                                    <ul className="submenu">
+                                                        {s.dropdown.map((ss, kk) => (
+                                                            <li key={kk}>
+                                                                <Link to={ss.link} onClick={() => setMenuOpen(false)}>
+                                                                    {ss.name}
+                                                                </Link>
+                                                            </li>
+                                                        ))}
+                                                    </ul>
+                                                )}
                                             </li>
                                         ))}
                                     </ul>
                                 )}
+
                             </li>
                         ))}
                     </ul>

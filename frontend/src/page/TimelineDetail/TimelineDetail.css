@@ -1,41 +1,544 @@
-.timeline-detail {
-    max-width: 700px;
-    margin: 2rem auto;
-    background: #fffaf3;
-    padding: 1.5rem;
+.timeline-detail.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px 15px;
+    font-family: 'Times New Roman', Times, serif, serif;
+    background-color: #fdf6e3;
+    /* màu nền vàng nhạt vintage */
+    color: #4b3b2b;
+    /* màu nâu trầm */
     border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgb(75 59 43 / 0.2);
 }
 
-.timeline-detail h1 {
-    color: #7a4a1c;
-    margin-bottom: 1rem;
+.timeline-header {
+    border-bottom: 2px solid #d6b95c;
+    padding-bottom: 12px;
+    margin-bottom: 24px;
+    text-align: center;
 }
 
-.year,
-.location {
-    font-weight: bold;
-    color: #444;
+.timeline-year {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #7a5c34;
+    /* nâu vàng */
+    letter-spacing: 1.2px;
+    margin-bottom: 6px;
 }
 
-.desc {
-    margin-top: 1rem;
-    color: #333;
-    line-height: 1.6;
+.timeline-main-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    color: #533f1a;
+    line-height: 1.2;
+}
+
+.timeline-stage {
+    margin-bottom: 36px;
+    padding-left: 12px;
+    border-left: 4px solid #a07835;
+    /* đường line bên trái */
+}
+
+.stage-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #6e563f;
+    margin-bottom: 6px;
+    font-family: 'Times New Roman', Times, serif, serif;
+}
+
+.stage-location {
+    font-size: 0.9rem;
+    color: #8a7b5e;
+    margin-bottom: 12px;
+    font-style: italic;
+}
+
+.detail-content p,
+.detail-content blockquote,
+.detail-content .poem-line {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1em;
+    color: #5b4a30;
+}
+
+.detail-quote {
+    border-left: 4px solid #d6b95c;
+    padding-left: 12px;
+    font-style: italic;
+    color: #665533;
+    background-color: #f8f1d2;
+    margin: 1em 0;
+}
+
+.detail-poem {
+    font-family: 'Times New Roman', Times, serif, serif;
+    color: #4b3b2b;
+    margin-bottom: 1.5em;
+    padding-left: 15px;
+    border-left: 3px dotted #a08c5a;
+}
+
+.detail-image-wrapper {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.detail-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 3px 8px rgba(75, 59, 43, 0.3);
+    border: 1px solid #c3b17d;
+}
+
+.image-caption {
+    font-size: 0.85rem;
+    color: #7f6b45;
+    margin-top: 6px;
+    font-style: italic;
+}
+
+.no-stage,
+.no-detail {
+    font-style: italic;
+    color: #a08c5a;
+    text-align: center;
+    margin: 30px 0;
 }
 
 .back-link {
     display: inline-block;
-    margin-top: 1.5rem;
-    color: #7a4a1c;
+    margin-top: 40px;
     text-decoration: none;
-    border: 1px solid #7a4a1c;
-    padding: 0.4rem 0.8rem;
-    border-radius: 4px;
-    transition: background 0.3s;
+    font-weight: 600;
+    color: #7a5c34;
+    transition: color 0.3s ease;
 }
 
 .back-link:hover {
-    background: #7a4a1c;
-    color: white;
+    color: #a07835;
+    text-decoration: underline;
+}
+
+.timeline-detail.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f0e9;
+    /* beige nhạt */
+    color: #4a3c31;
+    /* nâu sẫm */
+}
+
+.timeline-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.timeline-year {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #7e5e3a;
+}
+
+.timeline-main-title {
+    font-size: 1.4rem;
+    margin-top: 0.2rem;
+    font-style: italic;
+    color: #5c4b36;
+}
+
+.timeline-stage {
+    background-color: #fff7e6;
+    border-left: 6px solid #8a6d3b;
+    padding: 1rem 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px rgba(138, 109, 59, 0.15);
+}
+
+.stage-title {
+    margin-bottom: 0.4rem;
+    color: #755c35;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+.stage-location {
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    color: #6e593a;
+}
+
+.detail-text {
+    margin-bottom: 0.8rem;
+    line-height: 1.5;
+}
+
+.detail-quote {
+    margin: 1rem 0;
+    font-style: italic;
+    color: #937c5c;
+    border-left: 4px solid #b99f6b;
+    padding-left: 1rem;
+}
+
+.detail-poem {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-style: italic;
+    color: #6f5c3a;
+    margin-bottom: 1rem;
+}
+
+.poem-line {
+    margin: 0;
+    line-height: 1.4;
+}
+
+.detail-image-wrapper {
+    margin: 1rem 0;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+}
+
+.detail-image {
+    max-width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(120, 95, 35, 0.5);
+    transition: transform 0.3s ease;
+}
+
+.detail-image-wrapper:hover .detail-image {
+    transform: scale(1.05);
+}
+
+.image-caption {
+    font-size: 0.85rem;
+    color: #7a6649;
+    margin-top: 0.3rem;
+}
+
+/* Back link style */
+.back-link {
+    display: inline-block;
+    margin-top: 2rem;
+    color: #8a6d3b;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.back-link:hover {
+    color: #5c4b36;
+}
+
+/* Modal styles */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(41, 28, 9, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    cursor: zoom-out;
+}
+
+.modal-content {
+    position: relative;
+    max-width: 90vw;
+    max-height: 90vh;
+    background-color: #fff7e6;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px #7e5e3a;
+    cursor: auto;
+}
+
+.modal-image {
+    max-width: 100%;
+    max-height: 80vh;
+    display: block;
+    margin: 0 auto;
+    border-radius: 4px;
+}
+
+.modal-close-btn {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    background: none;
+    border: none;
+    font-size: 2.2rem;
+    color: #8a6d3b;
+    cursor: pointer;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.modal-close-btn:hover {
+    color: #5c4b36;
+}
+
+.timeline-stage.stage4 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+.timeline-detail.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 25px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fdf6e3;
+    /* vàng nhạt vintage */
+    color: #4b3b2b;
+    /* nâu trầm */
+    border-radius: 10px;
+    box-shadow: 0 4px 18px rgb(75 59 43 / 0.2);
+}
+
+.timeline-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.timeline-year {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #7e5e3a;
+    /* nâu vàng */
+    letter-spacing: 1.5px;
+}
+
+.timeline-main-title {
+    font-size: 1.6rem;
+    margin-top: 0.3rem;
+    font-style: italic;
+    color: #533f1a;
+}
+
+.timeline-stage {
+    background-color: #fff7e6;
+    border-left: 6px solid #8a6d3b;
+    padding: 1rem 1.5rem;
+    margin-bottom: 2.5rem;
+    border-radius: 6px;
+    box-shadow: 2px 2px 10px rgba(138, 109, 59, 0.15);
+}
+
+.stage-title {
+    margin-bottom: 0.5rem;
+    color: #755c35;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.stage-location {
+    font-size: 0.95rem;
+    margin-bottom: 1.2rem;
+    color: #6e593a;
+    font-style: italic;
+}
+
+.detail-text,
+.detail-quote,
+.detail-poem p {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    color: #5b4a30;
+}
+
+.detail-quote {
+    border-left: 4px solid #d6b95c;
+    padding-left: 1rem;
+    font-style: italic;
+    color: #665533;
+    background-color: #f8f1d2;
+    margin: 1.2rem 0;
+}
+
+.detail-poem {
+    font-style: italic;
+    color: #4b3b2b;
+    margin-bottom: 1.5rem;
+    padding-left: 1rem;
+    border-left: 3px dotted #a08c5a;
+}
+
+.poem-line {
+    margin: 0;
+    line-height: 1.4;
+}
+
+.detail-image-wrapper {
+    margin: 1.5rem 0;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    border-radius: 6px;
+    box-shadow: 0 3px 8px rgba(75, 59, 43, 0.25);
+    transition: box-shadow 0.3s ease;
+}
+
+.detail-image-wrapper:hover {
+    box-shadow: 0 6px 20px rgba(75, 59, 43, 0.45);
+}
+
+.detail-image {
+    max-width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 3px 8px rgba(75, 59, 43, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.detail-image-wrapper:hover .detail-image {
+    transform: scale(1.05);
+}
+
+.image-caption {
+    font-size: 0.85rem;
+    color: #7a6649;
+    margin-top: 0.4rem;
+    font-style: italic;
+}
+
+/* Link Quay lại */
+.back-link {
+    display: inline-block;
+    margin-top: 2.5rem;
+    color: #8a6d3b;
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.3s ease;
+}
+
+.back-link:hover {
+    color: #5c4b36;
+    text-decoration: underline;
+}
+
+/* Thêm hiệu ứng mờ và dịch chuyển cho AOS (nếu muốn customize) */
+[data-aos] {
+    opacity: 0;
+    transform: translateY(20px);
+    transition-property: opacity, transform;
+    transition-duration: 0.7s;
+    transition-timing-function: ease-out;
+}
+
+[data-aos].aos-animate {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Modal styles */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(41, 28, 9, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+    cursor: zoom-out;
+}
+
+.modal-content {
+    position: relative;
+    max-width: 90vw;
+    max-height: 90vh;
+    background-color: #fff7e6;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px #7e5e3a;
+    cursor: auto;
+    overflow: auto;
+}
+
+.modal-image {
+    max-width: 100%;
+    max-height: 80vh;
+    border-radius: 6px;
+    display: block;
+    margin: 0 auto;
+}
+
+.modal-close-btn {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    background: none;
+    border: none;
+    font-size: 2.5rem;
+    color: #8a6d3b;
+    cursor: pointer;
+    font-weight: 700;
+    line-height: 1;
+    transition: color 0.3s ease;
+}
+
+.modal-close-btn:hover {
+    color: #5c4b36;
+}
+
+.modal-image {
+    max-width: 100%;
+    max-height: 80vh;
+    border-radius: 0;
+    /* bỏ bo góc nếu muốn */
+    box-shadow: none;
+    /* xóa bóng đổ */
+    border: none;
+    /* xóa viền */
+    display: block;
+    margin: 0 auto;
+}
+
+.detail-image-wrapper {
+    margin: 1rem 0;
+    cursor: pointer;
+    text-align: center;
+    position: relative;
+    /* Xóa các thuộc tính border/shadow nếu có */
+}
+
+.detail-image {
+    max-width: 100%;
+    border-radius: 0;
+    /* hoặc bỏ dòng này nếu muốn bo góc */
+    box-shadow: none !important;
+    /* xóa bóng đổ */
+    border: none !important;
+    /* xóa viền */
+    transition: none;
+    /* hoặc bỏ hiệu ứng zoom nếu muốn */
+}
+
+.modal-image {
+    max-width: 90vw;
+    /* không vượt quá 90% chiều ngang viewport */
+    max-height: 90vh;
+    /* không vượt quá 90% chiều cao viewport */
+    width: auto;
+    /* để ảnh tự scale theo tỉ lệ */
+    height: auto;
+    /* để ảnh tự scale theo tỉ lệ */
+    display: block;
+    margin: 0 auto;
+    border-radius: 4px;
 }

@@ -614,3 +614,74 @@
 }
 
 /* End of Header.css */
+
+/* Dropdown chính */
+.dropdown {
+    position: absolute;
+    background: white;
+    color: #333;
+    min-width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    padding: 0.5rem 0;
+    z-index: 1000;
+    display: none;
+}
+
+.dropdown.visible {
+    display: block;
+}
+
+.dropdown li {
+    position: relative;
+    padding: 0;
+}
+
+.dropdown li a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #333;
+    text-decoration: none;
+}
+
+.dropdown li a:hover {
+    background-color: #eee;
+}
+
+/* Đánh dấu li có submenu */
+.dropdown li.has-submenu>a::after {
+    content: "▶";
+    float: right;
+    font-size: 0.7rem;
+    margin-left: 5px;
+    transform: rotate(0deg);
+}
+
+/* Submenu (dropdown con) */
+.submenu {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    background: white;
+    min-width: 180px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    padding: 0.5rem 0;
+    display: none;
+    z-index: 1100;
+}
+
+/* Hiển thị submenu khi hover cha */
+.dropdown li.has-submenu:hover>.submenu {
+    display: block;
+}
+
+.submenu li a {
+    padding: 0.5rem 1rem;
+    color: #333;
+    text-decoration: none;
+}
+
+.submenu li a:hover {
+    background-color: #eee;
+}
