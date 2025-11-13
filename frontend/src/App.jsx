@@ -7,6 +7,7 @@ import Quotes from "./page/Quotes/Quotes.jsx";
 import Quiz from "./page/Quiz/Quiz.jsx";
 import Rewards from "./page/Rewards/Rewards.jsx";
 import Contact from "./page/Contact/Contact.jsx";
+import Biography from "./page/Biography/Biography.jsx";
 import TimelineDetail from "./page/TimelineDetail/TimelineDetail.jsx";
 import "./App.css";
 
@@ -23,6 +24,8 @@ function App() {
           <Route path="/rewards" element={<Rewards />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/timeline/:id" element={<TimelineDetail />} />
+          <Route path="/biography" element={<Biography />} />
+
 
         </Routes>
       </main>

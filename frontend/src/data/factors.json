@@ -1,27 +1,12 @@
 [
-{
-"year": 1890,
-"title": "Sinh ra ở Nghệ An",
-"desc": "Nguyễn Sinh Cung (sau này là Nguyễn Tất Thành, Hồ Chí Minh) sinh năm 1890 tại Nghệ An."
-},
-{
-"year": 1911,
-"title": "Ra đi tìm đường cứu nước",
-"desc": "Ngày 5/6/1911, Người ra đi tìm đường cứu nước từ bến Nhà Rồng."
-},
-{
-"year": 1941,
-"title": "Trở về nước lãnh đạo cách mạng",
-"desc": "Sau 30 năm bôn ba, Người trở về Pác Bó (Cao Bằng) để trực tiếp lãnh đạo phong trào."
-},
-{
-"year": 1945,
-"title": "Tuyên ngôn Độc lập",
-"desc": "Ngày 2/9/1945, tại Quảng trường Ba Đình, Người đọc Tuyên ngôn khai sinh nước Việt Nam Dân chủ Cộng hòa."
-},
-{
-"year": 1969,
-"title": "Ngày mất",
-"desc": "Ngày 2/9/1969, Chủ tịch Hồ Chí Minh qua đời, để lại di sản tinh thần to lớn cho dân tộc."
-}
+  {
+    "id": 1,
+    "title": "Truyền thống yêu nước của dân tộc Việt Nam",
+    "description": "Từ nhỏ, Người đã được nuôi dưỡng trong môi trường yêu nước, trọng nghĩa, thương dân."
+  },
+  {
+    "id": 2,
+    "title": "Tinh hoa văn hoá nhân loại",
+    "description": "Người tiếp thu những giá trị tiến bộ từ Nho giáo, Phật giáo, Thiên chúa giáo, văn hoá phương Đông và phương Tây."
+  }
 ]

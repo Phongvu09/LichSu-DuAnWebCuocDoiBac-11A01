@@ -1,0 +1,164 @@
+.biography {
+    font-family: "Segoe UI", sans-serif;
+    color: #3a2f25;
+    background-color: #f8f3ec;
+    padding-bottom: 60px;
+}
+
+/* Fade-in */
+.fade-in {
+    animation: fadeIn 1.2s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* HERO */
+.bio-hero {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+    color: #fff;
+}
+
+.bio-hero-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    filter: brightness(0.7);
+}
+
+.bio-hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 700px;
+}
+
+.bio-hero-text h1 {
+    font-size: 2.8rem;
+    margin-bottom: 10px;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+}
+
+.bio-hero-text p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+/* INTRO */
+.bio-intro {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 0 20px;
+    text-align: justify;
+}
+
+.bio-intro h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: #5b4636;
+}
+
+.bio-intro p {
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+
+/* GALLERY */
+.bio-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin: 40px 0;
+}
+
+.bio-gallery img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+}
+
+.bio-gallery img:hover {
+    transform: scale(1.05);
+}
+
+/* TIMELINE LINK */
+.bio-timeline-link {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.bio-timeline-link h2 {
+    color: #5b4636;
+    margin-bottom: 10px;
+}
+
+.bio-timeline-link p {
+    max-width: 700px;
+    margin: 0 auto 20px;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.bio-btn {
+    background-color: #8b6f47;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+.bio-btn:hover {
+    background-color: #6e5638;
+}
+
+/* QUOTE */
+.bio-quote {
+    margin: 80px auto 0;
+    text-align: center;
+    max-width: 700px;
+    font-style: italic;
+}
+
+.bio-quote blockquote {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    margin-bottom: 10px;
+}
+
+.bio-quote footer {
+    color: #6b5846;
+    font-weight: 600;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .bio-hero-img {
+        height: 280px;
+    }
+
+    .bio-hero-text h1 {
+        font-size: 2rem;
+    }
+
+    .bio-gallery img {
+        width: 90%;
+        height: auto;
+    }
+}

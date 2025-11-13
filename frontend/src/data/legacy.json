@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Tư tưởng Hồ Chí Minh",
+    "description": "Hệ thống quan điểm toàn diện và sâu sắc về con đường cách mạng Việt Nam, là kim chỉ nam cho Đảng và nhân dân ta.",
+    "category": "Tư tưởng",
+    "image": "/assets/images/legacy-tu-tuong.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Tấm gương đạo đức",
+    "description": "Lối sống giản dị, khiêm tốn, hết lòng vì dân, là tấm gương sáng cho mọi thế hệ noi theo.",
+    "category": "Đạo đức",
+    "image": "/assets/images/legacy-dao-duc.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Di sản văn hoá và giáo dục",
+    "description": "Tư tưởng học tập suốt đời, coi trọng tri thức và nhân cách, được áp dụng trong giáo dục Việt Nam hiện nay.",
+    "category": "Văn hoá - Giáo dục",
+    "image": "/assets/images/legacy-giaoduc.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Tư tưởng đoàn kết quốc tế",
+    "description": "Người luôn đề cao tình đoàn kết giữa các dân tộc bị áp bức, cổ vũ phong trào giải phóng dân tộc trên toàn thế giới.",
+    "category": "Đoàn kết quốc tế",
+    "image": "/assets/images/legacy-quoc-te.jpg"
+  }
+]

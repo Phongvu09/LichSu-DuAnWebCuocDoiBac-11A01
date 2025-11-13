@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "country": "Cuba",
+    "impact": "Hồ Chí Minh được tôn vinh là biểu tượng của tinh thần đấu tranh vì độc lập dân tộc.",
+    "image": "/assets/images/cuba.jpg"
+  },
+  {
+    "id": 2,
+    "country": "Ấn Độ",
+    "impact": "Nhiều học giả Ấn Độ ca ngợi Người là hình mẫu của nhà lãnh đạo vì nhân dân.",
+    "image": "/assets/images/india.jpg"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "period": "1911 - 1930",
+    "title": "Hành trình tìm đường cứu nước",
+    "description": "Từ năm 1911, Người ra đi tìm đường cứu nước, hoạt động ở nhiều quốc gia, nghiên cứu con đường cách mạng vô sản và sáng lập Đảng Cộng sản Việt Nam năm 1930.",
+    "keyEvents": [
+      "1911: Rời bến Nhà Rồng ra đi tìm đường cứu nước",
+      "1920: Tham gia Quốc tế Cộng sản",
+      "1930: Thành lập Đảng Cộng sản Việt Nam"
+    ],
+    "image": "/assets/images/rev-1911-1930.jpg"
+  },
+  {
+    "id": 2,
+    "period": "1930 - 1945",
+    "title": "Lãnh đạo phong trào cách mạng giành độc lập",
+    "description": "Dù bị bắt giam nhiều lần, Người vẫn tiếp tục chỉ đạo phong trào cách mạng trong và ngoài nước, chuẩn bị cho Tổng khởi nghĩa Tháng Tám 1945.",
+    "keyEvents": [
+      "1931: Bị bắt tại Hồng Kông, sau đó được trả tự do",
+      "1941: Trở về Pác Bó, lãnh đạo cách mạng trong nước",
+      "1945: Cách mạng Tháng Tám thành công"
+    ],
+    "image": "/assets/images/rev-1930-1945.jpg"
+  },
+  {
+    "id": 3,
+    "period": "1945 - 1954",
+    "title": "Kháng chiến chống thực dân Pháp",
+    "description": "Sau khi tuyên bố độc lập, Người lãnh đạo nhân dân bảo vệ chính quyền cách mạng non trẻ và tiến hành cuộc kháng chiến chống Pháp kéo dài 9 năm.",
+    "keyEvents": [
+      "1946: Toàn quốc kháng chiến",
+      "1951: Đại hội II của Đảng",
+      "1954: Chiến thắng Điện Biên Phủ"
+    ],
+    "image": "/assets/images/rev-1945-1954.jpg"
+  },
+  {
+    "id": 4,
+    "period": "1954 - 1969",
+    "title": "Xây dựng miền Bắc, đấu tranh thống nhất đất nước",
+    "description": "Miền Bắc tiến hành xây dựng CNXH, chi viện cho miền Nam kháng chiến chống Mỹ. Người kêu gọi đoàn kết toàn dân, hướng tới thống nhất đất nước.",
+    "keyEvents": [
+      "1959: Đề ra đường lối cách mạng miền Nam",
+      "1966: Lời kêu gọi không có gì quý hơn độc lập tự do",
+      "1969: Hồ Chí Minh qua đời, để lại Di chúc thiêng liêng"
+    ],
+    "image": "/assets/images/rev-1954-1969.jpg"
+  }
+]

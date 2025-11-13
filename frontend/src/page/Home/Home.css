@@ -1,8 +1,262 @@
-.home-page {
-    text-align: center;
-    padding: 40px 20px;
+.home {
+    font-family: "Segoe UI", serif;
+    background-color: #f9f5ef;
+    color: #3b2c1a;
+    overflow-x: hidden;
 }
 
-.home-page h2 {
-    color: #7a4a1e;
+/* Fade in */
+.fade-in {
+    animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* HERO */
+.hero {
+    width: 100%;
+    height: 90vh;
+    overflow: hidden;
+    margin-bottom: 4rem;
+}
+
+.hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(90%) contrast(105%);
+    user-select: none;
+}
+
+/* ABOUT */
+.section {
+    padding: 4rem 1.5rem;
+}
+
+/* Wrapper chứa ảnh và chữ, có ảnh nền */
+.about-wrapper {
+    display: flex;
+    gap: 3rem;
+    background-size: cover;
+    background-position: center;
+    padding: 3rem 2rem;
+    border-radius: 16px;
+    box-shadow: inset 0 0 80px rgba(0, 0, 0, 0.5);
+    max-width: 1200px;
+    margin: 0 auto;
+    color: #f9f5ef;
+    /* chữ sáng để nổi trên nền tối */
+}
+
+/* Ảnh bên trái */
+.about-left {
+    position: relative;
+    flex: 1 1 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Ảnh slideshow */
+.about-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    object-fit: cover;
+    border-radius: 0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    user-select: none;
+}
+
+/* Nút điều hướng < > */
+.nav-btn {
+    background: transparent;
+    /* bỏ nền */
+    border-radius: 0;
+    /* bỏ bo tròn */
+    color: #000;
+    /* hoặc màu nào phù hợp để nhìn rõ nút */
+    border: none;
+    /* bỏ viền nếu có */
+    font-size: 2.5rem;
+    cursor: pointer;
+    padding: 0 0.6rem;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    user-select: none;
+    width: auto;
+    height: auto;
+    line-height: normal;
+    text-align: center;
+    font-weight: 700;
+    z-index: 2;
+}
+
+
+.about-left:hover .nav-btn {
+    opacity: 1;
+}
+
+.nav-btn.left {
+    left: 10px;
+}
+
+.nav-btn.right {
+    right: 10px;
+}
+
+/* Dots bên dưới ảnh */
+.dots {
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 0.6rem;
+    z-index: 2;
+    user-select: none;
+    width: 100%;
+    max-width: 600px;
+    justify-content: center;
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+.dot.active {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+/* Phần chữ bên phải */
+.about-right {
+    flex: 1 1 40%;
+    color: #f9f5ef;
+    text-align: left;
+    max-width: 500px;
+    user-select: text;
+}
+
+.about-right h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #f9f5ef;
+}
+
+.about-right p {
+    line-height: 1.8;
+    font-size: 1.2rem;
+    color: #f9f5ef;
+    text-align: justify;
+}
+
+/* Responsive cho mobile */
+@media (max-width: 768px) {
+    .about-wrapper {
+        flex-direction: column;
+        padding: 2rem 1rem;
+    }
+
+    .about-left {
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    .about-image {
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+    }
+
+    .nav-btn.left {
+        left: 10px;
+    }
+
+    .nav-btn.right {
+        right: 10px;
+    }
+
+    .dots {
+        max-width: 100%;
+        width: 100%;
+        bottom: 10px;
+    }
+
+    .about-right {
+        max-width: 100%;
+        text-align: center;
+        color: #3b2c1a;
+        /* đổi màu chữ tối trên nền sáng */
+    }
+
+    .about-right h2 {
+        font-size: 2rem;
+    }
+
+    .about-right p {
+        font-size: 1rem;
+    }
+}
+
+.about-left {
+    /* ... các style cũ ... */
+    background-size: 150% auto;
+    /* phóng to ảnh nền 1.5 lần theo chiều ngang */
+    background-position: center center;
+}
+
+.about-left {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: 150% auto;
+    /* phóng to ảnh nền 1.5 lần chiều ngang */
+    background-position: center center;
+    /* tăng padding để ảnh nền chiếm nhiều chỗ hơn */
+    border-radius: 8px;
+    gap: 2rem;
+    min-height: 400px;
+    /* tăng chiều cao tối thiểu */
+}
+
+.about-image {
+    width: 70vw;
+    /* tăng chiều rộng slideshow */
+    max-width: 700px;
+    height: auto;
+    /* giữ tỉ lệ */
+    object-fit: cover;
+    border-radius: 0;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    position: relative;
+    z-index: 1;
+    user-select: none;
+}
+
+.hero {
+    width: 100%;
+    height: 90vh;
+    overflow: hidden;
+    margin-bottom: 0rem;
+    /* giảm từ 4rem xuống 0rem */
 }

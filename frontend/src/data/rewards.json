@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Anh hùng Giải phóng Dân tộc",
+    "year": "1975",
+    "organization": "Nhà nước Việt Nam",
+    "description": "Tôn vinh công lao to lớn của Chủ tịch Hồ Chí Minh trong sự nghiệp giải phóng dân tộc."
+  },
+  {
+    "id": 2,
+    "title": "Huân chương Lenin",
+    "year": "1960",
+    "organization": "Liên Xô (cũ)",
+    "description": "Ghi nhận công lao to lớn của Người trong phong trào cộng sản và công nhân quốc tế."
+  }
+]
