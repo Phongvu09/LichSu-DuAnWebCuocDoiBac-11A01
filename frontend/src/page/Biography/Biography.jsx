@@ -71,7 +71,7 @@ export default function Biography() {
                 {/* 3. Card grid */}
                 <section className="bio-section card-grid">
                     <div className="card">
-                        <h3>🇫🇷 Hoạt động ở Pháp và Quốc tế Cộng sản (1917 - 1924)</h3>
+                        <h3>Hoạt động ở Pháp và Quốc tế Cộng sản (1917 - 1924)</h3>
                         <p>
                             Cuối năm 1917, Người rời Anh, quay trở lại Pháp, tham gia hoạt động
                             sôi nổi trong phong trào của Việt kiều yêu nước và giai cấp công nhân
@@ -119,7 +119,7 @@ export default function Biography() {
 
                 {/* 5. Pattern background */}
                 <section className="bio-section pattern-bg">
-                    <h2>🇨🇳 Hoạt động tại Trung Quốc và thành lập Việt Minh</h2>
+                    <h2>Hoạt động tại Trung Quốc và thành lập Việt Minh</h2>
                     <p>
                         Tháng 11/1924, với tư cách là Ủy viên Ban Phương Đông Quốc tế Cộng sản
                         và Ủy viên Đoàn Chủ tịch Quốc tế Nông dân, Nguyễn Ái Quốc đến Quảng

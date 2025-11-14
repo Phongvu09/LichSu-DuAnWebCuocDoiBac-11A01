@@ -110,7 +110,7 @@
     margin-bottom: 60px;
     box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.3);
     color: #f6eecf;
-    text-align: center;
+    /* text-align: center; */
     user-select: none;
 }
 
@@ -140,7 +140,7 @@
         repeating-radial-gradient(circle at center, #f6eecf 0, #f6eecf 8px, #f0d84b 9px, #f0d84b 12px);
     padding: 60px 40px;
     border-radius: 24px;
-    text-align: center;
+    /* text-align: center; */
     color: #4a3c1a;
     user-select: text;
     box-shadow: 0 15px 40px rgba(165, 130, 38, 0.2);
@@ -209,7 +209,7 @@
     position: absolute;
     color: #fff;
     font-family: 'Playfair Display', serif;
-    text-align: center;
+    /* text-align: center; */
     max-width: 700px;
     padding: 0 20px;
 }
@@ -272,4 +272,51 @@
     /* có thể giảm khoảng cách dòng nếu cần */
     color: #5d4c1f;
     /* giữ màu hiện tại */
+}
+
+.bio-section.parallax {
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 30px;
+    border-radius: 24px;
+    margin-bottom: 60px;
+    box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.3);
+    color: #f6eecf;
+    /* text-align: center; */
+    user-select: none;
+    overflow: hidden;
+    /* thêm để chứa ::before */
+}
+
+.bio-section.parallax::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    /* top:0; right:0; bottom:0; left:0; */
+    background-color: rgba(0, 0, 0, 0.5);
+    /* màu đen mờ */
+    z-index: 0;
+}
+
+.parallax-text {
+    position: relative;
+    /* nâng lên trên lớp overlay */
+    max-width: 700px;
+    margin: 0 auto;
+    text-shadow:
+        0 0 10px rgba(0, 0, 0, 0.7),
+        0 0 20px rgba(0, 0, 0, 0.5);
+    z-index: 1;
+}
+
+.bio-section.card-grid .card p {
+    font-size: 1.2rem;
+    /* hoặc kích thước bạn muốn, nhỏ hơn mặc định */
+    line-height: 1.4;
+    /* chỉnh cho dễ đọc */
+    color: #5d4c1f;
+    /* giữ màu như cũ hoặc thay đổi tùy ý */
 }

@@ -88,7 +88,7 @@ export default function Header() {
         },
         {
             title: "Cuộc đời",
-            link: "/",
+            link: "",
             dropdown: [
                 { name: "Tiểu sử", link: "/biography" },
                 { name: "Yếu tố tác động đến quá trình hoạt động cách mạng", link: "/factors" },
@@ -113,7 +113,7 @@ export default function Header() {
         },
         {
             title: "Dấu ấn của Người",
-            link: "/learn",
+            link: "",
             dropdown: [
                 {
                     name: "Với dân tộc Việt Nam", link: "/legacy",
