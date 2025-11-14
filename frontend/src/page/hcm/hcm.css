@@ -1,4 +1,4 @@
-.legacy {
+.hcm1-container {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
@@ -8,7 +8,7 @@
 
 .cover {
     position: relative;
-    height: 300px;
+    height: 280px;
     overflow: hidden;
     margin-bottom: 30px;
     display: flex;
@@ -40,9 +40,34 @@
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
 
-.content-section {
-    font-size: 1.2rem;
+.content {
+    font-size: 1.1rem;
     line-height: 1.6;
     color: #444;
-    padding: 10px 20px;
+}
+
+.illustration-wrapper {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.illustration-wrapper img {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgb(0 0 0 / 0.2);
+}
+
+ol {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.poem {
+    background-color: #f8f3e7;
+    border-left: 5px solid #d2994b;
+    padding: 15px 20px;
+    font-style: italic;
+    white-space: pre-wrap;
+    color: #6a4a00;
+    border-radius: 4px;
 }

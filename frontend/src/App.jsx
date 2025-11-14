@@ -14,6 +14,10 @@ import LegacyWorld from "./page/Legacy/Legacy-World.jsx";
 import Legacy_DSVVHDD from "./page/Legacy/Legacy-DSVVHDD.jsx";
 import Factors from "./page/Factors/Factors.jsx";
 import Contributions from "./page/Contrubutions/Contributions.jsx";
+import Story from "./page/story/story.jsx";
+import Learn from "./page/Learn/Learn.jsx";
+import HCM1 from "./page/hcm/hcm1.jsx";
+import HCM2 from "./page/hcm/hcm2.jsx";
 
 import "./App.css";
 
@@ -36,6 +40,11 @@ function App() {
           <Route path="/legacy-dsvvhdd" element={<Legacy_DSVVHDD />} />
           <Route path="/factors" element={<Factors />} />
           <Route path="/contributions" element={<Contributions />} />
+          <Route path="/story" element={<Story />} />
+          <Route path="/learn" element={<Learn />} />
+          <Route path="/hcm1" element={<HCM1 />} />
+          <Route path="/hcm2" element={<HCM2 />} />
+
 
 
 

@@ -2,7 +2,7 @@ import React from "react";
 import "./LegacyWorld.css";
 
 // Ảnh bìa
-import cover from "../../assets/home/bia-trang-chu.png";
+import cover from "../../assets/legacy/NEN.jpg";
 
 // NGA – 3 ảnh
 import nga1 from "../../assets/legacy/nga1.png";

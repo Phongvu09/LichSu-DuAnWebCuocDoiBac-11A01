@@ -128,10 +128,30 @@ export default function Header() {
         {
             title: "Các tác phẩm của Bác",
             link: "/learn",
+            dropdown: [
+                { name: "Hồ Chí Minh toàn tập 1", link: "/hcm1" },
+                { name: "Hồ Chí Minh toàn tập 2", link: "/hcm2" },
+                { name: "Hồ Chí Minh toàn tập 3", link: "/hcm3" },
+                { name: "Hồ Chí Minh toàn tập 4", link: "/hcm4" },
+                { name: "Hồ Chí Minh toàn tập 5", link: "/hcm5" },
+                { name: "Hồ Chí Minh toàn tập 6", link: "/hcm6" },
+                { name: "Hồ Chí Minh toàn tập 7", link: "/hcm7" },
+                { name: "Hồ Chí Minh toàn tập 8", link: "/hcm8" },
+                { name: "Hồ Chí Minh toàn tập 9", link: "/hcm9" },
+                { name: "Hồ Chí Minh toàn tập 10", link: "/hcm10" },
+                { name: "Hồ Chí Minh toàn tập 11", link: "/hcm11" },
+                { name: "Hồ Chí Minh toàn tập 12", link: "/hcm12" },
+                { name: "Hồ Chí Minh toàn tập 13", link: "/hcm13" },
+                { name: "Hồ Chí Minh toàn tập 14", link: "/hcm14" },
+                { name: "Hồ Chí Minh toàn tập 15", link: "/hcm15" },
+
+            ],
         },
         {
-            title: "Mẫu truyện",
-            link: "/learn",
+            title: "Mẩu chuyện",
+            link: "/story",
+
+
         },
     ];
 
