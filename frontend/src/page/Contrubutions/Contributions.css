@@ -1,0 +1,156 @@
+.contributions {
+    width: 100%;
+    background: #f7f3ee;
+    color: #3a2e25;
+    overflow-x: hidden;
+}
+
+/* HERO */
+.contri-hero {
+    position: relative;
+    width: 100%;
+    height: 85vh;
+    overflow: hidden;
+}
+
+.contri-hero-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(70%);
+    transform: scale(1.1);
+    animation: heroZoom 8s ease forwards;
+}
+
+@keyframes heroZoom {
+    from {
+        transform: scale(1.15);
+    }
+
+    to {
+        transform: scale(1);
+    }
+}
+
+.contri-hero-text {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    color: #fff;
+    max-width: 700px;
+    animation: slideUp 1s ease forwards;
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.contri-hero-text h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+}
+
+/* INTRO */
+.contri-intro {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.quote {
+    font-style: italic;
+    color: #4a3a30;
+    font-size: 1.3rem;
+    margin-bottom: 25px;
+}
+
+.author {
+    display: block;
+    margin-top: 8px;
+    font-weight: 600;
+    color: #6a4d3b;
+}
+
+/* LAYOUT */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.contri-section {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding: 70px 0;
+    opacity: 0;
+    animation: fadeSection 1s ease forwards;
+}
+
+.contri-section.reverse {
+    flex-direction: row-reverse;
+}
+
+@keyframes fadeSection {
+    to {
+        opacity: 1;
+    }
+}
+
+.contri-content {
+    flex: 1;
+}
+
+.contri-content h2 {
+    font-size: 2.1rem;
+    color: #5c3f2e;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.contri-content p {
+    font-size: 1.08rem;
+    line-height: 1.7;
+    margin-bottom: 16px;
+}
+
+/* IMAGE */
+.contri-image-wrapper {
+    flex: 1;
+}
+
+.contri-image {
+    width: 100%;
+    border-radius: 16px;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.18);
+    transition: transform 0.35s ease;
+}
+
+.contri-image:hover {
+    transform: scale(1.03);
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+
+    .contri-section,
+    .contri-section.reverse {
+        flex-direction: column;
+    }
+
+    .contri-hero-text h1 {
+        font-size: 2rem;
+    }
+
+    .quote {
+        font-size: 1.15rem;
+    }
+}

@@ -31,7 +31,7 @@ export default function Biography() {
                 <section className="bio-section zigzag">
                     <img src={youthImg} alt="Thời niên thiếu" />
                     <div className="section-text">
-                        <h2>👶 Thời niên thiếu và thanh niên</h2>
+                        <h2>Thời niên thiếu và thanh niên</h2>
                         <p>
                             Hồ Chí Minh sinh ngày 19 tháng 5 năm 1890 tại quê ngoại là làng
                             Hoàng Trù (lúc bấy giờ thuộc xã xã Chung Cự, tổng Lâm Thịnh, huyện
@@ -98,7 +98,7 @@ export default function Biography() {
                     style={{ backgroundImage: `url(${vietnameseYouthImg})` }}
                 >
                     <div className="parallax-text">
-                        <h2>✊ Thành lập Hội Việt Nam Cách mạng Thanh niên và các hoạt động quốc tế</h2>
+                        <h2>Thành lập Hội Việt Nam Cách mạng Thanh niên và các hoạt động quốc tế</h2>
                         <p>
                             Năm 1921, Nguyễn Ái Quốc cùng một số nhà hoạt động từ các thuộc địa
                             Pháp tham gia thành lập Hội Liên hiệp các dân tộc thuộc địa. Tháng
@@ -143,7 +143,7 @@ export default function Biography() {
                 <section className="bio-section zigzag">
                     <img src={resistanceImg} alt="Kháng chiến" />
                     <div className="section-text">
-                        <h2>⚔️ Kháng chiến và thành lập nước Việt Nam Dân chủ Cộng hòa</h2>
+                        <h2>Kháng chiến và thành lập nước Việt Nam Dân chủ Cộng hòa</h2>
                         <p>
                             Tháng 8/1942, Người đại diện Mặt trận Việt Minh và Phân hội Việt Nam thuộc
                             Hiệp hội Quốc tế chống xâm lược sang Trung Quốc tìm kiếm sự liên minh
@@ -197,7 +197,7 @@ export default function Biography() {
                 {/* 8. Card grid */}
                 <section className="bio-section card-grid">
                     <div className="card">
-                        <h3>🏆 Di sản và tầm ảnh hưởng</h3>
+                        <h3>Di sản và tầm ảnh hưởng</h3>
                         <p>
                             Hồ Chí Minh là biểu tượng vĩ đại trong lịch sử Việt Nam và thế giới,
                             người đã đặt nền móng cho nền độc lập dân tộc và chủ nghĩa xã hội tại

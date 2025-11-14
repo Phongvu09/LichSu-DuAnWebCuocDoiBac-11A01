@@ -142,7 +142,7 @@ export default function Header() {
             <div className="header-row header-top">
                 <Link to="/" className="logo-area" onClick={() => setMenuOpen(false)}>
                     <div className="logo-text">
-                        <div className="site-title">Hành Trình Cuộc Đời Bác Hồ</div>
+                        <div className="site-title">THEO DẤU CHÂN NGƯỜI</div>
                         <div className="site-sub">Tư liệu — Dòng thời gian — Học tập</div>
                     </div>
                 </Link>

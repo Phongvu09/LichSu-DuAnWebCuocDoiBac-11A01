@@ -12,6 +12,8 @@ import TimelineDetail from "./page/TimelineDetail/TimelineDetail.jsx";
 import Legacy_TTHCM from "./page/Legacy/Legacy-TTHCM.jsx";
 import LegacyWorld from "./page/Legacy/Legacy-World.jsx";
 import Legacy_DSVVHDD from "./page/Legacy/Legacy-DSVVHDD.jsx";
+import Factors from "./page/Factors/Factors.jsx";
+import Contributions from "./page/Contrubutions/Contributions.jsx";
 
 import "./App.css";
 
@@ -32,6 +34,11 @@ function App() {
           <Route path="/legacy-tthcm" element={<Legacy_TTHCM />} />
           <Route path="/legacy-world" element={<LegacyWorld />} />
           <Route path="/legacy-dsvvhdd" element={<Legacy_DSVVHDD />} />
+          <Route path="/factors" element={<Factors />} />
+          <Route path="/contributions" element={<Contributions />} />
+
+
+
 
 
         </Routes>

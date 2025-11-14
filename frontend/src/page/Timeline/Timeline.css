@@ -3,7 +3,7 @@
     margin: 0 auto;
     padding: 40px 16px;
     color: #3b2e1a;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif
 }
 
 .timeline-heading {
@@ -109,4 +109,44 @@
     .timeline-content h2 {
         font-size: 1.1rem;
     }
+}
+
+.timeline-header {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    /* hoặc cao hơn tuỳ ý */
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+}
+
+.timeline-cover-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+    /* làm tối ảnh để chữ nổi bật */
+    z-index: 0;
+}
+
+.timeline-header-text {
+    position: relative;
+    color: #f9f5ef;
+    text-align: center;
+    z-index: 1;
+    font-family: 'Times New Roman', Times, serif;
+    user-select: none;
+}
+
+.timeline-header-text h1 {
+    margin: 0;
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
