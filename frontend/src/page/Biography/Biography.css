@@ -36,7 +36,7 @@
 .bio-section.circle-wrap {
     margin-bottom: 60px;
     position: relative;
-    font-size: 1.15rem;
+    font-size: 1.5rem;
     line-height: 1.7;
     text-align: justify;
     color: #5d4c1f;
@@ -93,7 +93,7 @@
 }
 
 .bio-section.card-grid .card p {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     line-height: 1.7;
     color: #5d4c1f;
 }
@@ -247,4 +247,29 @@
     /* tăng chiều cao */
     object-fit: cover;
     filter: brightness(0.7);
+}
+
+.bio-section.zigzag .section-text h2 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #a37c17;
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    /* căn giữa */
+}
+
+.bio-section.zigzag .section-text p {
+    font-size: 1.2rem;
+    line-height: 1.9;
+    color: #4a3c1a;
+}
+
+.bio-section.circle-wrap p {
+    font-size: 1.25rem;
+    /* hoặc giảm xuống kích thước bạn muốn */
+    line-height: 1.5;
+    /* có thể giảm khoảng cách dòng nếu cần */
+    color: #5d4c1f;
+    /* giữ màu hiện tại */
 }

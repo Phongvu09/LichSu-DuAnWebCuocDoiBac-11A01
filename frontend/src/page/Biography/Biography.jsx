@@ -10,6 +10,7 @@ import chinaImg from "../../assets/biography/china.webp";
 import resistanceImg from "../../assets/biography/resistance.jpg";
 import leadershipImg from "../../assets/biography/leadership.jpg";
 import legacyImg from "../../assets/biography/legacy.jpg";
+import nen from "../../assets/biography/nen.png"
 
 import "./Biography.css"
 
@@ -20,7 +21,7 @@ export default function Biography() {
 
             <section className="bio-hero">
                 <img
-                    src={heroImg}
+                    src={nen}
                     alt="Chủ tịch Hồ Chí Minh"
                     className="bio-hero-img"
                 />
@@ -144,7 +145,7 @@ export default function Biography() {
                     <img src={resistanceImg} alt="Kháng chiến" />
                     <div className="section-text">
                         <h2>Kháng chiến và thành lập nước Việt Nam Dân chủ Cộng hòa</h2>
-                        <p>
+                        <p className="a">
                             Tháng 8/1942, Người đại diện Mặt trận Việt Minh và Phân hội Việt Nam thuộc
                             Hiệp hội Quốc tế chống xâm lược sang Trung Quốc tìm kiếm sự liên minh
                             quốc tế nhằm phối hợp chống phát xít trên chiến trường Thái Bình Dương.
@@ -153,19 +154,19 @@ export default function Biography() {
                             trong tù” với 133 bài thơ chữ Hán. Tháng 9/1943, Hồ Chí Minh được trả
                             tự do.
                         </p>
-                        <p>
+                        {/* <p className="a">
                             Tháng 9/1944, Hồ Chí Minh trở về căn cứ Cao Bằng. Tháng 12/1944, Người
                             ra chỉ thị thành lập Đội Việt Nam tuyên truyền giải phóng quân, tổ chức
                             tiền thân của Quân đội nhân dân Việt Nam.
                         </p>
-                        <p>
+                        <p className="a">
                             Tháng 5/1945, Hồ Chí Minh di chuyển từ Cao Bằng về Tân Trào (Tuyên Quang).
                             Tại đây, theo đề nghị của Người, Hội nghị toàn quốc của Đảng và Đại hội
                             Quốc dân đã họp, đi đến quyết định tiến hành Tổng khởi nghĩa. Đại hội
                             Quốc dân bầu ra Ủy ban giải phóng dân tộc Việt Nam (tức Chính phủ lâm
                             thời) do Hồ Chí Minh giữ chức Chủ tịch.
-                        </p>
-                        <p>
+                        </p> */}
+                        <p className="a">
                             Vào tháng 8/1945, Hồ Chí Minh cùng Trung ương Đảng lãnh đạo nhân dân
                             khởi nghĩa thành công, giành lấy chính quyền. Ngày 2/9/1945, tại Quảng
                             trường Ba Đình (Hà Nội), Hồ Chí Minh đọc “Tuyên ngôn độc lập”, chính thức

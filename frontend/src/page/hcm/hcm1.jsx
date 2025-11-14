@@ -1,5 +1,5 @@
 import React from "react";
-import "./hcm.css";
+import "./hcm1.css";
 
 // Ảnh bìa và ảnh minh họa
 import cover from "../../assets/TPCB.png"; // Thay bằng ảnh bìa thật của bạn
