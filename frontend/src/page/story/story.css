@@ -46,3 +46,10 @@
     color: #444;
     padding: 10px 20px;
 }
+
+.cover {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    /* kéo ra khỏi max-width */
+    margin-right: calc(50% - 50vw);
+}

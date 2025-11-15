@@ -107,10 +107,16 @@ export default function TimelineDetail() {
 
     return (
         <div className="timeline-detail container">
-            <header className="timeline-header" data-aos="fade-down">
-                <h1 className="timeline-year">{item.year}</h1>
-                <h2 className="timeline-main-title">{item.title}</h2>
+            <header style={{ textAlign: "center", marginBottom: "1.5rem" }}>
+                <h1 style={{ fontSize: "1.8rem", fontWeight: "700", color: "#4b3b2b", margin: 0 }}>
+                    {item.year}
+                </h1>
+                <h2 style={{ fontSize: "1.4rem", fontStyle: "italic", color: "#533f1a", marginTop: "0.3rem" }}>
+                    {item.title}
+                </h2>
             </header>
+
+
 
             {stages.length === 0 && (
                 <p className="no-stage" data-aos="fade-up">

@@ -13,21 +13,40 @@ export default function Home() {
     return (
         <div className="home fade-in">
             {/* HERO */}
-            <section className="hero">
-                <img src={bia} alt="Bìa trang chủ" className="hero-image" />
+            <section className="hero-img-section">
+                <img src={bia} alt="hero" className="hero-img" />
             </section>
 
-            <section className="hero">
-                <img src={aboutUs} alt="Bìa trang chủ" className="hero-image" />
+            <section className="hero-img-section">
+                <img src={aboutUs} alt="hero" className="hero-img" />
             </section>
 
-            <section className="hero">
-                <img src={why} alt="Bìa trang chủ" className="hero-image" />
+            <section className="hero-img-section">
+                <img src={why} alt="hero" className="hero-img" />
             </section>
 
-            <section className="hero">
-                <img src={thanks} alt="Bìa trang chủ" className="hero-image" />
+            <section className="hero-img-section">
+                <img src={thanks} alt="hero" className="hero-img" />
             </section>
+
+
+            {/* READ MORE SECTION */}
+            <section className="read-more fade-up">
+                <div className="read-card">
+                    <img src={aboutUs} alt="Cuộc đời Bác" className="read-image" />
+                    <h3>Cuộc đời và sự nghiệp</h3>
+                    <p>Tìm hiểu chặng đường hoạt động cách mạng, tư tưởng và nhân cách Hồ Chí Minh.</p>
+                    <a href="/biography" className="read-btn">Xem chi tiết</a>
+                </div>
+
+                <div className="read-card">
+                    <img src={why} alt="Dòng thời gian" className="read-image" />
+                    <h3>Dòng thời gian cuộc đời</h3>
+                    <p>Khám phá từng giai đoạn lịch sử qua mốc thời gian rõ ràng, trực quan.</p>
+                    <a href="/timeline" className="read-btn">Khám phá</a>
+                </div>
+            </section>
+
 
 
 
