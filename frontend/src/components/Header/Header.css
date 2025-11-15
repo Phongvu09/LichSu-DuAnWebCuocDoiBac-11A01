@@ -686,3 +686,10 @@
 .submenu li a:hover {
     background-color: #eee;
 }
+
+.no-link {
+    cursor: default !important;
+    user-select: none;
+    pointer-events: auto;
+    /* để nhận click nhưng không lan ra cha */
+}

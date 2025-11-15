@@ -1,5 +1,6 @@
 import React from "react";
 import "./Legacy.css";
+import Cover from "../../config/Cover";
 
 import cover from "../../assets/legacy/NEN.jpg";
 import img3 from "../../assets/home/bia-trang-chu.png";
@@ -11,12 +12,10 @@ function Divider() {
 
 export default function Legacy_TTHCM() {
     return (
+
+
         <div className="legacy">
             {/* Ảnh bìa */}
-            <header className="cover">
-                <img src={cover} alt="Ảnh bìa Legacy" className="cover-image" />
-                <h1 className="cover-title">Legacy</h1>
-            </header>
 
             {/* Phần Giới thiệu Tư tưởng Hồ Chí Minh */}
             <section className="intro">

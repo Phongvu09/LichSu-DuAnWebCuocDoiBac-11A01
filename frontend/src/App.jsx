@@ -18,12 +18,24 @@ import Story from "./page/story/story.jsx";
 import Learn from "./page/Learn/Learn.jsx";
 import HCM1 from "./page/hcm/hcm1.jsx";
 import HCM2 from "./page/hcm/hcm2.jsx";
+import ScrollToTop from "./config/ScrollToTop.jsx";
+import StoryPage1 from "./page/story/children/story1.jsx";
+import StoryPage2 from "./page/story/children/story2.jsx";
+import StoryPage3 from "./page/story/children/story3.jsx";
+import StoryPage4 from "./page/story/children/story4.jsx";
+import StoryPage5 from "./page/story/children/story5.jsx";
+import StoryPage6 from "./page/story/children/story6.jsx";
+
+
+
+
 
 import "./App.css";
 
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <Header />
       <main className="app-content">
         <Routes>
@@ -44,6 +56,15 @@ function App() {
           <Route path="/learn" element={<Learn />} />
           <Route path="/hcm1" element={<HCM1 />} />
           <Route path="/hcm2" element={<HCM2 />} />
+          <Route path="/story1" element={<StoryPage1 />} />
+          <Route path="/story2" element={<StoryPage2 />} />
+          <Route path="/story3" element={<StoryPage3 />} />
+          <Route path="/story4" element={<StoryPage4 />} />
+          <Route path="/story5" element={<StoryPage5 />} />
+          <Route path="/story6" element={<StoryPage6 />} />
+
+
+
 
 
 

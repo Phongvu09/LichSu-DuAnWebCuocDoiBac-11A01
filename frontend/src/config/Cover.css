@@ -1,0 +1,46 @@
+.cover {
+    position: relative;
+    width: 100vw;
+    /* full chiều ngang viewport */
+    height: 100vh;
+    /* full chiều cao viewport */
+    overflow: hidden;
+
+    /* kéo ra khỏi mọi container padding/margin */
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #222;
+    box-sizing: border-box;
+}
+
+.cover-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+    filter: brightness(40%);
+    z-index: 0;
+}
+
+.cover-title {
+    position: relative;
+    z-index: 1;
+    color: #f9f5ef;
+    font-size: 6rem;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.85);
+    user-select: none;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 0 1rem;
+}

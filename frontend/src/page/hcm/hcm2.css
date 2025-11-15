@@ -67,3 +67,40 @@
 .hcm2-content li b {
     color: #2a3e66;
 }
+
+.hcm2-cover {
+    position: relative;
+    width: 100vw;
+    /* chiếm full chiều ngang viewport */
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    height: 300px;
+    margin-bottom: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5d0b6;
+    color: #f0e9dc;
+    user-select: none;
+    border-radius: 0;
+    /* bỏ bo góc để không bị tràn viền */
+    box-shadow: none;
+    /* bỏ shadow nếu muốn ảnh full liền */
+    overflow: hidden;
+    /* ẩn phần ảnh tràn ra */
+}
+
+.hcm2-cover-image {
+    width: 100%;
+    /* full chiều ngang phần cover */
+    height: 1000%;
+    /* full chiều cao phần cover */
+    object-fit: cover;
+    /* cắt ảnh vừa cover đầy đủ */
+    margin-bottom: 0;
+    border-radius: 0;
+    /* bỏ bo góc */
+}

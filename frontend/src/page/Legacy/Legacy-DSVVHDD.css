@@ -6,7 +6,7 @@
 }
 
 .legacy {
-    font-family: "Georgia", "Times New Roman", serif;
+    font-family: 'Times New Roman', Times, serif;
     background: linear-gradient(135deg, #f9f6f0 0%, #e6dcc9 100%);
     color: #4a3d1b;
     padding-bottom: 4rem;
@@ -285,4 +285,10 @@
         font-size: 1.1rem;
         padding: 0 1.5rem;
     }
+}
+
+/* Bắt buộc toàn bộ con trong legacy cũng dùng Times New Roman */
+.legacy,
+.legacy * {
+    font-family: 'Times New Roman', Times, serif !important;
 }

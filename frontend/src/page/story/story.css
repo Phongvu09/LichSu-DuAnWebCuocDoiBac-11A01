@@ -53,3 +53,83 @@
     /* kéo ra khỏi max-width */
     margin-right: calc(50% - 50vw);
 }
+
+/* LIST dọc */
+.story-vertical-list {
+    position: relative;
+    max-width: 850px;
+    margin: 40px auto;
+    padding-left: 30px;
+}
+
+/* ĐƯỜNG DỌC */
+.story-vertical-list::before {
+    content: "";
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: linear-gradient(#7a4a1e, #c79b62);
+    opacity: 0.4;
+    border-radius: 4px;
+}
+
+/* ITEM */
+.story-vertical-item {
+    position: relative;
+    margin-bottom: 32px;
+    cursor: pointer;
+}
+
+/* DOT */
+.story-dot {
+    position: absolute;
+    left: -2px;
+    top: 10px;
+    width: 15px;
+    height: 15px;
+    background: #7a4a1e;
+    border-radius: 50%;
+    box-shadow: 0 0 0 4px #f9f5ef;
+}
+
+/* BOX */
+.story-box {
+    background: #fff7ef;
+    padding: 18px 22px;
+    border-radius: 10px;
+    border-left: 5px solid #7a4a1e;
+    transition: 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.story-box:hover {
+    transform: translateY(-4px);
+    background: #fff2e3;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+}
+
+/* TEXT */
+.story-box h3 {
+    margin: 0 0 6px;
+    font-size: 1.3rem;
+    color: #3b2e1a;
+}
+
+.story-box p {
+    margin: 0 0 10px;
+    color: #4a3c27;
+}
+
+/* LINK */
+.story-more {
+    text-decoration: none;
+    font-weight: bold;
+    color: #7a4a1e;
+    transition: 0.2s;
+}
+
+.story-more:hover {
+    color: #b47437;
+}

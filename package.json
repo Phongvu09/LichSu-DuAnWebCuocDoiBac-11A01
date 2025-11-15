@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "lucide-react": "^0.547.0"
+    "lucide-react": "^0.547.0",
+    "react-parallax-tilt": "^1.7.313"
   }
 }

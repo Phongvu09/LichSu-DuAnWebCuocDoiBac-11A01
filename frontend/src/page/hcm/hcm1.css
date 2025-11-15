@@ -166,3 +166,28 @@ ol {
     color: #2c3e50;
     /* màu nổi bật */
 }
+
+.content p {
+    font-size: 1.3rem;
+    /* tăng lên 1.4rem cho chữ đoạn văn to hơn */
+    line-height: 1.8;
+    color: #444;
+}
+
+.content ol {
+    font-size: 1.3rem;
+    /* tăng size cho danh sách */
+    padding-left: 25px;
+    margin-bottom: 25px;
+}
+
+.content ol li {
+    margin-bottom: 0.8rem;
+}
+
+.poem {
+    font-size: 1.3rem;
+    /* tăng chữ đoạn thơ */
+    line-height: 1.7;
+    /* các style khác giữ nguyên */
+}

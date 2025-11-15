@@ -48,7 +48,7 @@ export default function Contributions() {
             {/* SECTION 1 */}
             <section className="contri-section container">
                 <div className="contri-content">
-                    <h2>I. Người đã dùng cả một đời vì nước vì non</h2>
+                    <h2>I. Người đã sống cả một đời vì nước vì non</h2>
 
                     <p>
                         Chủ tịch Hồ Chí Minh sinh ngày 19/5/1890 tại Nam Đàn – Nghệ An, trong

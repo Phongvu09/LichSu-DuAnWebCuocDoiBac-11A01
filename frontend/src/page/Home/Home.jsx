@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./Home.css";
+import { Link, useNavigate } from "react-router-dom";
 
 import bia from "../../assets/home/bia-trang-chu.png";
 
@@ -36,14 +37,13 @@ export default function Home() {
                     <img src={aboutUs} alt="Cuộc đời Bác" className="read-image" />
                     <h3>Cuộc đời và sự nghiệp</h3>
                     <p>Tìm hiểu chặng đường hoạt động cách mạng, tư tưởng và nhân cách Hồ Chí Minh.</p>
-                    <a href="/biography" className="read-btn">Xem chi tiết</a>
-                </div>
+                    <Link to="/biography" className="read-btn">Xem chi tiết</Link>                </div>
 
                 <div className="read-card">
                     <img src={why} alt="Dòng thời gian" className="read-image" />
                     <h3>Dòng thời gian cuộc đời</h3>
                     <p>Khám phá từng giai đoạn lịch sử qua mốc thời gian rõ ràng, trực quan.</p>
-                    <a href="/timeline" className="read-btn">Khám phá</a>
+                    <Link to="/timeline" className="read-btn">Khám phá</Link>
                 </div>
             </section>
 

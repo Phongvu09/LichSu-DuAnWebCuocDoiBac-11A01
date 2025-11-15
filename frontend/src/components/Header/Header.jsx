@@ -90,19 +90,19 @@ export default function Header() {
             title: "Cuộc đời",
             link: "",
             dropdown: [
-                { name: "Tiểu sử", link: "/biography" },
-                { name: "Yếu tố tác động đến quá trình hoạt động cách mạng", link: "/factors" },
+                { name: "1.Tiểu sử", link: "/biography" },
+                { name: "2.Yếu tố tác động đến quá trình hoạt động cách mạng", link: "/factors" },
             ],
         },
         {
             title: "Quá trình hoạt động cách mạng",
             link: "/timeline",
             dropdown: [
-                { name: "Giai đoạn 1 (Trước 1911)", link: "/timeline/1" },
-                { name: "Giai đoạn 2 (1911 -1920)", link: "/timeline/2" },
-                { name: "Giai đoạn 3 (1920 - 1931)", link: "/timeline/3" },
-                { name: "Giai đoạn 4 (1931 - 1945)", link: "/timeline/4" },
-                { name: "Giai đoạn 5 (1945 - 1969)", link: "/timeline/5" },
+                { name: "1.Giai đoạn 1 (Trước 1911)", link: "/timeline/1" },
+                { name: "2.Giai đoạn 2 (1911 -1920)", link: "/timeline/2" },
+                { name: "3.Giai đoạn 3 (1920 - 1931)", link: "/timeline/3" },
+                { name: "4.Giai đoạn 4 (1931 - 1945)", link: "/timeline/4" },
+                { name: "5.Giai đoạn 5 (1945 - 1969)", link: "/timeline/5" },
 
 
             ],
@@ -116,10 +116,10 @@ export default function Header() {
             link: "",
             dropdown: [
                 {
-                    name: "Với dân tộc Việt Nam", link: "/legacy",
+                    name: "Với dân tộc Việt Nam",
                     dropdown: [
-                        { name: "Di sản về tư tưởng", link: "/legacy-tthcm" },
-                        { name: "Di sản về văn và hóa đạo đức", link: "/legacy-dsvvhdd" },
+                        { name: "1.Di sản về tư tưởng", link: "/legacy-tthcm" },
+                        { name: "2.Di sản về văn và hóa đạo đức", link: "/legacy-dsvvhdd" },
                     ],
                 },
                 { name: "Với lịch sử Thế giới", link: "/legacy-world" },
@@ -129,28 +129,37 @@ export default function Header() {
             title: "Các tác phẩm của Bác",
             link: "/learn",
             dropdown: [
-                { name: "Hồ Chí Minh toàn tập 1", link: "/hcm1" },
-                { name: "Hồ Chí Minh toàn tập 2", link: "/hcm2" },
-                { name: "Hồ Chí Minh toàn tập 3", link: "/hcm3" },
-                { name: "Hồ Chí Minh toàn tập 4", link: "/hcm4" },
-                { name: "Hồ Chí Minh toàn tập 5", link: "/hcm5" },
-                { name: "Hồ Chí Minh toàn tập 6", link: "/hcm6" },
-                { name: "Hồ Chí Minh toàn tập 7", link: "/hcm7" },
-                { name: "Hồ Chí Minh toàn tập 8", link: "/hcm8" },
-                { name: "Hồ Chí Minh toàn tập 9", link: "/hcm9" },
-                { name: "Hồ Chí Minh toàn tập 10", link: "/hcm10" },
-                { name: "Hồ Chí Minh toàn tập 11", link: "/hcm11" },
-                { name: "Hồ Chí Minh toàn tập 12", link: "/hcm12" },
-                { name: "Hồ Chí Minh toàn tập 13", link: "/hcm13" },
-                { name: "Hồ Chí Minh toàn tập 14", link: "/hcm14" },
-                { name: "Hồ Chí Minh toàn tập 15", link: "/hcm15" },
+                { name: "1.Hồ Chí Minh toàn tập 1", link: "/hcm1" },
+                { name: "2.Hồ Chí Minh toàn tập 2", link: "/hcm2" },
+                { name: "3.Hồ Chí Minh toàn tập 3", link: "/hcm3" },
+                { name: "4.Hồ Chí Minh toàn tập 4", link: "/hcm4" },
+                { name: "5.Hồ Chí Minh toàn tập 5", link: "/hcm5" },
+                { name: "6.Hồ Chí Minh toàn tập 6", link: "/hcm6" },
+                { name: "7.Hồ Chí Minh toàn tập 7", link: "/hcm7" },
+                { name: "8.Hồ Chí Minh toàn tập 8", link: "/hcm8" },
+                { name: "9.Hồ Chí Minh toàn tập 9", link: "/hcm9" },
+                { name: "10.Hồ Chí Minh toàn tập 10", link: "/hcm10" },
+                { name: "11.Hồ Chí Minh toàn tập 11", link: "/hcm11" },
+                { name: "12.Hồ Chí Minh toàn tập 12", link: "/hcm12" },
+                { name: "13.Hồ Chí Minh toàn tập 13", link: "/hcm13" },
+                { name: "14.Hồ Chí Minh toàn tập 14", link: "/hcm14" },
+                { name: "15.Hồ Chí Minh toàn tập 15", link: "/hcm15" },
 
             ],
         },
         {
             title: "Mẩu chuyện",
             link: "/story",
+            dropdown: [
+                { name: "1.Câu chuyện & bài học rút ra", link: "/story1" },
+                { name: "2.Bác Hồ & thiếu nhi", link: "/story2" },
+                { name: "3.Bác Hồ với thanh niên", link: "/story3" },
+                { name: "4.Bác Hồ & chiến sĩ", link: "/story4" },
+                { name: "5.Một số câu chuyện khác", link: "/story5" },
+                { name: "6.Một số câu chuyện khác", link: "/story6" }
 
+
+            ],
 
         },
     ];
@@ -188,16 +197,26 @@ export default function Header() {
                                 onMouseEnter={() => setActiveDropdown(i)}
                                 onMouseLeave={() => setActiveDropdown(null)}
                             >
-                                <Link to={m.link} onClick={() => setMenuOpen(false)} className="nav-link">
-                                    {m.title}
-                                </Link>
+                                {m.link ? (
+                                    <Link to={m.link} onClick={() => setMenuOpen(false)} className="nav-link">
+                                        {m.title}
+                                    </Link>
+                                ) : (
+                                    <span className="nav-link no-link">{m.title}</span>
+                                )}
+
                                 {m.dropdown && (
                                     <ul className={`dropdown ${activeDropdown === i ? "visible" : ""}`}>
                                         {m.dropdown.map((s, k) => (
                                             <li key={k} className={s.dropdown ? "has-submenu" : ""}>
-                                                <Link to={s.link} onClick={() => setMenuOpen(false)}>
-                                                    {s.name}
-                                                </Link>
+                                                {s.link ? (
+                                                    <Link to={s.link} onClick={() => setMenuOpen(false)}>
+                                                        {s.name}
+                                                    </Link>
+                                                ) : (
+                                                    <span className="no-link">{s.name}</span>
+                                                )}
+
 
                                                 {/* Nếu có dropdown con thì render submenu */}
                                                 {s.dropdown && (
