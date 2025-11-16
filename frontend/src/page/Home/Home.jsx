@@ -5,9 +5,11 @@ import { Link, useNavigate } from "react-router-dom";
 import bia from "../../assets/home/bia-trang-chu.png";
 
 import bgSlideshow from "../../assets/home/bia-trang-chu.png"; // ảnh nền chung cho vùng about
-import aboutUs from "../../assets/biography/nen.png";
-import why from "../../assets/YTQD.png"
+import aboutUs from "../../assets/home/nen.jpg";
+import why from "../../assets/home/vs.jpg"
 import thanks from "../../assets/home/lco.jpg"
+import a from "../../assets/biography/NEN.png"
+import b from "../../assets/YTQD.png"
 
 export default function Home() {
 
@@ -34,15 +36,15 @@ export default function Home() {
             {/* READ MORE SECTION */}
             <section className="read-more fade-up">
                 <div className="read-card">
-                    <img src={aboutUs} alt="Cuộc đời Bác" className="read-image" />
+                    <img src={a} alt="Cuộc đời Bác" className="read-image" />
                     <h3>Tiểu sử</h3>
-                    <p>Tìm hiểu tiểu sử cuộc đời bác</p>
+                    <p>Tìm hiểu tiểu sử về Hồ Chí Minh.</p>
                     <Link to="/biography" className="read-btn">Xem chi tiết</Link>                </div>
 
                 <div className="read-card">
-                    <img src={why} alt="Dòng thời gian" className="read-image" />
-                    <h3>Yếu tố tác động đến quá trình hoạt động cách mạng</h3>
-                    <p>Tìm hiêu yếu tố tác động đến quá trình hoạt động cách mạng</p>
+                    <img src={b} alt="Dòng thời gian" className="read-image" />
+                    <h3>Yếu tố quyết định</h3>
+                    <p>Tìm hiểu yếu tố quyết định đến quá trình hoạt động cách mạng</p>
                     <Link to="/factors" className="read-btn">Khám phá</Link>
                 </div>
             </section>
