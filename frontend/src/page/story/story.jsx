@@ -75,7 +75,7 @@ export default function Story() {
                 <div className="story-vertical-item" data-aos="fade-left">
                     <div className="story-dot"></div>
                     <div className="story-box">
-                        <h3>Những ngày đầu tìm đường cứu nước</h3>
+                        <h3>Những ngày đầu ra đi tìm đường cứu nước</h3>
                         <p>Hành trình mở đầu chí hướng vì độc lập dân tộc.</p>
                         <Link to="/story6" className="story-more">Xem chi tiết →</Link>
                     </div>
