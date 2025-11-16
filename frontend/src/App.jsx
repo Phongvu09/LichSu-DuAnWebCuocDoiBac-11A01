@@ -25,8 +25,7 @@ import StoryPage3 from "./page/story/children/story3.jsx";
 import StoryPage4 from "./page/story/children/story4.jsx";
 import StoryPage5 from "./page/story/children/story5.jsx";
 import StoryPage6 from "./page/story/children/story6.jsx";
-
-
+import StoryDetail from "./page/story/coc/storyDetail.jsx";
 
 
 
@@ -53,7 +52,7 @@ function App() {
           <Route path="/factors" element={<Factors />} />
           <Route path="/contributions" element={<Contributions />} />
           <Route path="/story" element={<Story />} />
-          <Route path="/learn" element={<Learn />} />
+          <Route path="/learn/:id?" element={<Learn />} />
           <Route path="/hcm1" element={<HCM1 />} />
           <Route path="/hcm2" element={<HCM2 />} />
           <Route path="/story1" element={<StoryPage1 />} />
@@ -62,6 +61,8 @@ function App() {
           <Route path="/story4" element={<StoryPage4 />} />
           <Route path="/story5" element={<StoryPage5 />} />
           <Route path="/story6" element={<StoryPage6 />} />
+          <Route path="/story/:pageId/:storyKey" element={<StoryDetail />} />
+
 
 
 

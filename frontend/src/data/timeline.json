@@ -188,18 +188,464 @@
   {
     "id": 2,
     "year": "Giai đoạn 2 (1911 - 1920)",
-    "title": "Xác định con đường cách mạng vô sản",
-    "location": "Tours, Pháp",
-    "description": "Nguyễn Ái Quốc tham dự Đại hội Đảng Xã hội Pháp, bỏ phiếu tán thành Quốc tế Cộng sản."
+    "title": "Các hoạt động của Bác từ năm 1911 - 1920",
+    "location": " Việt Nam = Singapore - Sri Lanka - Pháp - Argérie - Tunisia - Cộng hòa Congo - Đahomey - Mali - Sénégal - Guinée - Resunion - Madagascar - Ai Cập - Hy Lạp - Thỗ Nhĩ Kỳ - Ý - Tây Ban Nha - Bồ Đào Nha - Vương Quốc Anh ",
+    "description": "",
+    "stage0":{
+      "title":"Sơ lược",
+      "location": "",
+      "detail":[
+     { 
+        "type":"text",
+        "content":"Ngày 5 tháng 6 năm 1911, đánh dấu cột mốc lịch sử khi Hồ Chí Minh (lấy tên là Nguyễn Văn Ba) rời Tổ quốc ra đi tìm đường cứu nước tại bến cảng Nhà Rồng trên tàu buôn Latouche – Tréville (Tàu La-tu-sơ Tơ-rê-vin) sang Pháp khi mới 21 tuổi. Bắt đầu cuộc hành trình tìm con đường giải phóng dân tộc, giải phóng đất nước. Sau gần 10 năm lao động kiếm sống, vừa học hỏi, vừa tìm hiểu thực tiễn ở nhiều nước, Người đã có những chuyển biến trong nhận thức về con đường giải phóng dân tộc mà lịch sử đã chứng tỏ là sáng suốt phi thường."
+      },
+      { 
+        "type":"image",
+        "src":"BCNR",
+        "alt":"Bến cảng Nhà Rồng ngày xưa"
+      },
+      { 
+        "type":"text",
+        "content":"Trên chuyến tàu thứ nhất, Hồ Chí Minh đã có điều kiện dừng chân tại 6 bến cảng của 4 Quốc gia: Singapore, Srilanka, Ai cập và Pháp. Đến mỗi nơi, Bác lại có điều kiện tìm hiểu về cuộc sống, đất nước, con người những nơi đây. Từ đó, hiểu và thông cảm với số phận của những người dân. Chuyến tàu kết thúc hành trình quay trở lại Sài Gòn. 4 tháng sau, Bác đã không dừng lại mà tiếp tục cuộc hành trình của mình trên 1 con tàu tiếp theo."
+      },
+      { 
+        "type":"text",
+        "content":"Chuyến tàu thứ hai của Bác là trên một chuyến tàu của hãng vận tải hợp nhất Sácgiơ Reeuyni, Bác đã đi qua một số nước thuộc địa của Pháp ở Châu Phi, Mỹ (1912-1913), Anh (1913-1917) và cuối cùng năm 1917 Bác đặt chân đến Pháp."
+      }
+    ]
+  },
+  "stage1":{
+      "title":"Dừng chân tại nước Mỹ",
+      "location": "",
+      "detail":[
+      { 
+        "type":"text",
+        "content":"Sau khi rời Sài Gòn trên con tàu Chargeurs Réunis năm 1912, Hồ Chí Minh đã đặt chân lần đầu đến Mỹ, có một thời gian sống và làm việc tại Thành phố Boston, Bang Massachusetts. Tại Mỹ Bác làm việc trên 1 tàu buôn và có thời gian ngắn làm phụ bếp cho khách sạn Parker House, một khách sạn nổi tiếng ở Boston thời bấy giờ."
+      },
+      { 
+        "type":"image",
+        "src":"KSPH",
+        "alt":"Hình ảnh Khách sạn Parker House ở Boston, nơi Bác Hồ từng làm phụ bếp trong thời gian ở Hoa Kỳ."
+      },
+      { 
+        "type":"text",
+        "content":"Khi làm việc tại Mỹ, Hồ Chí Minh có cơ hội tiếp xúc với tầng lớp công nhân và người lao động nghèo. Đặc biệt, Bác đã được chứng kiến sự phân biệt chủng tộc đối với người da màu và tình cảnh của người nhập cư. Điều này giúp Bác hiểu rõ hơn những mâu thuẫn trong lòng một quốc gia tư bản phát triển như Hoa Kỳ."
+      },
+      { 
+        "type":"text",
+        "content":"Bác cũng nghiên cứu về Tuyên ngôn Độc lập của Mỹ do Thomas Jefferson soạn thảo năm 1776, đặc biệt chú ý đến các nguyên tắc về quyền bình đẳng và quyền tự do của con người. Những tư tưởng này đã có ảnh hưởng lớn đến việc Bác soạn thảo và đã được nhắc đến trong bản Tuyên ngôn Độc lập của Việt Nam vào ngày 2 tháng 9 năm 1945"
+      },
+      { 
+        "type":"image",
+        "src":"TNDLHCQHK",
+        "alt":"Tuyên ngôn độc lập Hợp chủng quốc Hoa Kỳ"    
+      },
+      { 
+        "type":"text",
+        "content":"Trong thời gian ở Mỹ, dù không đủ dài để Hồ Chí Minh có thể tham gia trực tiếp vào các phong trào công nhân hoặc chính trị nhưng cũng đã được chứng kiến và học hỏi nhiều phong trào điển hình lúc bấy giờ như: Cuộc đình công của công nhân dệt may Lawrence (1912) – một trong những cuộc đình công lớn nhất vào thời điểm Bác Hồ ở Boston, diễn ra tại Lawrence, Massachusetts – gần nơi Bác sống và làm việc."
+      },
+      { 
+        "type":"image",
+        "src":"CDCCCNDM",
+        "alt":"Cuộc đình công của công nhân dệt may Lawrence (1912)"    
+      },
+      { 
+        "type":"text",
+        "content":"Dù chỉ là một giai đoạn ngắn trong cuộc đời hoạt động cách mạng của Hồ Chí Minh, nhưng thời gian ở Mỹ giúp Bác hiểu thêm về hệ thống Tư bản chủ nghĩa ở một quốc gia lớn và tiếp cận những tư tưởng tiến bộ về quyền con người và tự do."
+      },
+      { 
+        "type":"text",
+        "content":" Điều này đã tác động lớn đến tư tưởng Hồ Chí Minh khi Bác lựa chọn con đường đấu tranh giải phóng dân tộc cho Việt Nam, kết hợp các giá trị về độc lập, tự do với Cách mạng vô sản."
+      }
+    ]
+  },
+  "stage2":{
+      "title":"Đặt chân đến Châu Âu nước Anh(1913 - 1917)",
+      "location": "",
+      "detail":[
+      { 
+        "type":"text",
+        "content":"Rời Mỹ Bác đến Anh, khi đó Bác lấy tên là Nguyễn Tất Thành và làm những việc chân tay để kiếm sống. Bác đã làm 2 công việc chính:"
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"+ Làm phụ bếp tại khách sạn Carlton – một khách sạn lớn và nổi tiếng ở Trung tâm London vào thời điểm đó. Bác làm công việc phụ bếp, giúp đỡ các đầu bếp chính trong việc chuẩn bị món ăn. Bếp trưởng khi thấy Bác khác với mọi người đã khuyên Bác từ bỏ con đường chính trị, ở lại và kế thừa nghề làm bánh nhưng Bác đã từ chối."
+      }
+      ,
+      { 
+        "type":"image",
+        "src":"KSCOLD",
+        "alt":"Hình ảnh Khách sạn Carlton ở London, nơi Bác làm phụ bếp"
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"+ Làm công nhân tại một xưởng đóng tàu ở khu vực phía Đông London: Bác từng làm việc tại các xưởng đóng tàu ven sông Thames, nơi điều kiện lao động rất khắc nghiệt và công nhân phải làm việc nhiều giờ trong môi trường cực khổ."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":" Những công việc lao động này giúp Bác hiểu rõ hơn tình cảnh giai cấp công nhân tại Anh – một quốc gia công nghiệp phát triển vào thời điểm đó, nhưng vẫn tồn tại sự bất công xã hội sâu sắc."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Trong thời gian ở Anh, Bác đã có cơ hội quan sát phong trào công nhân đang diễn ra mạnh mẽ tại đây. Đầu thế kỷ 20, nước Anh chứng kiến làn sóng đình công và biểu tình của công nhân đòi tăng lương, giảm giờ làm và cải thiện điều kiện lao động."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Bác đặc biệt chú ý đến hoạt động của Công đảng Anh (Đảng lao động Anh) – một đảng chính trị đại diện cho lợi ích của giai cấp công nhân, cũng như các tổ chức công đoàn lớn tại Anh."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Bác cũng quan tâm đến tư tưởng của các nhà xã hội chủ nghĩa Anh như Robert Owen, người tiên phong trong việc xây dựng các mô hình xã hội công bằng hơn cho công nhân."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Trong thời gian ở London, Bác tích cực học hỏi và tìm hiểu về lịch sử cũng như văn hóa nước Anh. Bác có thói quen đọc sách, báo, tài liệu về cuộc sống của tầng lớp lao động và phong trào các mạng quốc tế."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":" + Người từng ghé thăm Bảo tàng Anh (British Museum), nơi lưu giữ những tài liệu lịch sử quan trọng về cách mạng và văn hóa của các nước trên thế giới."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"+ Bác cũng tìm hiểu về cuộc cách mạng công nghiệp ở Anh và nhận thức rõ vai trò của công nhân trong sự phát triển của xã hội tư bản."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Trong thời gian ở Anh, Bác càng hiểu rõ hơn về bản chất bóc lột của Chủ nghĩa tư bản, thấy giai cấp công nhân tại Anh bị bóc lột không khác gì dân thuộc địa ở Việt Nam. Bác cũng đã ý thức được tầm quan trọng của đoàn kết cách mạng quốc tế. Từ đó, Bác luôn nổ lực xây dựng liên minh với các phong trào công nhân trên thế giới trong những năm sau này."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Thời gian ở Anh là giai đoạn Bác Hồ Chí Minh vừa lao động kiếm sống, vừa học hỏi, tích lũy kinh nghiệm thực tiễn từ phong trào công nhân ở một quốc gia công nghiệp hàng đầu thế giới. Bác cũng đã trau dồi được thêm vốn ngoại ngữ và kỹ năng giao tiếp."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":""
+      }
+      ,
+      { 
+        "type":"text",
+        "content":""
+      }
+      ,
+      { 
+        "type":"text",
+        "content":""
+      }
+    ]
+  },
+   "stage3":{
+      "title":"Thời gian ở Pháp (1917 - 1920)",
+      "location": "",
+      "detail":[
+      { 
+        "type":"text",
+        "content":"Rời Anh, Bác đặt chân đến Paris – Pháp năm 1917. Thời gian đầu tại đây, Bác vẫn làm những công việc lao động chân tay như bồi bàn hay công nhân để có thể kiếm sống."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Thời gian ở Pháp là thời gian Bác tích cực tham gia các hoạt động chính trị và phong trào cách mạng, không ngừng học hỏi và tìm kiếm con đường nào cho vấn đề giải phóng dân tộc Việt Nam. Năm 1919 đến năm 1920 Bác dần chuyển hướng đến phong trào Quốc tế cộng sản."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Tháng 6 năm 1919, nghe tin các đoàn đại biểu mười mấy nước Đồng minh chiến thắng họp Hội nghị Hòa Bình Véc-xây ở Véc-xây cách thủ đô Pari 14km, Bác cùng Luật sư Phan Văn Trường và cụ Phan Chu Trinh cùng nhau viết lên bản “Yêu sách của nhân dân An Nam”"
+      }
+      ,
+      { 
+        "type":"image",
+        "src":"BSYSCNDAN",
+        "alt":"Bản sao của ''Yêu sách nhân dân An Nam''"
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Họ cùng nhau ký tên dưới bản Yêu sách là Nguyễn Ái Quốc (Những người họ Nguyễn yêu nước), Yêu sách gồm 8 điểm đề nghị Chính phủ Pháp và các nước đồng minh thừa nhận các quyền tự do, dân chủ, quyền bình đẳng và quyền tự quyết của dân tộc Việt Nam. Bản yêu sách không được chấp nhận. "
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Sau những nỗ lực của Bác trong việc thuyết phục chính phủ Pháp tại Hội nghị Véc-xây, Bác đã nhận thức rõ ràng về sự cần thiết phải liên kết với phong trào cộng sản quốc tế để đấu tranh cho quyền tự quyết của các dân tộc thuộc địa."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Bác cũng đã tham gia vào Đảng Xã hội Pháp năm 1919. Khi được hỏi vì sao vào Đảng Bác trả lời: “Chỉ vì đây là tổ chức duy nhất ở Pháp phăng vực nước tôi, là tổ chức tiến bộ, theo đuổi lý tưởng cao quý của Đại Cách mạng Pháp: Tự do, Bình đẳng, Bác ái”."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Tháng 7 năm 1920 Bác bắt gặp “Bản sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và thuộc địa” của Lênin được đăng trên báo Nhân đạo ngày 16-17 tháng 7 năm 1920. Bác nhận thấy chỉ có Chủ nghĩa cộng sản mới chỉ ra con đường đúng đắn để giải phóng dân tộc, giải phóng giai cấp và giải phóng con người. Từ đó, Lênin và Quốc tế 3 là nguồn động lực tinh thần cho Bác tiếp bước vững chắc trên con đường đã được định hướng rõ ràng, đây cũng là một trong những cơ sở quan trọng nhất trong việc hình thành nên Tư tưởng Hồ Chí Minh."
+      }
+      ,
+      { 
+        "type":"image",
+        "src":"AB2NKNCMN",
+        "alt":"Ấn bản 2 năm kỉ niệm Cách Mạng Nga"
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Vào năm 1920, Bác tham gia phong trào Quốc tế Cộng sản, một tổ chức quốc tế với mục tiêu thúc đẩy cách mạng vô sản trên toàn cầu. Bác cùng những người phái tả trong Đảng Xã hội Pháp tại Đại hội Thành phố Tua diễn ra từ ngày 25 đến ngày 30 tháng 12 năm 1920 bỏ phiếu tán thành việc gia nhập Quốc tế Cộng sản và sáng lập nên Đảng Cộng sản Pháp. Đây là bước ngoặt quan trọng đánh dấu sự chuyển hướng của Bác từ phong trào cách mạng ở Pháp sang một cuộc đấu tranh rộng lớn hơn, mang tính quốc tế."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Thời gian này là nền tảng giúp Hồ Chí Minh hình thành tư tưởng Cách mạng vô sản, xác định rõ con đường đấu tranh cho độc lập dân tộc và tìm kiếm sự liên kết với phong trào Cộng sản quốc tế. Bác đã phát triển từ một người mang chủ nghĩa yêu nước lên chủ nghĩa cộng sản, từ một người yêu nước thành người cộng sản đầu tiên của Việt Nam."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Việc tham gia phong trào công nhân, tiếp xúc với Chủ nghĩa Mác - Lênin và tham gia các hoạt động chính trị quốc tế giúp Bác không chỉ nhìn nhận cuộc cách mạng Việt Nam trong bối cảnh thế giới mà còn mang ý nghĩa tượng trưng cho xu thế cách mạng thế giới - tính đoàn kết chiến đấu giữa giai cấp vô sản và dân tộc bị áp bức trên thế giới theo khẩu hiệu chiến lược của Quốc tế Cộng sản."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Mặc dù, Bác không thành công trong việc thuyết phục các cường quốc đế quốc tại Hội nghị Véc-xây, những hành động này đã tạo tiền đề cho những cuộc đấu tranh tiếp theo, đặc biệt trong việc xây dựng phong trào cách mạng ở các nước thuộc địa."
+      }
+    ]
+  }
   },
   {
     "id": 3,
     "year": "Giai đoạn 3 (1920 - 1931)",
-    "title": "Tham gia thành lập Đảng Cộng sản Việt Nam",
-    "location": "Hồng Kông, Trung Quốc",
-    "description": "Nguyễn Ái Quốc chủ trì Hội nghị hợp nhất các tổ chức cộng sản, khai sinh Đảng Cộng sản Việt Nam.",
-    "image": "/images/1930",
-    "details": "Ngày 3/2/1930, Cương lĩnh chính trị đầu tiên được thông qua, đánh dấu sự ra đời của Đảng Cộng sản Việt Nam – bước ngoặt vĩ đại của cách mạng nước ta."
+    "title": "",
+    "location": "",
+     "stage1":{
+      "title":"Thời kỳ tại Pháp",
+      "location": "Pháp",
+      "detail":[
+     { 
+        "type":"text",
+        "content":"Vào những năm đầu của thập niên 1920, trong bối cảnh thế giới vừa trải qua cuộc Thế Chiến lần thứ I, dưới sự ảnh hưởng to lớn của cuộc Cách mạng tháng Mười Nga, các phong giải phóng dân tộc ở các nước phương Đông cũng như phong trào công nhân tại các nước tư bản đế quốc phương Tây đã bùng nổ mạnh mẽ, với kẻ thu chung là chủ nghĩa đế quốc. Có thể kể đến như sự thành lập của Đảng Cộng sản Pháp (năm 1920) và Đảng Cộng sản Trung Quốc (năm 1921). Tại nước ta, tuy hầu hết các phong trào dân tộc, dân chủ công khai và phong trào công nhân trong khoảng thời gian này chỉ lẻ tẻ và mang tính tự phát nhưng đã cho thấy ý thức về giai cấp, dân tộc đang trên đà phát triển, là cơ sở cho các tổ chức và phong trào cao hơn về sau này. "
+      }
+      ,{ 
+        "type":"text",
+        "content":"Dưới bối cảnh ấy, năm 1921, dưới sự hậu thuẫn của Đảng Cộng sản Pháp, Nguyễn Ái Quốc cùng một số nhà ái quốc của các thuộc địa Pháp sáng lập ra Hội Liên hiệp thuộc địa ở Paris nhằm mục đích đoàn kết các lực lượng cách mạng chống chủ nghĩa thực dân. Thông qua tổ chức này, chủ nghĩa Mác - Lê-nin được truyền bá đến các nước thuộc địa, giúp lan truyền ngọn lửa đến nhiều nước trên thế giới. Cũng trong giai đoạn này, Nguyễn Ái Quốc cùng một số nhà cách mạng thuộc địa lập ra tờ báo Người cùng khổ (Nguyễn Ái Quốc làm chủ nhiệm kiêm chủ bút), vạch trần các chính sách đàn áp, bóc lột dã man, tàn nhẫn của chủ nghĩa đế quốc nói chung và đế quốc Pháp nói riêng, từ đó đánh thức ngọn lửa cách mạng ấp ủ trong các dân tộc bị áp bức nổi dậy đấu tranh giải phóng. Không chỉ riêng Người cùng khổ, trong giai đoạn này, Nguyễn Ái Quốc còn viết nhiều các bài báo khác nhau như: Nhân đạo (Đảng Cộng sản Pháp), Đời sống công nhân (Tổng Liên đoàn lao động Pháp) và nổi bật nhất là cuốc sách Bản án chế độ thực dân Pháp (được xuất bản 1925), đều nhằm mục đích tố áo các chính sách thực dân của Pháp và đề cập tới phong trào đấu tranh của dân tộc thuộc địa. Các tài liệu này bị  nhà cầm quyền Pháp tìm mọi cách ngăn chặn, cấm đoán nhưng vẫn được bí mật chuyển về Việt Nam, nuôi dưỡng tinh thần cách mạng trong toàn dân. "
+      }
+      ,{ 
+        "type":"text",
+        "content":"  Trong thời kỳ tại Pháp, dưới tư cách là một trong những sáng lập viên của Đảng Cộng sản Pháp (một bộ phận của Quốc tế III) sau khi tách khỏi Đảng Xã hội Pháp, Nguyễn Ái Quốc tham gia các đại hội I (1921), đại hội II (1922) của Đảng Cộng sản Pháp. Các đại hội chủ yếu nói về các quan điểm chống Thực dân và Đế quốc, cũng như ủng hộ các phong trào cách mạng thế giới, đặc biệt tại các nước thuộc địa, điều mà không được nhấn mạnh khi ông còn ở Đảng Xã hội Pháp. Nguyễn Ái Quốc đã bày tỏ bất mãn của mình với các đại biểu Đảng Xã hội Pháp: "
+      }
+      ,{ 
+        "type":"quote",
+        "content":"''Tôi không hiểu bất cứ điều gì về chiến lược, thủ thuật hành động và tất cả những từ ngữ đao to búa lớn mà các ông dùng, nhưng tôi hiểu một điều rất đơn giản: Quốc tế thứ 3 quan tâm rất nhiều tới vấn đề thuộc địa. Các đại biểu của Quốc tế thứ 3 hứa sẽ giúp các dân tộc thuộc địa đang bị áp bức giành lại tự do và độc lập. Các thành viên của Quốc tế thứ 2 không nói một từ về số phận của các vùng thuộc địa'''."
+      }
+      ,{ 
+        "type":"text",
+        "content":"  Trong khoảng thời gian tại Đảng Cộng sản Pháp, Nguyễn Ái Quốc cũng được bầu làm trưởng tiểu bản phương Đông trong ban Nghiên cứu thuộc địa của Đảng cộng sản Pháp, từ đó giúp ông có thể tiếp cận đến nhiều vấn đề khác nhau tại các nước thuộc địa. "
+      }
+      ,{ 
+        "type":"image",
+        "src":"NAQPBDHT",
+        "alt":"Nguyễn Ái Quốc phát biểu tại Đại Hội Tours của Đảng Xã Hội Pháp "
+      }
+      ,{ 
+        "type":"image",
+        "src":"TBLP",
+        "alt":"Tờ báo Le Paria"
+      }
+      ,{ 
+        "type":"text",
+        "content":""
+      }
+    ]
+    }
+    ,
+    "stage2":{ 
+      "title":"Thời kỳ tại Liên Xô",
+      "location": "Liên Xô",
+      "detail":[
+    { 
+        "type":"text",
+        "content":"Tháng 6 năm 1923, được sự giúp đỡ của Quốc tế Cộng sản và Đảng Cộng sản Pháp, Nguyễn Ái Quốc rời Pháp để đến Liên Xô - cái nôi của Chủ nghĩa Cộng sản lúc bấy giờ, với mục đích chính là tham dự Hội nghị lần thứ nhất của Quốc tế Nông dân và được bầu vào Ban Chấp hành và Đoàn Chủ tịch Quốc tế Nông dân. Nguyễn Ái Quốc với kinh nghiệm là chuyên gia về những công việc liên quan đến các thuộc địa được mời làm chuyên gia của Ban thư ký giúp Hội đồng chuẩn bị nội dung cho các cuộc họp và là chuyên gia về những công việc liên quan đến các thuộc địa. Ông đã viết nhiều bài báo về tình cảnh nông dân Bắc Phi, nông dân Trung Quốc, nông dân Việt Nam. Trong bài phát biểu tại Hội nghị Quốc tế Nông dân, Người đã tố cáo những thủ đoạn thực dân để biến nông dân thành nô lệ với hai bàn tay trắng. Vì vậy người nông dân không còn đường sống mà phải đấu tranh, họ chính là lực lượng cách mạng vô cùng to lớn. Kết thúc bài phát biểu Nguyễn Ái Quốc kêu gọi: "
+      },
+       { 
+        "type":"quote",
+        "content":"“Thưa các đồng chí, tôi phải nhắc lại với các đồng chí rằng Quốc tế của các đồng chí chỉ trở thành một Quốc tế thật sự khi mà không những nông dân phương Tây, mà cả nông dân ở phương Đông, nhất là nông dân ở các thuộc địa là những người bị bóc lột và bị áp bức nhiều hơn các đồng chí, đều tham gia Quốc tế của các đồng chí“."
+      },
+       { 
+        "type":"text",
+        "content":"Cũng trong khoảng thời gian này tại Liên Xô, Nguyễn Ái Quốc vừa làm việc, vừa nghiên cứu học tập để bồi dưỡng thêm kiến thức về các vấn đề cách mạng. Ông theo học tại Trường Đại học Lao động Cộng sản Phương Đông của Quốc tế Cộng sản tại thủ đô Mátxcơva - nơi đào tạo các cán bộ cộng sản cho những nước phương Đông. Nguyễn Ái Quốc đặc biệt quan tâm tới tình cảnh của người nông dân trong các nước thuộc địa. Họ chiếm đại đa số trong xã hội và chính vì thế cách mạng thuộc địa sẽ không thể thắng lợi nếu không có sự tham gia, ủng hộ của đông đảo nông dân. Nguyễn Ái Quốc chỉ ra sự to lớn của hệ thống thuộc địa: "
+      },
+       { 
+        "type":"quote",
+        "content":"''Năm 1876: 1/4 tỷ người dân thuộc địa thì năm 1914: 1/2 tỷ dân thuộc địa. Đến đầu những năm 20, diện tích các nước thuộc địa gấp 5 diện tích các nước chính quốc, còn dân số chính quốc chưa bằng 3/5 số dân các nước thuộc địa. Số dân thuộc địa Anh đông gấp hơn 8,5 số dân nước Anh còn đất đai rộng gấp 252 lần của nước Anh...''"
+      },
+       { 
+        "type":"text",
+        "content":"   Chính vì sự quan tâm to lớn tới các vấn đề thuộc địa của Nguyễn Ái Quốc, dù đang ở Liên Xô, ông vẫn gửi một bức thư tới Trung ương Đảng Cộng sản Pháp. Nội dung của lá thư chủ yếu là nhấn mạnh sự cần thiết của việc thực hiện các Nghị quyết của Đại hội lần thứ II của Quốc tế Cộng sản về các vấn đề thuộc địa bởi vì theo nhận định của ông: "
+      },
+       { 
+        "type":"quote",
+        "content":"“Cho đến nay, những nghị quyết ấy chỉ được dùng để tô điểm mặt giấy! Phân bộ Pháp, Phân bộ Anh và những phân bộ các nước thực dân khác đã làm gì cho các thuộc địa của chủ nghĩa tư bản nước họ? Những phân bộ ấy đã có một chính sách thuộc địa và một cương lĩnh rõ rệt về thuộc địa, chính xác và liên tục chưa? Những chiến sĩ của các bộ phận ấy có hiểu thuộc địa là gì và tầm quan trọng của thuộc địa là như thế nào không? Người ta có thể trả lời là không”."
+      },
+       { 
+        "type":"text",
+        "content":"Ông bày tỏ thái độ phê phán tờ báo Người cùng khổ vì đã bỏ mục Diển đàn của các thuộc địa, đồng thời báo chí của Đảng thì đưa tin rất chậm chạp về tình hình của các nước thuộc địa."
+      },
+       { 
+        "type":"text",
+        "content":"Trong các bài phát biểu tại Đại hội V Quốc tế Cộng sản (nǎm 1924) Nguyễn Ái Quốc đã đề cập vấn đề về mối quan hệ giữa cách mạng thuộc địa và cách mạng chính quốc, kêu gọi sự đồng tình ủng hộ của nhân dân thế giới với cách mạng thuộc địa. Ông cũng trình bày lập trường, quan điểm của mình về vị trí, chiến lược của cách mạng ở các nước thuộc địa cũng như vai trò và sức mạnh to lớn của các nước thuộc địa. Tại phiên họp XXV ngày 3 tháng 7 nǎm 1924 Nguyễn Ái Quốc chỉ rõ thực trạng tàn khốc tại các nước thuộc đại Pháp: "
+      },
+       { 
+        "type":"quote",
+        "content":"“Trong tất cả các thuộc địa Pháp, nạn nghèo đói đều tǎng, sự phẫn uất ngày càng lên cao. Sự nổi dậy của nông dân bản xứ đã chín muồi. Trong nhiều nước thuộc địa họ đã vài lần nổi dậy, nhưng lần nào cũng bị dìm trong máu. Nếu hiện nay nông dân vẫn còn ở trong tình trạng tiêu cực thì nguyên nhân là vì họ còn thiếu tổ chức , thiếu người lãnh đạo. Quốc tế cộng sản phải giúp đỡ họ tổ chức lại, cần phải cung cấp cán bộ lãnh đạo cho họ và chỉ cho họ con đường đi tới cách mạng và giải phóng“."
+      },
+       { 
+        "type":"text",
+        "content":"Nguyễn Ái Quốc cũng bày tỏ nhận xét của mình về các tầng lớp địa chủ, tăng lữ, … của Việt Nam: "
+      },
+       { 
+        "type":"quote",
+        "content":"“Những địa chủ ở đây chỉ là những tên lùn tịt bên cạnh những người trùng tên với họ ở châu Âu và châu Mỹ (...). Không có vốn liếng gì lớn..., đời sống của địa chủ cũng chẳng có gì là xa hoa'',''An Nam chưa bao giờ có tăng lữ...''"
+      },
+       { 
+        "type":"text",
+        "content":"Bác cũng đã bày tỏ tư tưởng của mình với các đại biểu trong Quốc tế Công sản, tuy rằng chưa nhận được nhiều sự quan tâm nhưng cũng phần nào đánh dấu cho quá trình phát triển của Tư tưởng Hồ Chí Minh. Những quan điểm cơ bản của chủ nghĩa Mác - Lê-nin về cách mạng giải phóng thuộc địa trong thời đại đế quốc chủ nghĩa và cách mạng vô sản mà Nguyễn Ái Quốc tiếp nhận, truyền bá vào nước ta từ sau Chiến tranh thế giới thứ nhất, là một bước chuẩn bị quan trọng về chính trị và tư tưởng cho sự thành lập chính đảng vô sản ở Việt Nam trong giai đoạn tiếp sau. "
+      },
+       { 
+        "type":"image",
+        "src":"DHVQTCS",
+        "alt":"Nguyễn Ái Quốc cùng các đại biểu Đại hội V Quốc tế Cộng sản đến từ nhiều quốc gia khác nhau."
+      }
+      ,
+       { 
+        "type":"image",
+        "content":"NAQMDHQTCS",
+        "alt":"Nguyễn Ái Quốc trong lễ mít tinh chào mừng Đại hội V Quốc tế Cộng sản. Người đứng bên cạnh là đồng chí Voroshilov (Tư lệnh quân khu Moskva) và Zinoviev  (chủ tịch QTCS)."
+      }
+      ,
+       { 
+        "type":"text",
+        "content":""
+      }
+    ]
+    } ,
+     "stage3":{
+      "title":"Trở lại Trung Quốc",
+      "location": "Trung Quốc",
+      "detail":[
+        { 
+        "type":"text",
+        "content":"Sau một thời gian học tập và làm việc cũng như nghiên cứu xây dựng đảng kiểu mới tại Liên Xô, cuối năm 1924, Nguyễn Ái Quốc đã rời đi để về Quảng Châu, Trung Quốc. lấy tên là Lý Thụy, làm phiên dịch trong phái đoàn cố vấn của chính phủ Liên Xô bên cạnh Chính phủ Trung Hoa Dân quốc.  Trong báo cáo gửi Chủ tịch Đoàn quốc tế cộng sản ngày 18 tháng 12 nǎm 1924, Nguyễn Ái quốc đã thông báo về việc đã tiếp xúc với nhóm những người Việt Nam yêu nước ở Quảng Châu để huấn luyện về phương pháp hoạt động tổ chức và sau ba tháng học xong sẽ trở về Đông Dương, và có một đoàn khác sang. Người nhấn mạnh: “Trong lúc này, đây là biện pháp duy nhất“. Việc lãnh tụ Nguyễn Ái Quốc lựa chọn đến Quảng Châu, Trung Quốc là một bước đi quan trọng và nằm trong kế hoạch trở về Tổ quốc của Người, đồng thời cũng xuất phát từ những điều kiện khách quan của tình hình lúc bấy giờ. "
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Nguyễn Ái Quốc đã cùng một số đồng chí mở các lớp huấn luyện chính trị và trực tiếp giảng bài nhằm đào tạo một số thanh niên Việt Nam trở thành những cán bộ cách mạng. Tham gia lớp huấn luyện, các học viên không những được trang bị về kiến thức lý luận, mà còn được trau dồi kỹ năng thực hành các công việc cách mạng, như kỹ năng làm báo, diễn thuyết; được tiếp thu nhiều chương trình học tập phong phú, bao gồm các vấn đề về cách mạng thế giới, cách mạng Việt Nam, phương pháp vận động quần chúng đấu tranh cách mạng, hệ thống lý thuyết chủ nghĩa (Tam dân, Cộng sản),... "
+      },
+        { 
+        "type":"text",
+        "content":"Tháng 6 nǎm 1925, trên cơ sở số cán bộ được huấn luyện, Nguyễn Áí Quốc thành lập Hội Việt Nam Thanh niên cách mạng, tổ chức tiền thân của Đảng Cộng sản Việt Nam. Mùa hè cùng năm, Đảng Cộng sản Trung Quốc đề xướng thành lập Hội liên hiệp các dân tộc bị áp bức do Liêu Trọng Khải làm Hội trưởng và Nguyễn Ái Quốc làm Bí thư, Hội Việt Nam Thanh niên cách mạng có ''mối liên hệ biện chứng'' với Hội này. Ngày 21 tháng 6 nǎm 1925, báo Thanh niên ra đời. Đây là tờ báo cách mạng làm nhiệm vụ tuyên truyền giới thiệu về chủ nghĩa Lênin và cách mạng Tháng Mười Nga; giải thích đường lối chiến lược và sách lược của cách mạng Việt Nam. Báo là người tuyên truyền tập thể, người cổ động và tổ chức tập thể, góp phần quan trọng vào việc xúc tiến thành lập Đảng Cộng sản Việt Nam. Báo thanh niên được xuất bản năm 1925 chính là cơ quan tuyên truyền của Hội. Những bài giảng của Người được tập hợp in thành sách mang tên “Đường Kách mệnh” xuất bản nǎm 1927. Một trong những vấn đề đầu tiên Nguyễn Ái Quốc đặc biệt quan tâm là đào tạo những người tự nguyện hy sinh phấn đấu suốt đời cho sự nghiệp giải phóng dân tộc, giải phóng xã hội, giải phóng con người; hiểu lý luận Mác – Lênin; biết đoàn kết và tổ chức nhân dân cùng phấn đấu vì sự nghiệp chung. Từ giữa năm 1925 đến trước tháng 4-1927, Hội đã tổ chức được nhiều lớp huấn luyện tại số nhà 13 và 13A đường Văn Minh, Quảng Châu, đào tạo được khoảng 75 hội viên. Phân tích những bài học kinh nghiệm của nhiều cuộc cách mạng trên thế giới, Nguyễn Ái Quốc nêu rõ cách mạng Việt Nam phải theo gương cách mạng Nga đánh đuổi đế quốc giành độc lập dân tộc, đánh đổ phong kiến tay sai đem lại ruộng đất cho nông dân."
+      },
+        { 
+        "type":"text",
+        "content":"Người nói: “Trong thế giới bây giờ chỉ có cách mệnh Nga là đã thành công và thành công đến nơi, nghĩa là dân chúng được hưởng cái hạnh phúc tự do, bình đẳng thật… Cách mệnh Nga dạy cho chúng ta rằng muốn cách mệnh thành công phải lấy dân chúng làm gốc, phải có đảng vững bền”. "
+      },
+        { 
+        "type":"text",
+        "content":"Theo Chương trình và Điều lệ của Hội công bố vào năm 1926, Hội cho rằng cách mạng Việt Nam gồm hai giai đoạn: cách mạng dân tộc và cách mạng thế giới. Về đối nội, Hội chủ trương sau khi cách mạng thành công sẽ thành lập chính phủ công – nông – binh, chính phủ sẽ áp dụng chính sách kinh tế mới để phát triển đất nước; về đối ngoại, Hội chủ trương đoàn kết với giai cấp vô sản các nước và xây dựng xã hội cộng sản. Về cơ sở lý luận, Điều lệ năm 1926 không ghi rõ nhưng trong hoạt động thực tiễn Hội đã lấy chủ nghĩa Marx–Lenin làm nền tư tưởng của mình."
+      },
+        { 
+        "type":"text",
+        "content":"Về điều kiện vào Hội, bản Điều lệ năm 1926 ghi rõ: người Việt Nam từ 17 tuổi trở lên; tán thành mục đích, chương trình và kỷ luật của Hội, đồng thời được hai hội viên giới thiệu thì được phép gia nhập sau khi được chi bộ đồng ý, năm đối tượng không được gia nhập hội được tách thành một mục sau cùng. Thời gian đầu,thành phần xã hội của Hội Việt Nam Thanh niên cách mạng có 90% là tiểu tư sản tri thức, 10% thợ và dân cày, từ những năm 1926 – 1929, nhiều cơ sở Hội được gây dựng trong nhà máy, xí nghiệp, số công nông tăng lên, trí thức chiếm 40%. Về xây dựng Đảng cách mệnh, Nguyễn Ái Quốc viết: “Đảng có vững cách mệnh mới thành công, cũng như người cầm lái có vững thuyền mới chạy. Đảng muốn vững thì phải có chủ nghĩa làm cốt… Bây giờ học thuyết nhiều, chủ nghĩa nhiều, nhưng chủ nghĩa chân chính nhất, chắc chắn nhất, cách mệnh nhất là chủ nghĩa Lênin”."
+      },
+        { 
+        "type":"image",
+        "src":"AB",
+        "alt":"Ảnh Bác Hồ"
+      },
+        { 
+        "type":"image",
+        "src":"TSHVNCMTN",
+        "alt":"Ngôi nhà số 13/1, nay là số 248-250, đường Văn Minh, thành phố Quảng Châu, Trung Quốc, trụ sở của Hội Việt Nam cách mạng thanh niên, nơi Nguyễn Ái Quốc mở các lớp huấn luyện đào tạo cán bộ cho cách mạng Việt Nam từ năm 1925-1927."
+      },
+        { 
+        "type":"image",
+        "src":"TBTN",
+        "alt":"Tờ báo Thanh Niên"
+      },
+        { 
+        "type":"text",
+        "content":""
+      }
+
+    ]
+    },
+      "stage4":{
+      "title":"Trở lại Thái Lan",
+      "location": "Thái Lan",
+      "detail":[
+        { 
+        "type":"text",
+        "content":"Tháng 5 nǎm 1927, Nguyễn Ái Quốc, rời Quảng Châu, đi Mátxcơva, sau đó đi Béc lin, tham dự Hội nghị Ban chấp hành mở rộng của Liên đoàn chống chiến tranh đế quốc tại Brúc xen (Bỉ), sau đó qua Ý. Để nắm được tình hình Việt Nam và các nước Đông Dương, năm Mậu Thìn (1928), lãnh tụ Nguyễn Ái Quốc đã quyết định tìm đường đến vương quốc Xiêm. Từ Bangkok, Người đã đến Bản Đông, tỉnh Phichit - một tỉnh miền Bắc của Xiêm. Sở dĩ Người đã chọn bản Đông Phichit đến vì ở đây có nhiều đồng bào Việt Kiều sinh sống lâu năm. Người lấy bí danh là Thầu Chín và lấy chủ trương là tuyên truyền cho kiều bào và tổ chức họ vào những hội thân ái, tổ chức các buổi sinh hoạt văn hóa cho họ, xin chính phủ cho mở trường lớp dành cho Việt kiều. "
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Ngay từ những ngày đầu mới đến Xiêm, để gần gũi và hiểu được phong tục tập quán, sinh hoạt của đồng bào Xiêm và Việt kiều đang sinh sống trên đất Xiêm, Bác Hồ đã phải khổ công trong việc học tiếng Xiêm để giao tiếp chuyện trò. Chỉ sau 4 tháng đến bản Đông, Người đã đọc thông, viết thạo, nói tiếng Xiêm khi giao tiếp với mọi người như người bản địa. Năm 1961, những bà con người Việt kiều đã tiếp xúc, làm việc, nghe và nói chuyện với Bác Hồ khi Người sang Xiêm (1928) ngày hồi hương trở về Tổ quốc, họ đã kể lại: “Nghe ông Thầu Chín nói chuyện, tuyên truyền trước đông đảo bà con Việt kiều và người Xiêm thì không khác gì người dân bản xứ …”. Từ tháng 7 năm 1928 đến tháng 11-1929 hoạt động trên đất Xiêm, Bác Hồ đã giúp bà con Việt kiều làm giấy tờ xin phép Chính phủ Xiêm được mở các lớp học (tiếng Việt và tiếng Xiêm). Người đã viết báo để tuyên truyền, đổi tên tờ báo “Đồng Thanh” thành “Thân Ái” cho phù hợp với thời kỳ lịch sử. Thầu Chín còn thành lập “Hội Ái hữu”, vận động bà con Việt kiều cùng đồng bào Xiêm xây dựng nhà thờ, đền chùa theo phong tục tập quán, tín ngưỡng của từng địa phương. Ngoài việc vận động phong trào học tập văn hóa, Thầu Chín còn tuyên truyền vận động bà con Việt kiều xóa bỏ những phong tục tập quán lạc hậu, mê tín dị đoan, những thói hư tật xấu trong sinh hoạt hàng ngày không phù hợp. Để làm tốt, mở rộng việc tuyên truyền, giúp mọi người dễ nhớ, dễ thuộc, ông Thầu Chín đã viết nhiều bài thơ với các đề tài: “Cô Vượng khuyên chồng”, đăng trên tờ báo Thân Ái nhằm khuyên mọi người bỏ những thói hư tật xấu không tốt trong sinh hoạt. Để tăng việc giáo dục và phát huy tinh thần yêu nước của các vị anh hùng dân tộc truyền lại, ngoài ra để nhằm kêu gọi mọi người cần đoàn kết, tương trợ giúp đỡ lẫn nhau, ông Thầu Chín đã viết thơ và các vở kịch ngắn, đăng trên báo Thân Ái. Đó là bài ca Trần Hưng Đạo; vở kịch: Phan Đình Phùng, Phạm Hồng Thái, Đề Thám khởi nghĩa. Các vở kịch ngắn về nội dung ca ngợi truyền thống lịch sử, văn hóa Việt Nam trong các cuộc đấu tranh chống giặc ngoại xâm."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Hoạt động trong điều kiện bí mật, thiếu thốn, luôn bị kẻ thù lùng bắt, thực dân Pháp đã kết hợp với bọn phản động nước ngoài đưa ra giải thưởng rất hậu hĩnh cho kẻ nào bắt hoặc chỉ điểm nơi Thầu Chín đang lẩn trốn. Đó cũng là lý do chúng đã tuyên bản án tử hình Nguyễn Ái Quốc vắng mặt vào năm 1929. Thời gian hoạt động tuyên truyền, xây dựng cơ sở cách mạng trên đất Xiêm rất nguy hiểm, nhưng ông Thầu Chín đi đến đâu cũng được bà con Việt kiều và nhân dân địa phương, các bậc tăng ni, sư sãi, phật tử trong các chùa luôn cảnh giác, che chở và bảo vệ. "
+      }
+      ,
+        { 
+        "type":"text",
+        "content":""
+      }
+    ]
+    },
+      "stage5":{
+      "title":"Sự ra đời của Đảng Cộng Sản Việt Nam",
+      "location": "Việt Nam",
+      "detail":[
+        { 
+        "type":"text",
+        "content":"Trước khi Đảng Cộng Sản Việt Nam được thành lập và nhân dân ta được lãnh đạo bởi Đảng, xuất phát từ tinh thần yêu nước mãnh liệt và sự căm thù đến xương tủy ách áp bức, bóc lột của thực dân Pháp, nhân dân ta đã đứng dậy qua nhiều phong trào yêu nước lớn nhỏ khác nhau nhưng đều với một mục tiêu đanh thép là bảo vệ, nền độc lập dân tộc, toàn vẹn lãnh thổ, thống nhất quốc gia, chấn hưng đất nước. Các phong trào đấu tranh hoặc theo ý thức hệ phong kiến được diễn ra trải dài khắp từ Bắc đến Nam; hoặc theo đường lối cải cách, canh tân nhằm đưa đất nước phát triển thành một quốc gia phú cường hay theo ý thức hệ dân chủ tư sản của các sĩ phu yêu nước, tất cả đều lần lượt bị đàn áp, không thể đạt được mục đích đề ra và từ đó dẫn đến cách mạng Việt Nam lâm vào khủng hoảng, bế tắc về đường lối cứu nước. "
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Tháng 3 năm 1929, một số hội viên Hội Việt Nam Cách mạng Thanh niên ở Bắc Kỳ thành lập chi bộ cộng sản đầu tiên tại Việt Nam. Chi bộ đã xúc tiến cuộc vận động thành lập một đảng cộng sản ở Việt Nam. Trên cơ sở của Hội Việt Nam Cách mạng Thanh niên và Tân Việt Cách mạng đảng, ba tổ chức cộng sản: Đông Dương Cộng sản đảng, An Nam Cộng sản đảng, Đông Dương Cộng sản liên đoàn nối tiếp nhau ra đời vào nửa sau năm 1929. Sự ra đời của ba tổ chức cộng sản đã thúc đẩy phong trào cách mạng Việt Nam phát triển, tuy nhiên quá trình hoạt động riêng lẻ, tranh giành ảnh hưởng và công kích lẫn nhau, dẫn đến phong trào cách mạng có nguy cơ bị chia rẽ. Đông Dương Cộng sản Đảng phê phán An Nam Cộng sản Đảng là ''hoạt đầu, giả cách mạng''; An Nam Cộng sản Đảng chỉ trích Đông Dương Cộng sản Đảng là ''chưa thật cộng sản', ''chưa thật Bôn-sê-vích''… "
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Trước tình hình sắp xảy ra xung đột trong nội bộ cách mạng trong nước, Nguyễn Ái Quốc đã chủ động tổ chức và chủ trì Hội nghị hợp nhất Đảng tại Hương Cảng, Trung Quốc nhằm mục đích hòa giải, chấm dứt những chia rẽ trong phong trào cộng sản, đồng thời ấp ủ ý định hợp nhất tạo nên một đảng thống nhất ý tưởng, tư tưởng và hành động."
+      }
+      ,
+        { 
+        "type":"image",
+        "src":"TIMELINE",
+        "alt":"Đảng Cộng Sản từ 1929 đến 1930"
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Ngày 3/2 năm 1930,  tại Cửu Long thuộc Hương Cảng, Nguyễn Ái Quốc tổ chức hội nghị thống nhất ba tổ chức đảng cộng sản tại nhà một người công nhân. Tham dự hội nghị có 2 đại biểu Đông Dương Cộng sản Đảng, 2 đại biểu An Nam Cộng sản Đảng, còn đại biểu phía Đông Dương Cộng sản Liên đoàn không đến kịp. Ngoài ra, hội nghị còn có sự tham dự của Hồ Tùng Mậu và Lê Hồng Sơn; cùng Nguyễn Ái Quốc trên cương vị đại biểu của Quốc tế Cộng sản. Hội nghị quyết định thành lập một tổ chức cộng sản duy nhất, lấy tên là Đảng Cộng sản Việt Nam. Ngày 24/2 năm 1930, Đông Dương Cộng sản Liên đoàn chính thức gia nhập. Tại Hội nghị Ban chấp hành Trung ương, họp Hội nghị lần thứ nhất tại Hồng Kông từ ngày 14 đến 31 tháng 10 năm 1930, tên của đảng được đổi thành Đảng Cộng sản Đông Dương theo yêu cầu của Quốc tế Cộng sản; sau đó Trần Phú được bầu làm Tổng Bí thư đầu tiên. "
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Hội nghị đã quyết định hợp nhất các tổ chức Đảng (Đông Dương Cộng sản Đảng, An Nam Cộng sản Đảng, Đông Dương Cộng sản Liên đoàn) thành Đảng Cộng sản Việt Nam. Hội nghị thảo luận và thông qua các văn kiện: Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt và Điều lệ vắn tắt của Đảng Cộng sản. Những văn kiện đó do Nguyễn Ái Quốc soạn thảo, được Hội nghị hợp nhất Đảng thông qua là sự vận dụng sáng tạo chủ nghĩa Mác-Lênin vào điều kiện cụ thể của cách mạng Việt Nam. Hội nghị thông qua lời kêu gọi của Nguyễn Ái Quốc thay mặt Quốc tế Cộng sản và Đảng Cộng sản Việt Nam gửi đến đồng bào, đồng chí trong cả nước nhân dịp thành lập Đảng. Hội nghị hợp nhất các tổ chức Cộng sản có ý nghĩa như là một Đại hội thành lập Đảng. Những văn kiện được thông qua tại Hội nghị hợp nhất do Nguyễn Ái Quốc chủ trì chính là Cương lĩnh chính trị đầu tiên của Đảng. Đại hội đại biểu toàn quốc lần thứ III của Đảng đã quyết nghị lấy ngày 3 tháng 2 dương lịch hằng năm làm ngày kỷ niệm thành lập Đảng - trở thành một cột mốc chói lọi trong lịch sử dân tộc"
+      }
+    ]
+    }
   },
   
   {

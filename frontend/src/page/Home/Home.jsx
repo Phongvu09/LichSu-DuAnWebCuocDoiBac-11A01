@@ -5,8 +5,8 @@ import { Link, useNavigate } from "react-router-dom";
 import bia from "../../assets/home/bia-trang-chu.png";
 
 import bgSlideshow from "../../assets/home/bia-trang-chu.png"; // ảnh nền chung cho vùng about
-import aboutUs from "../../assets/home/nen.jpg";
-import why from "../../assets/home/vs.jpg"
+import aboutUs from "../../assets/biography/nen.png";
+import why from "../../assets/YTQD.png"
 import thanks from "../../assets/home/lco.jpg"
 
 export default function Home() {
@@ -35,15 +35,15 @@ export default function Home() {
             <section className="read-more fade-up">
                 <div className="read-card">
                     <img src={aboutUs} alt="Cuộc đời Bác" className="read-image" />
-                    <h3>Cuộc đời và sự nghiệp</h3>
-                    <p>Tìm hiểu chặng đường hoạt động cách mạng, tư tưởng và nhân cách Hồ Chí Minh.</p>
+                    <h3>Tiểu sử</h3>
+                    <p>Tìm hiểu tiểu sử cuộc đời bác</p>
                     <Link to="/biography" className="read-btn">Xem chi tiết</Link>                </div>
 
                 <div className="read-card">
                     <img src={why} alt="Dòng thời gian" className="read-image" />
-                    <h3>Dòng thời gian cuộc đời</h3>
-                    <p>Khám phá từng giai đoạn lịch sử qua mốc thời gian rõ ràng, trực quan.</p>
-                    <Link to="/timeline" className="read-btn">Khám phá</Link>
+                    <h3>Yếu tố tác động đến quá trình hoạt động cách mạng</h3>
+                    <p>Tìm hiêu yếu tố tác động đến quá trình hoạt động cách mạng</p>
+                    <Link to="/factors" className="read-btn">Khám phá</Link>
                 </div>
             </section>
 

@@ -3,7 +3,7 @@ import "./LegacyWorld.css";
 import Cover from "../../config/Cover";
 
 import cover from "../../assets/legacy/NEN.jpg";
-
+import cover1 from "../../assets/A.png"
 import nga1 from "../../assets/legacy/nga1.png";
 import nga2 from "../../assets/legacy/nga2.png";
 import nga3 from "../../assets/legacy/nga3.png";
@@ -43,8 +43,7 @@ export default function LegacyWorld() {
         <>
             {/* Ảnh bìa chính */}
             <header className="cover">
-                <img src={cover} alt="Ảnh bìa Legacy" className="cover-image" />
-                <h1 className="cover-title">Dấu Ấn Hồ Chí Minh Trên Thế Giới</h1>
+                <img src={cover1} alt="Ảnh bìa Legacy" className="cover-image" />
             </header>
 
             <div className="legacy container">

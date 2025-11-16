@@ -1,0 +1,182 @@
+body {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background: #f9f7f1;
+    margin: 0;
+    padding: 0;
+    color: #3e3e3e;
+}
+
+.container {
+    max-width: 720px;
+    margin: 3rem auto;
+    padding: 1rem 1.5rem;
+    background: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgb(0 0 0 / 0.1);
+}
+
+.title {
+    text-align: center;
+    color: #6b4c3b;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.story-name {
+    font-style: italic;
+    font-size: 1rem;
+    color: #a0816f;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.story-intro {
+    font-style: italic;
+    margin-bottom: 1.5rem;
+    color: #7d6e58;
+    line-height: 1.5;
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+.story-content {
+    line-height: 1.7;
+    font-size: 1rem;
+    color: #4a4031;
+    margin-bottom: 2.5rem;
+    white-space: pre-line;
+}
+
+.back-link {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    background-color: #a97455;
+    color: white;
+    text-decoration: none;
+    border-radius: 0.3rem;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.back-link:hover,
+.back-link:focus {
+    background-color: #8b5e3c;
+    outline: none;
+}
+
+.not-found {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #b94a46;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+/* storyDetail.css */
+
+/* Nền gradient nhẹ cho container */
+.container {
+    max-width: 720px;
+    margin: 3rem auto;
+    padding: 2rem 3rem;
+    background: linear-gradient(135deg, #f7f2e7 0%, #e7ddd0 100%);
+    border-radius: 1rem;
+    box-shadow: 0 8px 20px rgba(101, 76, 44, 0.25);
+    font-family: "Merriweather", serif;
+    color: #4b3a1a;
+}
+
+/* Tiêu đề lớn hơn, nổi bật */
+.title {
+    text-align: center;
+    font-weight: 900;
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+    border-bottom: 3px solid #b48a44;
+    padding-bottom: 0.5rem;
+    color: #593d0d;
+}
+
+/* Tên câu chuyện nghiêng, nhỏ hơn */
+.story-name {
+    font-style: italic;
+    font-size: 1.2rem;
+    color: #866e43;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+/* Intro nổi bật */
+.story-intro {
+    font-style: italic;
+    font-size: 1.15rem;
+    color: #5e4b28;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    text-align: justify;
+    border-left: 4px solid #b48a44;
+    padding-left: 1rem;
+}
+
+/* Nội dung chính */
+.story-content {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #4b3a1a;
+    margin-bottom: 3rem;
+    white-space: pre-line;
+}
+
+/* Nút quay lại */
+.back-link {
+    display: inline-block;
+    padding: 0.8rem 2rem;
+    background-color: #b48a44;
+    color: white;
+    border-radius: 30px;
+    font-weight: 700;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(180, 138, 68, 0.4);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.back-link:hover,
+.back-link:focus {
+    background-color: #8f6b1f;
+    transform: scale(1.05);
+    outline: none;
+}
+
+/* Thông báo không tìm thấy */
+.not-found {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #d9534f;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+/* Responsive cho mobile */
+@media (max-width: 480px) {
+    .container {
+        padding: 1.5rem 1.5rem;
+        margin: 2rem 1rem;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .story-intro {
+        font-size: 1rem;
+        padding-left: 0.7rem;
+        border-left-width: 3px;
+    }
+
+    .back-link {
+        padding: 0.7rem 1.5rem;
+        font-size: 1rem;
+    }
+}

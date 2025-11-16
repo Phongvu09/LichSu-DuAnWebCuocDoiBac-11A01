@@ -1,6 +1,6 @@
 import React from "react";
 import "./Factors.css";
-import factorsImg from "../../assets/factors/anh1.jpg";
+import factorsImg from "../../assets/YTQD.png";
 import countryImg from "../../assets/factors/anh1.jpg";
 import familyImg from "../../assets/factors/anh2.jpg";
 
@@ -11,10 +11,7 @@ export default function Factors() {
             {/* HERO */}
             <section className="factors-hero">
                 <img src={factorsImg} alt="Yếu tố tác động" className="factors-hero-img" />
-                <div className="factors-hero-overlay">
-                    <h1 className="factors-title">YẾU TỐ TÁC ĐỘNG</h1>
-                    <p className="factors-subtitle">Những tác động hình thành tư tưởng và chí hướng của Người</p>
-                </div>
+
             </section>
 
             <div className="factors-container">

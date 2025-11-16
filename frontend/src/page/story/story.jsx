@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import "./story.css";
-import cover from "../../assets/MC.png";
+import cover from "../../assets/MT.png";
 
 export default function Story() {
     useEffect(() => {

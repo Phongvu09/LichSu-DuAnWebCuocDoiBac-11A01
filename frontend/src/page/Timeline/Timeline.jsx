@@ -51,9 +51,12 @@ export default function Timeline() {
                                 <h2>{item.title}</h2>
                                 <p className="timeline-location">📍 {item.location}</p>
                                 <p className="timeline-desc">
-                                    {item.description.length > 140
-                                        ? item.description.slice(0, 140) + "..."
-                                        : item.description}
+                                    {item.description
+                                        ? item.description.length > 140
+                                            ? item.description.slice(0, 140) + "..."
+                                            : item.description
+                                        : "Không có mô tả."}
+
                                 </p>
                             </div>
                         </div>

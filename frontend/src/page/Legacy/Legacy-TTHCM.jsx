@@ -5,6 +5,7 @@ import Cover from "../../config/Cover";
 import cover from "../../assets/legacy/NEN.jpg";
 import img3 from "../../assets/home/bia-trang-chu.png";
 import img4 from "../../assets/home/bia-trang-chu.png";
+import cover1 from "../../assets/DSVTT.png"
 
 function Divider() {
     return <div className="divider" />;
@@ -16,6 +17,10 @@ export default function Legacy_TTHCM() {
 
         <div className="legacy">
             {/* Ảnh bìa */}
+            <section className="factors-hero">
+                <img src={cover1} alt="Yếu tố tác động" className="factors-hero-img" />
+
+            </section>
 
             {/* Phần Giới thiệu Tư tưởng Hồ Chí Minh */}
             <section className="intro">
