@@ -150,7 +150,7 @@ export default function Header() {
                 { name: "3.Bác Hồ với thanh niên", link: "/story3" },
                 { name: "4.Bác Hồ & chiến sĩ", link: "/story4" },
                 { name: "5.Một số câu chuyện khác", link: "/story5" },
-                { name: "6.Một số câu chuyện khác", link: "/story6" }
+                { name: "6.Những ngày đầu tìm đường cứu nước", link: "/story6" }
 
 
             ],
