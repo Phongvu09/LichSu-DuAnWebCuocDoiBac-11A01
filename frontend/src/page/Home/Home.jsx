@@ -8,7 +8,7 @@ import bgSlideshow from "../../assets/home/bia-trang-chu.png"; // ảnh nền ch
 import aboutUs from "../../assets/home/nen.jpg";
 import why from "../../assets/home/vs.jpg"
 import thanks from "../../assets/home/lco.jpg"
-import a from "../../assets/biography/NEN.png"
+import a from "../../assets/biography/nen.png"
 import b from "../../assets/YTQD.png"
 
 export default function Home() {
