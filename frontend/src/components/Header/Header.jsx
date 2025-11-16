@@ -129,7 +129,7 @@ export default function Header() {
             title: "Các tác phẩm của Bác",
             link: "/learn",
             dropdown: [
-                { name: "1.Đường Kách Mệnh", link: "/learn/1" },
+                { name: "1.Báo Thanh Niên", link: "/learn/1" },
                 { name: "2.Bản Yêu sách của nhân dân An Nam", link: "/learn/2" },
                 { name: "3.Bản án chế độ Thực dân Pháp", link: "/learn/3" },
                 { name: "4.Cương lĩnh chính trị ", link: "/learn/4" },
