@@ -693,3 +693,45 @@
     pointer-events: auto;
     /* để nhận click nhưng không lan ra cha */
 }
+
+/* Cho phần menu khi mở trên mobile */
+@media (max-width: 880px) {
+
+    /* Khi menu mobile mở */
+    .header-nav.open {
+        max-height: 70vh;
+        /* Giới hạn chiều cao menu mở */
+        overflow-y: auto;
+        /* Hiện thanh cuộn dọc khi nội dung vượt */
+        -webkit-overflow-scrolling: touch;
+        /* Cuộn mượt trên iOS */
+    }
+}
+
+/* Mobile menu mở sẽ có max-height và scroll */
+@media (max-width: 880px) {
+    .header-nav {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease;
+    }
+
+    .header-nav.open {
+        max-height: 70vh;
+        /* giới hạn chiều cao menu trên mobile */
+        overflow-y: auto;
+        /* hiện thanh cuộn dọc */
+        -webkit-overflow-scrolling: touch;
+        /* cuộn mượt trên iOS */
+    }
+
+    /* Tinh chỉnh scroll bar nếu muốn */
+    .header-nav.open::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    .header-nav.open::-webkit-scrollbar-thumb {
+        background-color: rgba(0, 0, 0, 0.2);
+        border-radius: 3px;
+    }
+}
