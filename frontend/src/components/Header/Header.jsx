@@ -10,25 +10,40 @@ export default function Header() {
     const [visible, setVisible] = useState(true);
     const [lastScroll, setLastScroll] = useState(0);
     const [openDropdown, setOpenDropdown] = useState(null);
-
+    const [isMobile, setIsMobile] = useState(window.innerWidth <= 880);
 
     const [searchTerm, setSearchTerm] = useState("");
     const [suggestions, setSuggestions] = useState([]);
     const navigate = useNavigate();
     const searchRef = useRef(null);
 
-    // Ẩn header khi cuộn xuống
+    // Cập nhật trạng thái isMobile khi thay đổi kích thước cửa sổ
+    useEffect(() => {
+        function handleResize() {
+            setIsMobile(window.innerWidth <= 880);
+        }
+        window.addEventListener("resize", handleResize);
+        return () => window.removeEventListener("resize", handleResize);
+    }, []);
+
+    // Ẩn hiện header theo scroll
     useEffect(() => {
         const onScroll = () => {
             const cur = window.scrollY;
-            setVisible(cur < lastScroll || cur < 60);
+            if (isMobile && menuOpen) {
+                // Trên mobile khi menu mở luôn hiển thị header
+                setVisible(true);
+            } else {
+                // Trên desktop hoặc mobile khi menu đóng thì ẩn hiện theo scroll
+                setVisible(cur < lastScroll || cur < 60);
+            }
             setLastScroll(cur);
         };
         window.addEventListener("scroll", onScroll);
         return () => window.removeEventListener("scroll", onScroll);
-    }, [lastScroll]);
+    }, [lastScroll, isMobile, menuOpen]);
 
-    // Lọc sự kiện theo từ khóa
+    // Lọc timelineData theo từ khóa tìm kiếm
     useEffect(() => {
         const lower = searchTerm.toLowerCase();
         if (lower.length >= 3) {
@@ -37,10 +52,12 @@ export default function Header() {
                     .some((f) => String(f).toLowerCase().includes(lower))
             );
             setSuggestions(filtered.slice(0, 6));
-        } else setSuggestions([]);
+        } else {
+            setSuggestions([]);
+        }
     }, [searchTerm]);
 
-    // Đóng gợi ý khi click ra ngoài
+    // Đóng gợi ý tìm kiếm khi click ra ngoài
     useEffect(() => {
         function handleClick(e) {
             if (searchRef.current && !searchRef.current.contains(e.target)) {
@@ -51,6 +68,7 @@ export default function Header() {
         return () => document.removeEventListener("click", handleClick);
     }, []);
 
+    // Khi chọn item tìm kiếm
     const handleSelect = (item) => {
         setSearchTerm("");
         setSuggestions([]);
@@ -58,10 +76,7 @@ export default function Header() {
         navigate(`/timeline/${item.id}`);
     };
 
-    const toggleDropdown = (index) => {
-        setOpenDropdown(openDropdown === index ? null : index);
-    };
-
+    // Xử lý submit tìm kiếm
     const handleSubmit = (e) => {
         e.preventDefault();
         if (suggestions.length > 0) {
@@ -72,16 +87,8 @@ export default function Header() {
         }
     };
 
+    // Menu dữ liệu (giữ nguyên)
     const menuData = [
-        // {
-        //     title: "Trang chủ",
-        //     link: "/",
-        //     dropdown: [
-        //         { name: "Thông tin cá nhân", link: "/biography" },
-        //         { name: "Gia đình & Quê hương", link: "/factors" },
-        //         { name: "Tri thức", link: "/biography#knowledge" },
-        //     ],
-        // },
         {
             title: "Trang chủ",
             link: "/",
@@ -103,13 +110,11 @@ export default function Header() {
                 { name: "3.Giai đoạn 3 (1920 - 1931)", link: "/timeline/3" },
                 { name: "4.Giai đoạn 4 (1931 - 1945)", link: "/timeline/4" },
                 { name: "5.Giai đoạn 5 (1945 - 1969)", link: "/timeline/5" },
-
-
             ],
         },
         {
             title: "Công lao - Đóng góp ",
-            link: "/contributions"
+            link: "/contributions",
         },
         {
             title: "Dấu ấn của Người",
@@ -138,7 +143,6 @@ export default function Header() {
                 { name: "7.Lời kêu gọi toàn quốc kháng chiến 1946", link: "/learn/7" },
                 { name: "8.Tám điều mệnh lệnh", link: "/learn/8" },
                 { name: "9.Lời kêu gọi toàn quốc kháng chiến 1966", link: "/learn/9" },
-
             ],
         },
         {
@@ -150,22 +154,19 @@ export default function Header() {
                 { name: "3.Bác Hồ với thanh niên", link: "/story3" },
                 { name: "4.Bác Hồ & chiến sĩ", link: "/story4" },
                 { name: "5.Một số câu chuyện khác", link: "/story5" },
-                { name: "6.Những ngày đầu tìm đường cứu nước", link: "/story6" }
-
-
+                { name: "6.Những ngày đầu tìm đường cứu nước", link: "/story6" },
             ],
-
         },
         {
             title: "Âm nhạc",
             link: "/song",
-
-        }
+        },
     ];
 
+    const shouldShowHeader = isMobile && menuOpen ? true : visible;
 
     return (
-        <header className={`header ${visible ? "show" : "hide"}`}>
+        <header className={`header ${shouldShowHeader ? "show" : "hide"}`}>
             {/* --- Hàng 1: Logo + Title --- */}
             <div className="header-row header-top">
                 <Link to="/" className="logo-area" onClick={() => setMenuOpen(false)}>
@@ -216,8 +217,7 @@ export default function Header() {
                                                     <span className="no-link">{s.name}</span>
                                                 )}
 
-
-                                                {/* Nếu có dropdown con thì render submenu */}
+                                                {/* Dropdown con */}
                                                 {s.dropdown && (
                                                     <ul className="submenu">
                                                         {s.dropdown.map((ss, kk) => (
@@ -233,7 +233,6 @@ export default function Header() {
                                         ))}
                                     </ul>
                                 )}
-
                             </li>
                         ))}
                     </ul>
@@ -296,4 +295,3 @@ export default function Header() {
         </header>
     );
 }
-
