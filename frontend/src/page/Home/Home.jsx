@@ -33,7 +33,7 @@ export default function Home() {
             </section>
 
 
-            {/* READ MORE SECTION */}
+            {/* READ MORE SECTION
             <section className="read-more fade-up">
                 <div className="read-card">
                     <img src={a} alt="Cuộc đời Bác" className="read-image" />
@@ -47,7 +47,7 @@ export default function Home() {
                     <p>Tìm hiểu yếu tố quyết định đến quá trình hoạt động cách mạng</p>
                     <Link to="/factors" className="read-btn">Khám phá</Link>
                 </div>
-            </section>
+            </section> */}
 
 
 

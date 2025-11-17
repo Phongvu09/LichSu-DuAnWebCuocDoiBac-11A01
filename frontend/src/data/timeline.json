@@ -881,10 +881,749 @@
   {
     "id": 5,
     "year": "Giai đoạn 5 (1945 - 1969)",
-    "title": "Toàn quốc kháng chiến chống Pháp",
-    "location": "Hà Nội – Việt Bắc",
-    "description": "Khi thực dân Pháp quay lại xâm lược, Bác Hồ ra lời kêu gọi toàn quốc kháng chiến.",
-    "image": "/images/1946",
-    "details": "“Thà hi sinh tất cả chứ nhất định không chịu mất nước, không chịu làm nô lệ.” – Lời kêu gọi của Chủ tịch Hồ Chí Minh trở thành hiệu triệu thiêng liêng cho cả dân tộc."
+    "title": "Cuộc Trường Chinh vì độc lập: Những kẻ nặng ",
+    "location": "Việt Nam",
+    "stage1":{
+      "title":"Chương I: Giờ phút ngàn cân treo sợi tóc(1945)",
+      "location": "Việt Nam",
+      "detail":[
+        { 
+        "type":"text",
+        "content":"Sau cách mạng tháng 8 cùng với diễn biến của tình hình thế giới đã mang lại cho Việt Nam không ít thuận lợi trong việc quản lý đất nước. Tuy nhiên, dân tộc Việt Nam lại không thể tránh khỏi được nhiều khó khăn khi '' thù trong, giặc ngoài''. Những tàn dư sau chiến tranh đang ngày càng tàn phá mạnh mẽ. Có thể nói, tình hình Việt Nam lúc bấy giờ là ''ngàn cân treo sợi tóc''."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Chỉ 10 ngày sau thắng lợi Tổng khởi nghĩa tháng Tám 1945, quân đội các nước của phe Đồng minh, với danh nghĩa giải giáp quân đội Nhật đã kéo vào nước ta. Từ vĩ tuyến 16 (Đà Nẵng) trở ra Bắc, 20 vạn quân Tưởng Giới Thạch ồ ạt vào Hà Nội và hầu khắp các tỉnh. Chúng kéo theo bọn tay chân nằm trong các tổ chức phản động: Việt Nam Quốc dân đảng (Việt Quốc) và Việt Nam Cách mạng đồng minh hội (Việt Cách) với âm mưu lật đổ chính quyền cách mạng, thành lập chính quyền tay sai. Trong khi đó, từ vĩ tuyến 16 trở vào Nam, quân Anh đã mở đường cho thực dân Pháp quay trở lại xâm lược. Lợi dụng tình hình trên, các lực lượng phản cách mạng ở miền Nam như Đại Việt, Tờ-rốt-kít, bọn phản động trong các giáo phái ngóc đầu dậy làm tay sai cho Pháp, ra sức chống phá cách mạng. Ở nước ta lúc đó còn 6 vạn quân Nhật chờ giải giáp, nhưng một bộ phận của chúng đã theo lệnh của Anh đánh lại lực lượng vũ trang của ta, tạo điều kiện cho thực dân Pháp mở rộng phạm vi chiếm đóng."
+      } 
+      ,
+        { 
+        "type":"text",
+        "content":"Nền kinh tế nước ta chủ yếu là nông nghiệp vốn đã nghèo nàn, lạc hậu còn bị chiến tranh tàn phá nặng nề. Hậu quả của nạn đói do Nhật – Pháp gây ra cuối năm 1944 – đầu năm 1945 vẫn chưa được khắc phục. Tiếp đó, nạn lụt lớn tháng 8 – 1945 làm vỡ đê 9 tỉnh Bắc Bộ, rồi đến hạn hán kéo dài, làm cho 50% ruộng đất không thể cày cấy được. Sản xuất công nghiệp đình đốn, hàng hóa khan hiếm, giá cả tăng vọt. Nạn đói mới lại đang đe dọa đời sống nghiêm trọng của nhân dân."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Ngân sách nhà nước lúc này hầu như trống rỗng. Nhà nước cách mạng lại chưa kiểm soát được Ngân hàng Đông Dương. Thêm vào đó, quân Tưởng tung ra trên thị trường các loại tiền đã mất giá trị, càng làm cho nền tài chính nước ta thêm rối loạn."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Chế độ thực dân, phong kiến để lại những hậu quả rất nặng nề về mặt văn hoá: hơn 90% số dân không biết chữ, các tệ nạn xã hội như mê tín dị đoan, rượu chè, cờ bạc, nghiện hút... tràn lan."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Đứng trước tình hình đó, ngày 3/9/1945, một phiên họp diễn ra trong tình trạng khẩn cấp, tại đấy chủ tịch Hồ Chí Minh đã đưa ra 6 vấn đề cấp bách, trong đó theo Người quan trọng nhất là: ''phát động phong trào tăng gia sản xuất để chống nạn đói, mở ngay một cuộc lạc quyên gạo để giúp đỡ người nghèo''. Người nói: ''Nhân dân đang đói… Hơn hai triệu đồng bào chúng ta đã chết đói vì chính sách độc ác này… Những người thoát chết đói nay cũng bị đói. Chúng ta phải làm thế nào cho họ sống''. Người nêu ra biện pháp khắc phục: ''Tôi đề nghị với Chính phủ là phát động một chiến dịch tăng gia sản xuất… Tôi đề nghị mở một cuộc lạc quyên. Mười ngày một lần, tất cả đồng bào chúng ta nhịn ăn một bữa. Gạo tiết kiệm được sẽ góp lại và phát cho người nghèo''. Tiếp đó, để cổ vũ tinh thần cứu đói, Người đã viết bài ''Sẻ cơm nhường áo'' đăng trên báo Cứu Quốc số 53 (28/9/1945) với nội dung như sau: ''…Lúc chúng ta bưng bát cơm mà ăn, nghĩ đến kẻ đói khổ chúng ta không khỏi động lòng. Vậy tôi xin đề nghị với đồng bào cả nước và tôi xin thực hành trước. Cứ 10 ngày nhìn ăn một bữa, mỗi tháng nhịn 3 bữa. Đem gạo đó (mỗi bữa một bơ) để cứu dân nghèo. Như vậy thì những người nghèo sẽ có bữa rau, bữa cháo để chờ mùa lúa năm sau, khỏi đến nỗi chết đói. Tôi chắc rằng, đồng bào ta ai cũng sẵn lòng cứu khổ cứu nạn mà hăng hái hưởng ứng lời đề nghị nói trên…''. Với tinh thần ''Một nắm khi đói bằng một gói khi no'', Ngày đồng tâm cùng các Hũ gạo cứu đói được ra đời, trở thành một phong trào quần chúng rộng lớn. "
+      }
+       ,
+        { 
+        "type":"image",
+        "src":"HGCD",
+        "alt":"Hình ảnh Hũ Gạo cứu đói"
+      }
+       ,
+        { 
+        "type":"image",
+        "src":"KB",
+        "alt":"Hình ảnh dân góp gạo"
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Việc tăng gia sản xuất được đẩy mạnh. Phong trào thi đua sản xuất được đẩy lên ở khắp các địa phương. Diện tích ruộng đất hoang hoá nhanh chóng được gieo trồng các loại cây lương thực và hoa màu. Công nhân, bộ đội, cán bộ, viên chức nhà nước, học sinh, trí thức, công thương v.v… tự nguyện tổ chức thành từng đoàn, từng đội đi về nông thôn giúp nông dân đắp đê phòng lụt, khai hoang, phục hóa. Chính quyền cách mạng còn tịch thu ruộng đất của đế quốc và Việt gian chia cho nông dân nghèo; chia lại ruộng công theo nguyên tắc công bằng và dân chủ; ra thông tư giảm tô; ra sắc lệnh bãi bỏ thuế thân và các thứ thuế vô lý khác. Nhờ có những biện pháp tích cực trên đây, nạn đói đã được đẩy lùi."
+      }
+       ,
+        { 
+        "type":"image",
+        "src":"BCRCD",
+        "alt":"Hình ảnh Bác cày ruộng cùng dân"
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Cũng trong phiên họp ngày 3/9/1945. Chủ tịch Hồ Chí Minh chủ trương mở chiến dịch chống nạn mù chữ, tiêu diệt giặc dốt, coi đó là nhiệm vụ cấp bách thứ hai trong 6 nhiệm vụ cấp bách của chính quyền. Hồ Chủ tịch nói ''Một dân tộc dốt là một dân tộc yếu'' và nhấn mạnh ''Dốt là dại, dại thì hèn. Vì vậy, không chịu dại, không chịu hèn, cho nên thanh toán nạn mù chữ là một trong những việc cấp bách và quan trọng của nhân dân các nước dân chủ mới''. Chủ tịch Hồ Chí Minh khẳng định: ''Dốt là địch, là giặc ngoại xâm. Chống giặc ngoại xâm phải gắn bó chặt chẽ với chống giặc dốt''. "
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Ngày 8/9/1945, Chủ tịch Hồ Chí Minh ký sắc lệnh thành lập Nha Bình dân học vụ ra đời, nằm trong Bộ Quốc gia giáo dục. Cùng ngày, Sắc lệnh số 19 - SL hạn trong 6 tháng làng nào, thị trấn nào cũng phải có ít nhất một lớp học bình dân và Sắc lệnh số 20 – SL cưỡng bách học chữ quốc ngữ trong toàn quốc được ban hành. Bình dân học vụ đã dấy lên tinh thần say mê học chữ từ Bắc chí Nam, từ đồng bằng đến miền núi. Giáo viên bình dân học vụ thuộc đủ các giới, lứa tuổi, không có lương bổng, hễ biết chữ là tham gia. Họ dạy học, dựng trường, tạo lớp, tìm kiếm học phẩm, cổ động học viên. Có lớp có giáo viên, nhưng có lớp giao cho người trong nhà dạy lẫn nhau, chồng dạy vợ, con dạy mẹ, anh chị dạy em. Cách dạy cũng được cải biên cho phù hợp với tình hình dân trí lúc bấy giờ, đó là đọc lên thành tiếng, chữ cái, vần được tạo thành câu thơ lục bát, so sánh để dễ nhớ: I, tờ (i, t) giống móc cả hai/ I ngắn có chấm, tờ dài có ngang. O tròn như quả trứng gà/ Ô thì đội mũ, Ơ thời thêm râu. Dụng cụ học tập thiếu thốn, người học dùng chõng tre, cánh cửa làm bàn; bảng viết là bức tường, cánh cửa, tấm phản dựng lên; phấn là gạch non, đất sét, củi; lá chuối khô, mo cau thay giấy; còn mực thì dùng bất cứ hoa, cây có thể làm màu. Theo ông Nguyễn Thìn Xuân – nguyên cán bộ Nha Bình dân học vụ, để kiểm tra việc học chữ của người đi học, ban kiểm tra thường đứng ở đầu làng, bến phà, nơi đông người qua lại. Ai đọc được chữ thì mới được đi qua. Chỉ trong một năm, từ tháng 8/1945 đến tháng 8/1946, Bình dân học vụ đã dạy cho hơn 2,5 triệu người biết chữ, phát triển được gần 96.000 giáo viên, mở được gần 75.000 lớp học. "
+      }
+       ,
+        { 
+        "type":"image",
+        "src":"NDHC",
+        "alt":"Hình ảnh nhân dân học chữ"
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Năm 1948, khi biết tin tất cả chiến sĩ cán bộ khu 2 và khu 3 đều biết chữ, Bác kịp thời viết thư Biểu dương khen ngợi. Trong thư có viết: ''Dốt nát cũng là một kẻ địch. Địch dốt nát giúp cho địch ngoại xâm. Địch dốt nát tấn công ta bằng tinh thần cũng như địch thực dân tấn công ta bằng vũ lực. Địch thực dân dựa vào địch dốt nát để thi hành chiến lược ngu dân. Địch dốt nát dựa vào địch thực dân để đưa ta vào nơi mù quáng. Bộ đội ta tiêu diệt được giặc dốt tức là tiêu diệt được một lực lượng hậu thuẫn của thực dân. Một quân đội văn hay võ giỏi là một quân đội vô địch!''. "
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Vấn đề thứ 3, Chủ tịch Hồ Chí Minh đề nghị: ''Tôi đề nghị Chính phủ tổ chức càng sớm càng hay cuộc Tổng tuyển cử với chế độ phổ thông đầu phiếu. Tất cả công dân trai, gái 18 tuổi đều có quyền bầu cử và ứng cử. Không phân biệt giàu nghèo tôn giáo, dòng giống.'' Mục đích của việc này đến từ việc Người muốn xây dựng một Nhà nước của dân, do dân, vì dân, nơi mọi công dân đều có quyền tham gia quản lý đất nước, qua đó củng cố độc lập dân tộc và nền dân chủ mới giành được. Việc xây dựng nền tảng pháp lí cho một nhà nước mới giúp xác lập và bảo vệ thành quả của cách mạng, tránh tình trạng vô chính phủ sau khi chính quyền mới ra đời. Ngoài ra. lời đề nghị của Hồ Chủ tịch còn thể hiện tư tưởng bình đẳng, tiến bộ với việc nhấn mạnh:"
+      }
+       ,
+        { 
+        "type":"quote",
+        "content":"Vấn đề thứ 3, Chủ tịch Hồ Chí Minh đề nghị: ''Tôi đề nghị Chính phủ tổ chức càng sớm càng hay cuộc Tổng tuyển cử với chế độ phổ thông đầu phiếu. Tất cả công dân trai, gái 18 tuổi đều có quyền bầu cử và ứng cử. Không phân biệt giàu nghèo tôn giáo, dòng giống.'' Mục đích của việc này đến từ việc Người muốn xây dựng một Nhà nước của dân, do dân, vì dân, nơi mọi công dân đều có quyền tham gia quản lý đất nước, qua đó củng cố độc lập dân tộc và nền dân chủ mới giành được. Việc xây dựng nền tảng pháp lí cho một nhà nước mới giúp xác lập và bảo vệ thành quả của cách mạng, tránh tình trạng vô chính phủ sau khi chính quyền mới ra đời. Ngoài ra. lời đề nghị của Hồ Chủ tịch còn thể hiện tư tưởng bình đẳng, tiến bộ với việc nhấn mạnh: ''Tất cả công dân trai, gái 18 tuổi đều có quyền bầu cử và ứng cử. Không phân biệt giàu nghèo tôn giáo, dòng giống'', khẳng định mọi người đều bình đẳng trước pháp luật, không ai bị loại trừ khỏi quyền chính trị cơ bản."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Vấn đề thứ tư trong 6 vấn đề cấp bách mà Người đề ra chính là giáo dục nhân dân trừ bỏ những thói xấu như rượu chè, cờ bạc, mê tín dị đoan… do chế độ thực dân đã dùng mọi thủ đoạn để đầu độc và hủ hóa dân ta. Người đề nghị mở một chiến dịch giáo dục lại tinh thần nhân dân bằng cách thực hiện: cần, kiệm, liêm, chính. Trong bài ''Thực hành tiết kiệm, chống tham ô, lãng phí, chống bệnh quan liêu'' viết năm 1952 Bác chỉ ra rằng: ''Thực hành tiết kiệm, chống lãng phí là sự nghiệp của toàn dân, cán bộ, công nhân, nông dân, bộ đội, không trừ một ai, càng nghèo lại càng phải tiết kiệm, càng phải chống lãng phí; tham ô là tội ác nhưng lãng phí không phải là nhẹ hơn''. Người cũng từng nói: ''Trời có bốn mùa: xuân, hạ, thu, đông/Đất có bốn phương: Đông, Tây, Nam, Bắc/Người có bốn đức: Cần, kiệm, liêm, chính/Thiếu một mùa thì không thành trời/Thiếu một phương thì không thành đất/Thiếu một đức thì không thành người''."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Vấn đề thứ năm, nhằm thực hiện những nhiệm vụ của cách mạng, Chính phủ, Chủ tịch Hồ Chí Minh đã chỉ đạo nghiên cứu xây dựng và ban hành các chính sách, chế độ tài chính mới với trọng tâm là bãi bỏ các sắc thuế bóc lột, cai trị của chế độ thực dân, ban hành các sắc thuế mới phù hợp, nhằm thực hiện đóng góp công bằng, hợp lý, đảm bảo nhu cầu của tiền tuyến, phù hợp với khả năng của mọi tầng lớp nhân dân."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":" Chỉ 5 ngày sau khi Hồ Chủ tịch đọc bản Tuyên ngôn Độc lập, sắc lệnh bãi bỏ thuế thân, với sự khẳng định thuế thân là một thứ thuế vô lý, trái với tinh thần chính thể dân chủ cộng hòa nên bị bãi bỏ. Ngày 27/9/1945, Chính phủ đã ban hành Sắc lệnh quyết định bãi bỏ các hạng thuế môn bài thấp. Chính quyền cách mạng cũng bãi bỏ các hình thức độc quyền như nấu rượu. Về thuốc phiện, trước đây mỗi năm thực dân Pháp công khai thành lập các ty chế biến và buôn bán thuốc phiện nhằm ru ngủ nhân dân Việt Nam đắm chìm trong nghiện ngập, quên đi cảnh mất nước (trung bình mỗi năm các ty thuốc phiện tiêu thụ tới 45 tấn, năm cao nhất tới hơn 71 tấn). Nay, Nhà nước của dân đã lập tức vận động bãi bỏ chế biến và buôn bán, sử dụng thuốc phiện trong cộng đồng."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Chính phủ đã yêu cầu các địa phương thực hiện bãi bỏ các loại tạp thuế cũ, không phù hợp: thuế chợ, thuế đò, thuế xe đạp, xe tay, xe bò, xe ba gác … nhằm thúc đẩy sản xuất, lưu thông. Tiếp tục soát lại các thuế cũ của chế độ thực dân, Chính phủ bãi bỏ thuế thổ trạch đánh vào nhà ở, xưởng, kho chứa ở ngoài phạm vi thành phố; thuế tem thư và đơn xin học hoặc đơn xin đi thi; thuế xe đạp cũng được Bộ Tài chính tuyên bố không thu và thuế đánh vào đường thủ công được tạm hoãn thi hành; thuế về thầu dầu, vừng, lạc, vỏ nhuộm cũng được bãi bỏ."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Nhà nước bãi bỏ các loại thuế thu ở thành thị như: Thuế lương bổng, thuế lãi doanh nghiệp, thuế lợi tức tổng hợp, thuế du hý đánh vào các cuộc vui chơi công cộng, thuế đặc biệt vận tải… Việc loại bỏ các hình thức bóc lột bằng chế độ thuế hà khắc của thực dân Pháp trước đây được các tầng lớp nhân dân hoan nghênh và củng cố lòng tin của đối với Cách mạng, với Chính phủ."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Vấn đề thứ sáu – vấn đề cuối cùng, Người đề nghị: ''Thực dân phong kiến thi hành chính sách đồng bào Giáo và đồng bào Lương, để dễ thống trị. Tôi đề nghị Chính phủ ta tuyên bố: tín ngưỡng tự do và Lương Giáo đoàn kết''. Trên cơ sở nguyên tắc ấy, các vấn đề nảy sinh trong quan hệ giữa các tôn giáo; quan hệ giữa người theo tín ngưỡng, tôn giáo; giữa tôn giáo với chính quyền. Chính những vấn đề nảy sinh đó, Người đã luôn phân định rạch ròi thái độ, cách thức ứng xử theo các mức độ khác nhau, Người luôn theo dõi tình hình một cách thường xuyên và chỉ đạo giải quyết rất kịp thời. Phương pháp của Người là kiên trì, nhẫn nại, chân tình. Nếu đã hết sức kiên trì mà không đạt kết quả thì Người kiên quyết, rất nghiêm khắc: ''Trong hiến pháp nước ta đã định rõ quyền tự do tín ngưỡng, kẻ nào vi phạm Hiến pháp và khiêu khích bà con Công giáo sẽ bị xử lý''. Ngày 09-11-1946, Quốc hội khóa I đã thông qua Hiến pháp đầu tiên của Nhà nước Việt Nam Dân chủ Cộng hòa; trong đó ghi: ''Nhân dân Việt Nam có quyền tự do tín ngưỡng''. Trong Chính cương của Đảng lao động Việt Nam, điều thứ 8 nói: ''Tôn trọng và bảo vệ quyền tự do tín ngưỡng của nhân dân''. Tư tưởng này đã trở thành nguyên tắc xuyên suốt trong chính sách đối với tôn giáo, tín ngưỡng của Đảng và Nhà nước ta qua từng giai đoạn. Muốn có tự do tín ngưỡng, tôn giáo thì phải đoàn kết tôn giáo, bởi Hồ Chí Minh coi đoàn kết tôn giáo là bộ phận quan trọng trong chiến lược đại đoàn kết dân tộc, góp phần phát huy sức mạnh toàn dân trong công cuộc kháng chiến, giành độc lập cho nước nhà."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Có thể nói, những chính sách lớn của Chính phủ Việt Nam Dân chủ Cộng hòa sau khi giành được chính quyền đã mang đầy đủ ý nghĩa xây dựng một xã hội mới. Nhân dân được hưởng các quyền tự do dân chủ, các quyền về kinh tế và xã hội, văn hóa, giáo dục. Các chế độ bóc lột, độc đoán của chế độ cũ bị xóa bỏ."
+      }
+       ,
+        { 
+        "type":"text",
+        "content":"Đây là những tiền đề quan trọng để kháng chiến kiến quốc, xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh giải phóng miền Nam, thốn+g nhất Tổ quốc, đưa cả nước tiến lên chủ nghĩa xã hội."
+      }
+    ]
+    },
+    "stage2":{
+      "title":"Chương II: Lời thề của dân tộc và cuộc dấu trí ngoại giao(1946)",
+      "location": "Lien Xô",
+      "detail":[
+        { 
+        "type":"text",
+        "content":"Ngày 08/9/1945, thay mặt Chủ tịch Chính phủ Lâm thời Việt Nam Dân chủ Cộng hoà, ông Võ Nguyên Giáp (khi ấy là Bộ trưởng Bộ Nội vụ) đã ký Sắc lệnh số 14 - Sắc lệnh đầu tiên về Tổng tuyển cử để bầu Quốc dân đại hội, đặt nền móng cho sự thành công của cuộc Tổng tuyển cử đầu tiên năm 1946 "
+      }
+      ,
+        { 
+        "type":"text",
+        "content":" Tiếp đó, Chính phủ Lâm thời đã ban hành một loạt Sắc lệnh để xúc tiến các công việc chuẩn bị cho việc Tổng tuyển cử: Sắc lệnh số 39-SL; Sắc lệnh số 51-SL; Sắc lệnh số 71-SL; Sắc lệnh số 72-SL."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":""
+      }
+      ,
+        { 
+        "type":"text",
+        "content":" Việc chuẩn bị cho cuộc Tổng tuyển cử diễn ra rất khẩn trương trong tình hình kinh tế, chính trị, xã hội hết sức khó khăn, vừa phải kháng chiến ở miền Nam, vừa phải giải quyết những nhiệm vụ cấp bách hàng ngày đặt ra, vừa thực hiện sách lược tạm thời hoà hoãn với quân Tưởng ở miền Bắc, đồng thời lại vừa phải đấu tranh để chống lại những hành động phá hoại điên cuồng của chúng. Do hoàn cảnh đặc biệt của đất nước lúc bấy giờ, cuộc Tổng tuyển cử đầu tiên không phải là một cuộc Tổng tuyển cử thông thường, mà thực chất là một cuộc đấu tranh chính trị, đấu tranh giai cấp và dân tộc hết sức gay go, phức tạp và quyết liệt."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":" Bởi vậy, cuộc Tổng tuyển cử lúc đầu được dự kiến là ngày 23/12/1945, nhưng gặp phải sự chống đối của Việt Nam Quốc dân Đảng (Việt Quốc), Việt Nam Cách mạng Đồng minh Hội (Việt Cách). Để thực hiện chủ trương thống nhất và hòa giải nhằm tạo bầu không khí ổn định cho tổng tuyển cử; đồng thời, để có thêm thời gian cho công tác chuẩn bị, nhất là để các nhân sĩ có đủ thời giờ để nộp đơn và vận động tranh cử, và sau khi Hội đồng Chính phủ đồng ý, ngày 18/12/1945, Chủ tịch Chính phủ Lâm thời Việt Nam Dân chủ Cộng hoà ký Sắc lệnh số 76-SL về việc ấn định lại ngày Tổng tuyển cử và hạn nộp đơn ứng cử. Sắc lệnh số 76-SL nêu rõ: ''Cuộc tổng tuyển cử trong toàn cõi nước Việt Nam Dân chủ Cộng hoà để bầu đại biểu dự vào Quốc dân Đại hội, trước định mở vào ngày 23 tháng 12 năm 1945, nay hoãn đến ngày chủ nhật 6 tháng 1 năm 1946''. "
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Ngày 5-1-1946, Chủ tịch Hồ Chí Minh ra lời kêu gọi quốc dân đi bỏ phiếu, trong đó có đoạn: ''Ngày mai là một ngày vui sướng của đồng bào ta, vì ngày mai là ngày Tổng tuyển cử, vì ngày mai là một ngày đầu tiên trong lịch sử Việt Nam mà nhân dân ta bắt đầu hưởng dụng quyền dân chủ của mình''. Ngày 6 - 1 - 1946, cuộc Tổng tuyển cử đã diễn ra khá gay go, phức tạp, một vài địa phương ở miền Nam bị Pháp chiếm đã đổ máu như ở Nha Trang, Mỹ Tho, Cần Thơ, Tân An, Tây Nguyên... quân đội Pháp đã ném bom, bắn phá, làm một số người chết và bị thương. Chỉ riêng ở Sài Gòn-Chợ Lớn đã có 42 cán bộ chiến sĩ hy sinh trong khi làm nhiệm vụ Tổng tuyển cử. Vượt qua mọi hành động chống phá của kẻ thù, lần đầu tiên trong lịch sử dân tộc, hơn 90% cử tri trong cả nước đã nô nức đi bầu những đại biểu chân chính của mình vào cơ quan quyền lực cao nhất của nhà nước."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Quốc hội khóa I có 403 đại biểu, trong đó 333 đại biểu được dân bầu, 70 đại biểu dành cho bọn Việt Quốc, Việt Cách không thông qua bầu cử. 333 đại biểu khắp Bắc - Trung - Nam, tượng trưng cho khối đoàn kết toàn dân, được bầu vào Quốc hội. Ngày 2 - 3 - 1946, tại phiên họp đầu tiên ở Hà Nội, Quốc hội nhất trí xác nhận thành tích của Chính phủ Lâm thời trong những ngày đầu xây dựng nước Việt Nam Dân chủ Cộng hoà, đồng thời lập ra Ban Dự thảo Hiến pháp và thông qua danh sách Chính phủ Liên hiệp kháng chiến do Chủ tịch Hồ Chí Minh đứng đầu."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Sau bầu cử Quốc hội, khắp các địa phương từ tỉnh đến xã ở Trung Bộ và Bắc Bộ đều tiến hành bầu cử Hội đồng nhân dân theo nguyên tắc phổ thông đầu phiếu. Ủy ban hành chính các cấp được thành lập, thay cho các Ủy ban nhân dân. Bộ máy chính quyền dân chủ nhân dân được củng cố và kiện toàn."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Ngày 29 - 5 - 1946, Hội Liên hiệp quốc dân Việt Nam (Hội Liên Việt) được thành lập để tăng cường và mở rộng khối đoàn kết toàn dân."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":""
+      }
+    ]
+    },
+    "stage3":{
+      "title":"Chương III: Hòa bình kiến thiết đến chống Mỹ cứu nước(1954 - 1966)",
+      "location": "Việt Nam",
+      "detail":[
+        { 
+        "type":"text",
+        "content":"Chỉ ba tuần sau khi Việt Nam tuyên bố độc lập (2/9/1945), được sự giúp đỡ trực tiếp của quân Anh, đêm 23/9/1945, thực dân Pháp đã nổ súng ở Sài Gòn, mở đầu cuộc chiến tranh xâm lược Việt Nam lần thứ hai."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Trước tình hình đó, ngày 25/11/1945, Ban Thường vụ Trung ương Đảng ra Chỉ thị Kháng chiến kiến quốc, dựa trên những nhận định về tình hình khách quan và chủ quan, về tình hình của ta và địch, Chỉ thị chỉ rõ: Cuộc cách mạng Đông Dương lúc này vẫn là cuộc cách mạng dân tộc giải phóng. Cuộc cách mạng ấy đang tiếp diễn, nó chưa hoàn thành vì nước chưa được hoàn toàn độc lập. Nhiệm vụ cứu nước của giai cấp vô sản chưa xong. Giai cấp vô sản vẫn phải hǎng hái, kiên quyết hoàn thành nhiệm vụ thiêng liêng ấy. Khẩu hiệu vẫn là ''Dân tộc trên hết. Tổ quốc trên hết''. Kẻ thù chính của nhân dân Đông Dương lúc này là thực dân Pháp xâm lược, phải tập trung ngọn lửa đấu tranh vào chúng."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Trong thời gian này, thực dân Pháp vừa tiến công mở rộng chiếm đóng từ Sài Gòn ra các tỉnh Nam Bộ và Nam Trung Bộ, vừa khẩn trương tiếp xúc, đàm phán với quân Trung Hoa Dân Quốc đang làm nhiệm vụ tước vũ khí quân Nhật đầu hàng ở phía Bắc vĩ tuyến 16 để tìm cách đưa quân ra miền Bắc."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Ngày 28/2/1946, chính quyền Tưởng Giới Thạch và Chính phủ Pháp ký kết Hiệp ước Hoa – Pháp: Pháp trả lại cho Tưởng các tô giới của Pháp trên đất Trung Hoa và nhượng lại quyền khai thác lợi tức kinh tế cũng như quyền sở hữu tại toàn bộ tuyến đường sắt Hải Phòng – Côn Minh cho Trung Quốc. Pháp từ bỏ một số quyền lợi kinh tế trên đất Trung Quốc và nhượng lại những quyền lợi đó cho Trung Quốc. Pháp cũng từ bỏ quyền lãnh sự tài phán đối với công dân Pháp sống tại Trung Quốc (quyền lãnh sự tài phán là một đặc quyền bất bình đẳng, theo đó công dân Pháp sống tại Trung Quốc nếu phạm tội thì sẽ đưa về lãnh sự quán Pháp để xét xử chứ không xử bằng luật pháp nước sở tại). Đồng thời, Trung Quốc cũng sẽ được một số quyền lợi ở miền Bắc Việt Nam như: Được quyền khai thác kinh tế tại một đặc khu của cảng Hải Phòng và Hải Phòng sẽ là một hải cảng tự do để Trung Quốc có thể ra vào buôn bán, hàng hoá của Trung Quốc nhập qua Miền Bắc Việt Nam sẽ không cần phải đóng thuế. Ngược lại, chính phủ Trung Hoa Dân Quốc đồng ý cho Pháp thay thế quân Trung Hoa giải giáp quân Nhật tại miền Bắc Việt Nam, việc thay quân sẽ diễn ra từ ngày mùng 1 đến ngày 15 tháng 3 năm 1946, kỳ hạn chậm nhất sẽ là ngày 31 tháng 3 năm. Như vậy, chính quyền Tưởng Giới Thạch trao cho thực dân Pháp quyền thay thế quân đội Tưởng tước vũ khí quân Nhật ở miền Bắc Việt Nam và Pháp thỏa thuận nhượng lại một số quyền lợi về kinh tế."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Từ vĩ tuyến 16 trở ra là 20 vạn quân Tưởng, từ vĩ tuyến 16 trở vào có hơn 2 vạn quân Anh và hơn 6 vạn quân Nhật cùng nhiều đảng phái phản động lăm le lật đổ chính phủ Việt Nam Dân chủ Cộng hòa, lập lại chính quyền tay sai hòng cuớp nước ta một lần nữa. Khi nhận sự cấu kết của các nước đế quốc và thế lực thù địch hòng lật đổ Chính phủ Việt Nam Dân chủ Cộng hòa để dựng lên một chính phủ bù nhìn của Mỹ - Tưởng, mặt khác bọn phản động trong nước đang ra sức chống phá hoạt động cách mạng của nước ta thì Đảng và Chủ tịch Hồ Chí Minh đã sáng suốt nhận định kẻ thù chính của ta lúc này là thực dân Pháp, phải tập trung ngọn lửa đấu tranh cách mạng vào chúng."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Trước tình hình đó, ngày 3/3/1946, Ban Thường vụ Trung ương Đảng ra Chỉ thị Tình hình và chủ trương, chỉ rõ: hòa với Pháp có thể phá tan âm mưu của chủ nghĩa đế quốc và bọn phản động, bảo toàn được lực lượng, đồng thời giành được thời gian để chuẩn bị cuộc chiến đấu mới, tiến đến giành độc lập hoàn toàn. Chỉ thị phân tích những thuận lợi, khó khăn ở trong nước, ngoài nước và chỉ ra rằng: ''Vấn đề lúc này, không phải là muốn hay không muốn đánh. Vấn đề là biết mình biết người, nhận một cách khách quan những điều kiện lời lãi trong nước và ngoài nước mà chủ trương cho đúng Chỉ thị nhấn mạnh: ''Điều cốt tử là trong khi mở cuộc đàm phán với Pháp, không những không ngừng một phút công việc sửa soạn, sẵn sàng kháng chiến bất cứ lúc nào và ở đâu, mà còn hết sức xúc tiến việc sửa soạn ấy và nhất định không để cho việc đàm phán với Pháp làm nhụt tinh thần quyết chiến của dân tộc ta''"
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Sáng ngày 6-3-1946, một cuộc họp đặc biệt của Hội đồng Chính phủ đã họp với sự có mặt của Hồ Chí Minh – Chủ tịch Chính phủ; các Bộ trưởng: Huỳnh Thúc Kháng, Phan Anh, Chu Bá Phượng, Đặng Thai Mai, Trương Đình Tri, Vũ Đình Hòe, Trần Đăng Khoa; Cố vấn tối cao Vĩnh Thụy; Nguyễn Văn Tố – Trưởng ban Thường trực Quốc Hội; Võ Nguyên Giáp – Chủ tịch Ủy ban Kháng chiến; Vũ Hồng Khanh – Phó Chủ tịch Ủy ban Kháng chiến; Hoàng Minh Giám – Thư ký Hội đồng Chính phủ. Sau khi nghe Chủ tịch Hồ Chí Minh báo cáo, Hội đồng bàn bạc và nhất trí quyết định sẽ ký Hiệp định sơ bộ với Pháp theo các điều kiện đã được thỏa thuận. Vì Nguyễn Tường Tam vắng mặt nên Hội đồng Chính phủ cử Vũ Hồng Khanh thay mặt để cùng với Hồ Chí Minh ký bản Hiệp định sơ bộ với Pháp. Ngày 6 tháng 3 năm 1946, Hiệp định sơ bộ Pháp-Việt được ký kết giữa Jean Sainteny, đại diện chính phủ Cộng hòa Pháp, và Hồ Chí Minh cùng Vũ Hồng Khanh, đại diện chính phủ Việt Nam Dân chủ Cộng hòa."
+      }
+      ,
+        { 
+        "type":"image",
+        "src":"HDSB",
+        "alt":"Hình ảnh Hiệp định sơ bộ"
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Theo Hiệp định Sơ bộ, Chính phủ Pháp công nhận nước Việt Nam Dân chủ Cộng hòa là một quốc gia tự do nằm trong khối liên hiệp Pháp. Nước Việt Nam có Chính phủ, nghị viện, quân đội và tài chính riêng. Việc thống nhất đất nước sẽ được quyết định bằng trưng cầu ý dân. Chính phủ Việt Nam đồng ý để 15.000 quân Pháp vào thay quân Tưởng. Quân Pháp phải rút khỏi Việt Nam sau 5 năm, mỗi năm rút một phần năm. Quân đội hai bên ngừng bắn và ở nguyên vị trí. Hai bên sẽ mở cuộc đàm phán tại một trong ba nơi: Hà Nội, Sài Gòn hoặc Paris."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Sau khi kí Hiệp định Sơ bộ, thực dân Pháp vẫn tiếp tục gây xung đột vũ trang ở Nam Bộ, lập Chính phủ Nam Kì tự trị, âm mưu tách Nam Bộ ra khỏi Việt Nam. Do sự đấu tranh kiên quyết của ta, cuộc đàm phán chính thức giữa hai chính phủ được tổ chức tại Phông-ten-nơ-blô - nước Pháp. Nhưng cuộc đàm phán đã thất bại. Trong khi đó, tại Đông Dương, quân Pháp tăng cường hoạt động khiêu khích. Quan hệ Việt - Pháp ngày càng căng thẳng và có nguy cơ xảy ra chiến tranh."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Từ ngày 19 tháng 4 đến ngày 11 tháng 5 năm 1946 tại Đà Lạt, chính phủ Việt Nam Dân chủ Cộng hòa đã tổ chức một hội nghị trù bị, gặp gỡ giữa 2 phái đoàn Việt và Pháp để chuẩn bị cho Hội nghị Fontainebleau chính thức khai mạc vào tháng 7 năm 1946."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Hội nghị Fontainebleau sau đó diễn ra kéo dài hơn hai tháng, từ 6 tháng 7 tới 10 tháng 9 năm 1946 nhưng không đem lại kết quả cụ thể nào vì hai bên đã bế tắc ở hai điểm bất đồng then chốt: Việc thống nhất ba kỳ: Bắc, Trung, Nam; Trao trả độc lập cho nước Việt Nam."
+      }
+      ,
+        { 
+        "type":"image",
+        "src":"TUVP",
+        "alt":"Hình ảnh kí bản Tạm ước Việt Pháp"
+      }
+      ,
+        { 
+        "type":"image",
+        "src":"BHBT"
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"nghị Fontainebleau vì vậy tan vỡ. Tuy nhiên Hồ Chí Minh và Bộ trưởng Bộ Thuộc địa Pháp Marius Moutet không chấp nhận thất bại. Trong khi Phạm Văn Đồng bỏ về nước, Hồ Chí Minh, Hoàng Minh Giám và Dương Bạch Mai nán lại Paris. Hồ Chí Minh đã khẩn khoản nói với Marius Moutet đừng để ông về nước tay không. Hồ Chí Minh thảo một bản nghị ước vào chiều ngày 11 và trao cho Marius Moutet. Ba ngày sau, Marius Moutet hồi đáp với một bản nghị ước khác. Đạt được đồng thuận, Hồ Chí Minh đã đến tư dinh của Marius Moutet để ký văn bản này, tức Tạm ước Việt – Pháp ngày 14/9/1946. Với tạm ước này, Chính phủ Việt Nam Dân chủ Cộng Hòa tiếp tục nhượng bộ cho Pháp một số quyền lợi kinh tế, văn hóa ở Việt Nam để có thời gian xây dựng và củng cố lực lượng, chuẩn bị cuộc kháng chiến chống thực dân Pháp nhất định sẽ bùng nổ."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Tạm ước Việt - Pháp không chỉ là một thỏa thuận tạm thời mà còn thể hiện ý chí hòa bình của Việt Nam trong bối cảnh căng thẳng với thực dân Pháp. Nó giúp Việt Nam có thêm thời gian để củng cố lực lượng và chuẩn bị cho cuộc kháng chiến chống thực dân Pháp sau này. Thỏa thuận này cũng phản ánh sự khéo léo trong chính sách ngoại giao của Hồ Chí Minh và Chính phủ Việt Nam Dân chủ Cộng hòa trong việc đối phó với các thế lực bên ngoài."
+      }
+      ,
+        { 
+        "type":"text",
+        "content":"Việc ký Tạm ước 14-9 được xác định là một bước nhân nhượng cuối cùng. Mặc dù không đạt được kết quả khi ký Tạm ước, nhưng Đảng khẳng định: ''Việc đi Pháp của Hồ Chủ Tịch và phái đoàn Chính phủ lần này tuy không đạt được mục đích ký một hiệp ước chính thức và toàn thể với thực dân Pháp, nhưng đã mang lại cho ta một kết quả tốt đẹp: làm cho nhân dân Pháp hiểu ta và ủng hộ ta hơn; làm cho dư luận quốc tế chú ý đến Việt Nam và hiểu sự hy sinh phấn đấu và nguyện vọng tha thiết của dân tộc Việt Nam.''"
+      }
+      ,
+        { 
+        "type":"text",
+        "content":""
+      }
+      ,
+        { 
+        "type":"text",
+        "content":""
+      }
+      ,
+        { 
+        "type":"text",
+        "content":""
+      }
+    ]
+    },
+    "stage4":{
+      "title":"Toàn quốc Kháng chiến",
+      "location": "Việt Nam",
+      "detail":[
+       { 
+        "type":"text",
+        "content":"Cuối năm 1946, sau khi có thêm sự tiếp sức của Anh và Mĩ ở miền Nam, thực dân Pháp liên tiếp có những hành động khiêu khích, công khai mưu đồ xâm lược, thiết lập lại nền cai trị thuộc địa đối với nước ta. Tháng 11/1946, chúng ngang nhiên đưa lực lượng chiếm đóng Hải Phòng, Lạng Sơn. Tại Hà Nội, từ đầu tháng 12/1946, quân Pháp liên tục dùng đại bác, súng cối bắn phá vào nhiều khu phố tàn sát dân thường, chiếm một số trụ sở của Chính phủ cách mạng. Đúng như nhận định của Thường vụ Trung ương Đảng tại Hội nghị quân sự toàn quốc lần thứ nhất (19-10-1946) ''Không sớm thì muộn, Pháp sẽ đánh mình và mình cũng nhất định phải đánh Pháp''."
+      }
+      
+        ,
+       { 
+        "type":"text",
+        "content":"Trước thời điểm Người ra Lời kêu gọi toàn quốc kháng chiến 6 ngày, tức ngày 13/12/1946, trả lời phỏng vấn phóng viên Pháp, Người vẫn kiên trì đàm phán và khẳng định : ''Đồng bào tôi và tôi thành thực muốn hòa bình. Chúng tôi không muốn chiến tranh''. Khi khả năng thương lượng không thể thực hiện được nữa, mọi cố gắng của Người để cứu vãn cuộc chiến tranh đều bị phía thực dân Pháp từ chối, nhân dân Việt Nam, dân tộc Việt Nam buộc phải cầm súng đứng lên chống lại kẻ thù lớn mạnh hơn mình rất nhiều lần''. "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Ngày 18 và 19/12/1946, thực dân Pháp liên tiếp gửi tối hậu thư buộc Chính phủ Việt Nam Dân chủ Cộng hòa phải giải tán lực lượng tự vệ, giao quyền kiểm soát Thủ đô cho chúng. Sau nhiều cố gắng, nỗ lực của Đảng và Chủ tịch Hồ Chí Minh, mọi giải pháp thương lượng cho hòa bình của Việt Nam đều không thực hiện được. Thực dân Pháp nổ súng xâm lược Việt Nam lần nữa, nhân dân Việt Nam không còn con đường nào khác, buộc phải cầm súng đứng lên bảo vệ đất nước. "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Để bảo vệ nền độc lập vừa giành được, từ ngày 18 đến ngày 19-12-1946, Hội nghị Ban Thường vụ trung ương Đảng Cộng sản Đông Dương do Chủ tịch Hồ Chí Minh chủ trì họp tại làng Vạn Phúc, thị xã Hà Đông (nay là phường Hà Đông, thủ đô Hà Nội) phát động toàn quốc kháng chiến. Ngay đêm 19/12/1946, Chủ tịch Hồ Chí Minh thay mặt Trung ương Đảng và Chính phủ ra lời kêu gọi đồng bào cả nước kháng chiến được phát trên Đài Tiếng nói Việt Nam. Sáng 20/12/1946, Lời kêu gọi Toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh được phát đi khắp cả nước:"
+      }
+        ,
+       { 
+        "type":"image",
+        "src":"LKGTQKC",
+        "alt":"Lời kêu gọi toàn quốc kháng chiến"
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"''Hỡi đồng bào toàn quốc!"
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"Chúng ta muốn hòa bình, chúng ta phải nhân nhượng. Nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới, vì chúng quyết tâm cướp nước ta một lần nữa!"
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ."
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"Hỡi đồng bào!"
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"Chúng ta phải đứng lên!"
+      },
+      { 
+        "type":"quote",
+        "content":"Bất kỳ đàn ông, đàn bà, bất kỳ người già, người trẻ, không chia tôn giáo, đảng phái, dân tộc. Hễ là người Việt Nam thì phải đứng lên đánh thực dân Pháp để cứu Tổ quốc. Ai có súng dùng súng. Ai có gươm dùng gươm, không có gươm thì dùng cuốc, thuổng, gậy gộc. Ai cũng phải ra sức chống thực dân Pháp cứu nước."
+      }
+      
+        ,
+       { 
+        "type":"quote",
+        "content":"Hỡi anh em binh sĩ, tự vệ, dân quân!"
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"Giờ cứu quốc đã đến. Ta phải hy sinh đến giọt máu cuối cùng để giữ gìn đất nước."
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"Dù phải gian lao kháng chiến, nhưng với một lòng kiên quyết hy sinh, thắng lợi nhất định về dân tộc ta!"
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"Việt Nam độc lập và thống nhất muôn năm!"
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"Kháng chiến thắng lợi muôn năm!''"
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"''Lời kêu gọi toàn quốc kháng chiến'' là một văn kiện có giá trị lịch sử và tinh thần vô cùng to lớn. Tác phẩm không chỉ thể hiện tư tưởng vĩ đại của dân tộc Việt Nam trong thời đại mới mà còn là sự kế thừa, tiếp nối mạch nguồn truyền thống yêu nước, nhân ái và nhân văn của cha ông. Đây là tiếng gọi thiêng liêng của non sông đất nước, là bản hịch cứu nước mạnh mẽ, khơi dậy lòng yêu nước và ý chí quật cường trong mỗi người dân Việt Nam, thôi thúc toàn dân đứng lên chiến đấu bảo vệ độc lập, tự do, thống nhất Tổ quốc và hạnh phúc của nhân dân. Lời kêu gọi ấy vang vọng tinh thần sắt đá: ''Thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ'' — biểu tượng cho ý chí bất khuất, quyết tâm chiến đấu đến cùng để giữ gìn non sông gấm vóc."
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Không chỉ mang giá trị hiệu triệu, văn kiện này còn phản ánh tư duy độc lập, sáng tạo và tầm nhìn chiến lược của Chủ tịch Hồ Chí Minh. Người đã khéo léo tìm ra điểm chung — mẫu số tinh thần gắn kết toàn dân tộc, đó là khát vọng độc lập, thống nhất đất nước và mong ước tự do, hạnh phúc cho mọi người dân. Chính sự dung hòa ấy đã quy tụ được sức mạnh đại đoàn kết toàn dân, phù hợp với thực tiễn lịch sử Việt Nam, mở ra con đường đúng đắn cho dân tộc tiếp tục phát huy truyền thống yêu nước, đoàn kết, vững bước trong sự nghiệp dựng nước và giữ nước."
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Cuộc chiến tranh Đông Dương bùng nổ, Chủ tịch Hồ Chí Minh đóng vai trò trực tiếp lãnh đạo cuộc kháng chiến. Càng đánh, quân Pháp càng sa lẩy và dần trở nên mệt mỏi về chiến tranh bởi lối đánh du kích của ta. Trả lời tờ báo New York Times, Bác cũng đã nói về cuộc chiến này:"
+      }
+        ,
+       { 
+        "type":"quote",
+        "content":"''Nó sẽ là một cuộc chiến giữa voi và hổ. Nếu hổ đứng yên thì sẽ bị voi dẫm chết. Nhưng hổ không đứng yên. Ban ngày nó ẩn nấp trong rừng và ra ngoài vào ban đêm. Nó sẽ nhảy lên lưng voi, xé những mảnh da lớn, và rồi nó sẽ chạy trở lại vào rừng tối. Và dần dần, con voi sẽ chảy máu đến chết. Cuộc chiến tranh ở Đông Dương sẽ như vậy''."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Nhận thấy tình hình chiến tranh đang trong đà căng thẳng và khó có thể kết thúc nhanh chóng, chính vì thế, Chủ tịch Hồ Chí Minh nhận thấy cần phải có thêm sự hỗ trợ từ một số thế lực quốc tế khác. Chuyến đi bí mật của Người đến Liên Xô và Trung Quốc đã được thực hiện vào năm 1950. Vì lí do phải giữ tính tuyệt mật của chuyến đi, Người phải trải qua một hành trình vô cùng gian nan, nhiều lúc phải tự mình đi bộ từ Tuyên Quang đến Long Châu. Chuyến đi tuy vô cùng cực khổ, nhưng nhờ vào đó mà Người đã thành công trên cả hai phương diện chính trị và ngoại giáo, làm tiền đề thiết lập quan hệ ngoại giao giữa Việt Nam – Liên Xô và Việt Nam – Trung Quốc cùng các nước xã hội chủ nghĩa khác."
+      }
+      
+        ,
+       { 
+        "type":"text",
+        "content":"Từ năm 1950, phong trào cách mạng thế giới phát triển mạnh mẽ. Hệ thống xã hội chủ nghĩa được củng cố, phong trào giải phóng dân tộc dâng cao, làm rung chuyển nền thống trị của chủ nghĩa đế quốc. Cùng lúc đó, phong trào đấu tranh vì hòa bình cũng lan rộng, thu hút đông đảo quần chúng tham gia."
+      }
+        ,
+       { 
+        "type":"image",
+        "src":"DHD",
+        "alt":"Đại hội Đảng II"
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Từ năm 1930, Đảng Cộng sản Đông Dương đã lãnh đạo cách mạng ở cả ba nước Việt Nam, Lào và Campuchia, hoàn thành tốt vai trò lịch sử của mình. Tuy nhiên, trong quá trình hoạt động, Đảng cũng gặp một số hạn chế ảnh hưởng đến công tác lãnh đạo. Hơn nữa, dù cùng chung mục tiêu kháng chiến, mỗi nước Đông Dương lại có hoàn cảnh và bước phát triển riêng. Vì vậy, tình hình lúc bấy giờ đòi hỏi mỗi dân tộc cần có một chính đảng cách mạng độc lập, kiên định theo con đường Mác – Lênin, để trực tiếp lãnh đạo sự nghiệp giải phóng dân tộc của mình và góp phần vào phong trào chung của ba nước."
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Nhằm đáp ứng những đòi hỏi bức thiết đó, từ ngày 11 đến 19-2-1951, Đảng đã triệu tập Đại hội đại biểu toàn quốc lần thứ II họp tại xã Vinh Quang huyện Chiêm Hóa, tỉnh Tuyên Quang Dự đại hội có 158 đại biểu chính thức, 33 đại biểu dự khuyết, thay mặt cho hơn 766.349 vạn đảng viên Việt-Miên-Lào."
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Báo cáo chính trị của Chủ tịch Hồ Chí Minh và báo cáo Bàn về cách mạng Việt Nam của Tổng Bí thư Trường Chinh trình bày trước Đại hội đã tổng kết kinh nghiệm mấy chục năm vận động cách mạng của Đảng, nêu rõ những nhiệm vụ trước mắt của toàn Đảng, toàn quân, toàn dân ta, đưa cuộc kháng chiến đến thắng lợi, đồng thời vạch rõ tiến độ của cách mạng Việt Nam. Báo cáo chính trị nêu nhiệm vụ chủ yếu trước mắt của cách mạng Việt Nam là: ''Tiêu diệt thực dân Pháp và đánh bại bọn can thiệp Mĩ, giành thống nhất, độc lập hoàn toàn, bảo vệ hòa bình thế giới.'' Bàn về cách mạng Việt Nam nêu nhiệm vụ chống phong kiến phải được thực hiện đồng thời với nhiệm vụ chống đế quốc, nhưng làm từng bước, có kế hoạch để vừa bồi dưỡng lực lượng kháng chiến, vừa giữ vững khối đại đoàn kết toàn dân kháng chiến."
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Để hoàn thành nhiệm thứ nhất, Đảng chủ trương phải đẩy mạnh việc xây dựng lực lượng vũ trang nhân dân, bao gồm quân đội, dân quân và du kích, trên mọi phương diện. Cần chú trọng nâng cao giác ngộ chính trị, trình độ chiến thuật, kỹ thuật, tinh thần kỷ luật tự giác cũng như năng lực tổ chức, huấn luyện và chỉ huy chiến đấu. Đồng thời, phải củng cố và mở rộng Mặt trận dân tộc thống nhất (Mặt trận Liên Việt – Việt Minh), khơi dậy tinh thần yêu nước và phong trào thi đua ái quốc. Trong đó, bộ đội thi đua giết giặc lập công, còn nhân dân thi đua tăng gia sản xuất, góp phần phục vụ kháng chiến. Cùng với đó, cần giảm tô, giảm tức, tịch thu ruộng đất của thực dân và tay sai chia cho nông dân nghèo, bảo vệ nền kinh tế – tài chính của ta, đấu tranh kinh tế với địch và thực hiện chế độ thuế khóa công bằng, hợp lý. Ngoài ra, phải tích cực ủng hộ cuộc kháng chiến của nhân dân Lào và Campuchia, hướng tới xây dựng Mặt trận thống nhất Việt – Miên – Lào, đồng thời tăng cường tình đoàn kết hữu nghị giữa nhân dân Việt Nam với các dân tộc bạn và nhân dân tiến bộ trên toàn thế giới."
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Muốn làm tròn nhiệm vụ trên, cần phải có một Đảng hoạt động công khai, tổ chức phải phù hợp với tình hình thế giới và trong nước để lãnh đạo toàn dân kháng chiến đến thắng lợi. Đại hội thông qua chính cương, Tuyên ngôn và Điều lệ mới của Đảng. Đại hội quyết định đưa Đảng ra hoạt động công khai lấy tên là Đảng Lao động Việt Nam; đồng thời các đảng bộ ở Campuchia và Lào thành lập đảng riêng ở mỗi nước. Đại hội bầu Ban Chấp hành Trung ương gồm 19 ủy viên chính thức và 10 ủy viên dự khuyết. Hội nghị lần thứ nhất bầu Bộ Chính trị gồm 7 ủy viên chính thức và 1 ủy viên dự khuyết. Chủ tịch Hồ Chí Minh được bầu là Chủ tịch Đảng, đồng chí Trường Chinh được bầu là Tổng Bí thư."
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Đảng Lao động Việt Nam là Đảng của giai cấp công nhân và nhân dân lao động, một đảng to lớn, mạnh mẽ, chắc chắn, trong sạch, cách mạng triệt để; đảm nhận sứ mệnh lịch sử trọng đại vừa tiếp tục lãnh đạo cuộc kháng chiến của nhân dân ta, vừa có nghĩa vụ giúp đỡ các Đảng cách mạng ở Lào và Campuchia đấu tranh thắng lợi. "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Dựa trên việc tổng kết những kinh nghiệm thực tiễn sau hơn hai mươi năm lãnh đạo cách mạng Việt Nam, đồng thời chọn lọc, tiếp thu kinh nghiệm từ phong trào cách mạng thế giới, đồng chí Trường Chinh đã trình bày trong Báo cáo ''Bàn về cách mạng Việt Nam'' toàn bộ đường lối cách mạng dân tộc dân chủ nhân dân, làm cơ sở để từng bước tiến lên chủ nghĩa xã hội ở nước ta."
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"Nhiệm vụ cơ bản của cách mạng Việt Nam là tiêu diệt bọn đế quốc xâm lược, làm cho nước Việt Nam hoàn toàn độc lập và thống nhất, xoá bò hình thức bóc lột phong kiến, làm cho người cày có ruộng, tiến lên chủ nghĩa xã hội. "
+      }
+      
+        ,
+       { 
+        "type":"text",
+        "content":"Nhiệm vụ chống đế quốc và nhiệm vụ chống phong kiến khăng khít với nhau. Nhưng trọng tâm của cách mạng trong giai đoạn hiện tại là giải phóng dân tộc. Kẻ thù ệu thể trước mắt của cách mạng là chủ nghĩa đế quốc xâm lược và bè lũ tay sai. Mũi nhọn của cách mạng chủ yếu chĩa vào bọn đế quốc xâm lược. "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Nhiệm vụ phản phong kiến nhất định phải làm đồng thời với nhiệm vụ phản đế, nhưng làm có kế hoạch, có từng bước, để vừa bồi dưỡng và phát triển được lực lượng cách mạng của nhân dân, vừa giữ vững được khối đại đoàn kết toàn dân để kháng chiến, nhằm mau tiêu diệt bọn đế quốc xâm lược, hoàn thành giải phóng dân tộc. "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Lực lượng cách mạng Việt Nam bao gồm giai cấp công nhân, giai cấp nông dân, giai cấp tiểu tư sản và giai cấp tư sản dân tộc. Động lực của cách mạng Việt Nam bao gồm giai cấp công nhân, giai cấp nông dân và giai cấp tư sản, chủ yếu là công nhân và nông dân. Lực lượng lãnh đạo cách mạng Việt Nam là giai cấp công nhân. "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Cuộc cách mạng nhằm đánh đổ đế quốc và phong kiến do nhân dân tiến hành, trong đó, công nông là động lực chủ yếu và do giai cấp công nhân lãnh đạo gọi là cách mạng dân tộc dân chủ nhân dân."
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Căn cứ vào tình hình thế giới và tình hình trong nước, căn cứ vào nhiệm vụ và tính chất của cách mạng nước ta, Báo cáo Bàn về cách mạng Việt Nam vạch ra 12 chính sách của Đảng trong cách mạng dân tộc dân chủ nhân dân. 12 chính sách đó là: "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Đẩy mạnh kháng chiến đến toàn thắng, tiêu diệt bọn đế quốc xâm lược và bè lũ tay sai, làm cho nước Việt Nam hoàn toàn độc lập và thống nhất; "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Thi hành từng bước chính sách ruộng đất, tiến tới thực hiện khẩu hiệu người cày có ruộng, xoá bỏ các hình thức bóc lột phong kiến và nửa phong kiến ở nước ta; "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Xây dựng, củng cố và phát triển chế độ dân chủ nhân dân về chính trị, kinh tế và văn hoá, chuẩn bị tiến lên giai đoạn cách mạng xã hội chủ nghĩa; "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Củng cố mặt trận dân tộc thống nhất chống đế quốc xâm lược; "
+      }
+      ,
+      { 
+        "type":"text",
+        "content":"- Xây dựng và phát triển quân đội nhân dân; "
+      }
+      
+        ,
+       { 
+        "type":"text",
+        "content":"- Chính sách dân tộc; "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Chính sách đối với tôn giáo;"
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Chính sách đối với vừng bị địch chiếm; "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Chính sách đối với ngoại kiều; "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Chính sách đối ngoại; "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Ra sức ủng hộ cách mạng Campuchia và cách mạng Lào; "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"- Tích cực góp phần vào cuộc đấu tranh vì hoà bình, dân chủ và độc lập dân tộc của nhân dân thế giới. "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Báo cáo Bàn về Cách mạng Việt Nam là kim chi nam cho những chủ trương, chính sách cụ thể của Đảng trong cách mạng dân tộc dân chủ, và phương hướng phấn đấu cho toàn Đảng, toàn dân và toàn quân ta đưa sự nghiệp kháng chiến đến thắng lợi hoàn toàn. "
+      }
+        ,
+       { 
+        "type":"text",
+        "content":"Như vậy, Đại hội lần thứ II là mốc quan trọng đánh dấu bước trưởng thành của Đảng trong quá trình lãnh đạo cách mạng, có tác dụng thúc đẩy cuộc kháng chiến chống Pháp đi đến thắng lợi."
+      }
+      ,
+       { 
+        "type":"text",
+        "content":"Trải qua nhiều giai đoạn khốc liệt của cuốc chiến, Chiến tranh Đông Dương chính thức kết thúc vào năm 1954, khi thực dân Pháp bị đánh bại tại Điện Biên Phủ, một chiến thắng lẫy lừng cả năm châu và đã đánh dấu cho sự kết thúc của chủ nghĩa thực dân trên phạm vi toàn thế giới. Hiệp định Genève được kí kết ngay sau đó, đánh dấu một cột mốc vĩ đại trong lịch sử dân tộc."
+      }
+      
+      ,
+      { 
+        "type":"text",
+        "content":"Qua gần 10 năm từ Đại hội đại biểu toàn quốc lần thứ II của Đảng (1951) đến cuối những năm 50 của thế kỷ XX, trên thế giới và ở nước ta đã diễn ra những biến đổi quan trọng có lợi cho sự nghiệp đấu tranh cách mạng của nhân dân ta và của nhân dân lao động trên toàn thế giới."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Hệ thống các nước xã hội chủ nghĩa do Liên Xô đứng đầu đã phát triển vượt bậc và ngày càng được củng cố thêm, nối liền từ Âu sang Á, là thành trì của hòa bình và an ninh các dân tộc. Phong trào giải phóng dân tộc và phong trào công nhân ở các nước tư bản cùng với phong trào hòa bình trên thế giới đã có sự phát triển nhanh chóng. Lực lượng so sánh trên thế giới đã biến đổi một cách căn bản, ưu thế rõ rệt thuộc về các lực lượng xã hội chủ nghĩa, độc lập dân tộc và yêu chuộng hòa bình."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Ở Việt Nam, sau chiến thắng Điện Biên Phủ, Hiệp định Giơ ne vơ được ký kết, hòa bình được lập lại ở Đông Dương trên cơ sở các nước công nhận chủ quyền độc lập, thống nhất và toàn vẹn lãnh thổ của Việt Nam. Miền Bắc Việt Nam được hoàn toàn giải phóng đã chuyển sang giai đoạn cách mạng xã hội chủ nghĩa. Dưới sự lãnh đạo của Đảng, cuộc cải cách ruộng đất ở miền Bắc đã hoàn thành thắng lợi; miền Bắc đã vượt qua nhiều khó khăn, khôi phục và phát triển kinh tế, hoàn thành kế hoạch 3 năm cải tạo và phát triển kinh tế, văn hóa. Miền Bắc ngày càng củng cố trở thành cơ sở vững chắc cho cuộc đấu tranh thống nhất nước nhà. Miền Nam dù phải chịu những cuộc khủng bố tàn bạo, vẫn kiên cường đứng vững và ngày càng mở rộng lực lượng. Tình hình đó đã làm xuất hiện hai chiến lược cách mạng khác nhau ở hai miền, đòi hỏi Đảng ta phải xác định rõ đường lối, chính sách phù hợp và củng cố sự lãnh đạo toàn diện, nhằm đáp ứng yêu cầu mới của cách mạng nước nhà."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Giữa lúc miền Bắc đang giành thắng lợi to lớn trong việc thực hiện nhiệm vụ cải tạo và phát triển kinh tế, cuộc cách mạng dân tộc dân chủ nhân dân ở miền Nam có bước phát triển nhảy vọt với phong trào ''Đồng khởi''; thì vào tháng 9 - 1960, Đảng Lao động Việt Nam họp Đại hội đại biểu toàn quốc lần thứ III tại Thủ đô Hà Nội."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Với cương vị là Chủ tịch Đảng, Chủ tịch Hồ Chí Minh đã đọc lời khai mạc Đại hội. Người đã khái quát nhiệm vụ mới của cách mạng Việt Nam và chỉ rõ: ''Đại hội lần này là Đại hội xây dựng chủ nghĩa xã hội ở miền Bắc và đấu tranh hoà bình thống nhất nước nhà''."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Đại hội đã nghe Báo cáo chính trị của Ban Chấp hành Trung ương Đảng do đồng chí Lê Duẩn - Ủy viên Bộ Chính trị đọc; Báo cáo về sửa đổi Điều lệ Đảng do đồng chí Lê Đức Thọ đọc; Báo cáo bổ sung về Nhiệm vụ và phương hướng của kế hoạch 5 năm lần thứ nhất (1961-1965) do đồng chí Nguyễn Duy Trinh trình bày và nhiều tham luận khác."
+      }      
+      ,
+      { 
+        "type":"image",
+        "src":"BHPB"
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Đại hội họp từ ngày 5 đến ngày 10 – 9 – 1960 tại Hà Nội, đã đề ra nhiệm vụ chiến lược của cách mạng cả nước và nhiệm vụ của cách mạng từng miền; chỉ rõ vị trí, vai trò của cách mạng từng miền, mối quan hệ giữa cách mạng hai miền. Cách mạng xã hội chủ nghĩa ở miền Bắc có vai trò quyết định nhất đối với sự phát triển của cách mạng cả nước. Cách mạng dân tộc dân chủ nhân dân ở miền Nam có vai trò quyết định trực tiếp đối với sự nghiệp giải phóng miền Nam. Cách mạng hai miền có quan hệ mật thiết, vừa bổ sung, vừa tác động lẫn nhau nhằm hoàn thành cuộc cách mạng dân tộc dân chủ nhân dân trong cả nước, thực hiện hòa bình, thống nhất đất nước."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Đại hội đã thông qua Báo cáo chính trị, Báo cáo sửa đổi Điều lệ Đảng và thông qua kế hoạch Nhà nước 5 năm lần thứ nhất (1961 – 1965) nhằm xây dựng bước đầu cơ sở vật chất – kỹ thuật của chủ nghĩa xã hội, thực hiện một bước công nghiệp hóa xã hội chủ nghĩa. Đại hội bầu Ban Chấp hành Trung ương mới của Đảng, bầu Bộ Chính trị. Hồ Chí Minh đã được bầu lại làm Chủ tịch Đảng, Lê Duẩn được bầu làm Bí thư thứ nhất Ban Chấp hành Trung ương Đảng."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Đại hội Đại biểu toàn quốc lần thứ III có ý nghĩa rất trọng đại trong lịch sử cách mạng Việt Nam. Đường lối cách mạng do đại hội vạch ra được coi là ''nguồn ánh sáng mới, lực lượng mới'' cho toàn Đảng, toàn dân trong việc xây dựng và phát triển xã hội chủ nghĩa ở miền Bắc cũng như trong cuộc đấu tranh hòa bình thống nhất đất nước. Qua đó, nó mở ra những triển vọng mới cho tương lai, hướng tới một xã hội công bằng và thịnh vượng."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Tháng 8.1965, Mỹ ồ ạt đổ 30 vạn quân viễn chinh cùng rất nhiều vũ khí, thiết bị quân sự vào miền Nam Việt Nam hòng nhanh chóng tiêu diệt lực lượng cách mạng và bình định miền Nam; đồng thời mở rộng chiến tranh phá hoại bằng không quân và hải quân Mỹ ra miền Bắc. Người Mỹ rêu rao: Đưa miền Bắc trở về thời kỳ đồ đá. Quân đội Mỹ đã chuyển từ chiến lược ''chiến tranh đặc biệt'', ''dùng người Việt đánh người Việt'', sang chiến lược ''chiến tranh cục bộ'', hòng giành lại thế chủ động trên chiến trường, đẩy quân ta trở về thế phòng ngự, bị động."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Trước tình hình đó, ngày 17-7-1966, khi cuộc kháng chiến chống Mỹ, cứu nước của dân tộc ta bước vào giai đoạn ác liệt nhất, đế quốc Mỹ mở rộng chiến tranh bằng không quân đánh phá miền Bắc, trên Đài phát thanh Tiếng nói Việt Nam, lời kêu gọi nhân dân cả nước quyết tâm đánh thắng giặc Mỹ xâm lược của Chủ tịch Hồ Chí Minh đã vang lên: "
+      }      
+      ,
+      { 
+        "type":"quote",
+        "content":"''Hỡi đồng bào và chiến sĩ cả nước!"
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Đế quốc Mỹ dã man, gây ra chiến tranh xâm lược hòng ăn cướp nước ta, nhưng chúng đang thua to."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Chúng ồ ạt mang gần 30 vạn quân viễn chinh vào miền Nam nước ta. Chúng nuôi d¬ưỡng ngụy quyền ngụy quân làm công cụ hại dân phản nước. Chúng dùng những phương tiện chiến tranh cực kỳ man rợ, như chất độc hoá học, bom napan... Chúng dùng chính sách đốt sạch, giết sạch, phá sạch. Bằng những tội ác ấy, chúng hòng khuất phục đồng bào miền Nam ta."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Nhưng dưới sự lãnh đạo kiên quyết và khôn khéo của Mặt trận Dân tộc giải phóng, quân và dân miền Nam ta đoàn kết chặt chẽ, chiến đấu anh dũng, đã thắng lợi vẻ vang và quyết tâm chiến đấu đến thắng lợi hoàn toàn, để giải phóng miền Nam, bảo vệ miền Bắc, tiến tới thống nhất nước nhà."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Giặc Mỹ trắng trợn dùng không quân bắn phá miền Bắc nước ta, hòng gỡ thế thất bại của chúng ở miền Nam và hòng ép chúng ta ''đàm phán'' theo ý muốn của chúng."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Nhưng miền Bắc không hề nao núng. Quân và dân ta càng hăng hái thi đua sản xuất, chiến đấu anh dũng. Đến nay chúng ta đã bắn tan xác hơn 1.200 máy bay địch. Chúng ta quyết đánh thắng chiến tranh phá hoại của địch, đồng thời hết sức hết lòng ủng hộ đồng bào miền Nam ruột thịt."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Gần đây, giặc Mỹ điên cuồng leo thang thêm một bước rất nghiêm trọng: chúng bắn phá ngoại ô Hà Nội và Hải Phòng. Đó là hành động tuyệt vọng của chúng, khác nào con thú dữ bị th¬ương nặng, giãy giụa một cách hung tợn trước hơi thở cuối cùng."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Giônxơn và bè lũ phải biết rằng: chúng có thể đưa 50 vạn quân, 1 triệu quân hoặc nhiều hơn nữa để đẩy mạnh chiến tranh xâm lược ở miền Nam Việt Nam. Chúng có thể dùng hàng nghìn máy bay, tăng cư¬ờng đánh phá miền Bắc. Nhưnng chúng quyết không thể lay chuyển đ¬ược chí khí sắt đá, quyết tâm chống Mỹ, cứu nước của nhân dân Việt Nam anh hùng. Chúng càng hung hăng thì tội của chúng càng thêm nặng. Chiến tranh có thể kéo dài 5 năm, 10 năm, 20 năm hoặc lâu hơn nữa. Hà Nội, Hải Phòng và một số thành phố, xí nghiệp có thể bị tàn phá, song nhân dân Việt Nam quyết không sợ! Không có gì quý hơn độc lập, tự do. Đến ngày thắng lợi, nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn!''"
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":"Lời kêu gọi chống Mỹ cứu nước xuất hiện đúng thời điểm đất nước lâm nguy, như lời hiệu triệu thiêng liêng, động viên toàn dân tộc đồng tâm, nhất trí, vượt qua mọi khó khăn, gian khổ, tiến lên giành chiến thắng. ''Không có gì quý hơn độc lập, tự do'' là tư tưởng xuyên suốt của quá trình lịch sử từ những ''chiến thắng vĩ đại và huy hoàng'' trong các cuộc chiến tranh giải phóng dân tộc, bảo vệ Tổ quốc đến những ''thành tựu to lớn và có ý nghĩa lịch sử'' trong công cuộc đổi mới của nhân dân Việt Nam dưới sự lãnh đạo của Đảng Cộng sản Việt Nam quang vinh. Lời kêu gọi của Bác chính là lời non sông đất nước, động viên toàn dân vượt qua mọi khó khăn, gian khổ, hi sinh vì lí tưởng ''độc lập, tự do''."
+      }      
+      ,
+      { 
+        "type":"text",
+        "content":""
+      }
+    ]
+    },
+    "stage5":{
+      "title":"Giai đoạn cuôi đời",
+      "location": "",
+      "detail":[
+        { 
+        "type":"text",
+        "content":"  Từ khoảng nửa cuối thập niên 1960, sức khỏe của Chủ tịch Hồ Chí Minh dần dần suy giảm do tuổi già, Người bắt đầu giảm dần các hoạt động chính trị và thường xuyên sang Trung quốc để nghỉ ngơi và dưỡng bệnh. Người bắt đầu giao dần công việc cho Bí thư thứ nhất Lê Duẩn. Bác bắt đầu dần lui về nắm giữ là vai trò biểu tượng của cách mạng, dành nhiều thời gian hơn cho các hoạt động khác như đi thăm hỏi, động viên các cán bộ và đồng báo, viết báo. Thế nhưng mỗi khi có các quyết sách lớn như Tổng tiến công Tết Mậu Thận hay đàm phán và Hiệp định Paris về Việt Nam, với vai trò và uy tín to lớn, chủ tịch Hồ Chí Minh vẫn là người tham gia chỉ đạo và phê duyệt."
+      }    
+    ,
+        { 
+        "type":"text",
+        "content":"  Ngày 10/3/1968, Chủ tịch Hồ Chí Minh gửi một bức thư tới Tổng bí thư Lê Duẩn, với nội dung cơ bản là mong muốn thay đổi kế hoạch vào thăm miền Nam từ sau khi thắng lợi hoàn toàn thành thăm lúc ''anh em trỏng chuẩn bị mở màn hiệp thứ ba'' của chiến dịch Tổng tiến công và nổi dậy Xuân Mậu Thân 1968. Bác cho rằng việc đi thăm vào lúc này sẽ có tác dụng khuyến khích thêm tinh thần cho các an hem chiến sĩ, thế nhưng trên hết là bởi vì Bác biết rằng bản thân mình không còn bao nhiêu thời gian nữa, việc đi thăm đồng bào miền Nam phải được thực hiện sớm nếu không thì sẽ không bao giờ có thể thực hiện được nữa. "
+      }    
+    ,
+        { 
+        "type":"text",
+        "content":"  Trong những năm tháng cuối đời, dù cho bị bệnh tật hành hạ, Chủ tịch Hồ Chí Minh vẫn giữ vai trò chỉ đạo và tham gia vào công tác chuẩn bị cho cuộc Tổng tiến công Tết Mậu Thân 1968, Người phải luân phiên giữa việc tham dự các phiên họp và nghe báo cáo từ các cấp dưới, đồng thời sang Trung Quốc để chạy chữa, dưỡng bệnh. Bằng tất cả nỗ lực của toàn thể anh em, công tác chuẩn bị đã hoàn tất và hiệu lệnh mở đầu màn cuộc tổng tấn công là bài thơ chúc Tết của Chủ tịch Hồ Chí Minh phát trên Đài tiếng nói Việt Nam: "
+      }    
+    ,
+        { 
+        "type":"poem",
+        "content":"'Xuân này hơn hẳn mấy Xuân qua,|Thắng trận tin vui khắp nước nhà.|Nam Bắc thi đua đánh giặc Mỹ,|Tiến lên! Toàn thắng ắt về ta.''"
+      }    
+    ,
+        { 
+        "type":"text",
+        "content":"  Sau cuộc Tổng tiến công Tết Mậu Thân 1968, Mỹ phải chấp nhận ngồi vào bàn đàm phán hòa bình với Việt Nam. Năm 1969, nhân dịp chiến thắng tại miền Nam, Bác đã viết bài thơ chúc tết xuân Kỷ Dậu 1969, được xcm như là bài thơ di chúc, cũng là bài thơ chúc Tết cuối cùng của Người: "
+      }    
+    ,
+        { 
+        "type":"poem",
+        "content":"Năm qua thắng lợi vẻ vang|Năm nay tiền tuyến chắc càng thắng to|Vì độc lập, vì tự do|Đánh cho Mỹ cút, đánh cho ngụy nhào|Tiến lên! Chiến sĩ đồng bào|Bắc Nam sum họp xuân nào vui hơn."
+      }    
+    ,
+        { 
+        "type":"text",
+        "content":"  Chủ tịch Hồ Chí Minh đã chuẩn bị di chúc của mình vào dịp sinh nhật lần thứ 75 của Người vào ngày 10 tháng 5 năm 1965 và sửa lại nhiều lần trong những dịp sinh nhật tiếp theo. Bác mang di chúc ra viết và dặn cho Vũ Kỳ - thư ký riêng của mình: ''Chú cất giữ cẩn thận, sang năm, mồng 10 tháng 5 nhớ đưa lại cho Bác''."
+      }    
+    ]
+    },
+    "stage6":{                                                                                                  
+      "title":"Chương IV: Lời tâm sự cuối cùng của người đi xa(1965 - 1969)",
+      "location": "",
+      "detail":[
+{ 
+        "type":"text",
+        "content":"Trong những năm tháng cuối cùng của cuộc đời, Chủ tịch Hồ Chí Minh đã dồn hết tâm huyết vào bản Di chúc lịch sử. Người bắt đầu viết Di chúc vào dịp sinh nhật lần thứ 75 của mình, ngày 10 tháng 5 năm 1965, và sửa lại nhiều lần. Trong đó có lời chúc Tết cuối cùng, cũng là lời hứa thiêng liêng với Tổ quốc:"
+      },
+      { 
+        "type":"quote",
+        "content":"Năm qua thắng lợi vẻ vang Năm nay tiền tuyến chắc càng thắng to Vì độc lập, vì tự do..."
+      },
+      { 
+        "type":"text",
+        "content":"Và rồi, định mệnh đã khắc nghiệt chọn đúng ngày thiêng liêng nhất của dân tộc – ngày 2 tháng 9 – ngày khai sinh ra nước Việt Nam độc lập. Năm 1969, vào lúc 9 giờ 15 phút, sau những năm tháng kiên cường gánh vác non sông, trái tim vĩ đại đã dành trọn 79 mùa xuân để yêu thương nhân dân đã ngừng đập. Ngày Quốc khánh bỗng hóa thành ngày Quốc tang."
+      },
+      { 
+        "type":"text",
+        "content":"Trong giây phút từ biệt, trong bản Di chúc, Người đã không hề hối tiếc về những gian khổ đã qua, Người chỉ còn một niềm day dứt khôn nguôi. Người để lại lời trăng trối sâu thẳm:"
+      },
+      { 
+        "type":"quote",
+        "content":"''Suốt đời tôi hết lòng hết sức phục vụ Tổ quốc, phục vụ cách mạng, phục vụ nhân dân. Nay dù phải từ biệt thế giới này, tôi không có điều gì phải hối hận, chỉ tiếc là tiếc rằng không được phục vụ lâu hơn nữa, nhiều hơn nữa.''"
+      }
+      ,{ 
+        "type":"text",
+        "content":"Một người cả đời phụng sự, đến hơi thở cuối cùng cũng chỉ tiếc nuối vì không được phục vụ lâu hơn!"
+      },
+      { 
+        "type":"text",
+        "content":"Người đã sống trọn vẹn theo lẽ sống cao cả ''Cán bộ là đầy tớ của nhân dân''. Di chúc ấy đã trở thành lời hiệu triệu thiêng liêng nhất, buộc toàn thể dân tộc phải nén lại nỗi đau thương, biến nước mắt thành hành động, tiếp tục con đường cách mạng còn dang dở cho đến ngày Bắc Nam sum họp, thực hiện trọn vẹn lời hứa và niềm mong mỏi cuối cùng của Người."
+      }
+    ]
+    }
   }
 ]

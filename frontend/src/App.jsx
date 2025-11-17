@@ -26,6 +26,7 @@ import StoryPage4 from "./page/story/children/story4.jsx";
 import StoryPage5 from "./page/story/children/story5.jsx";
 import StoryPage6 from "./page/story/children/story6.jsx";
 import StoryDetail from "./page/story/coc/storyDetail.jsx";
+import Song from "./page/song/song.jsx";
 
 
 
@@ -62,6 +63,9 @@ function App() {
           <Route path="/story5" element={<StoryPage5 />} />
           <Route path="/story6" element={<StoryPage6 />} />
           <Route path="/story/:pageId/:storyKey" element={<StoryDetail />} />
+          <Route path="/song" element={<Song />} />
+          <Route path="/song/:id?" element={<Song />} />
+
 
 
 

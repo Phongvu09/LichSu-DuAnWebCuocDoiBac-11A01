@@ -180,3 +180,20 @@ body {
         font-size: 1rem;
     }
 }
+
+.title-2 {
+    color: #6b4c3b;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.title-2 {
+
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    border-bottom: 3px solid #b48a44;
+    padding-bottom: 0.5rem;
+    color: #593d0d;
+}

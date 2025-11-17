@@ -47,6 +47,7 @@ export default function StoryDetail() {
             <h1 className="title">{story.title}</h1>
             {story.name && <h3 className="story-name">{story.name}</h3>}
             {story.intro && <p className="story-intro">{story.intro}</p>}
+            <h2 className="title-2">Nội dung</h2>
             <article className="story-content" style={{ whiteSpace: "pre-line" }}>
                 {story.content}
             </article>

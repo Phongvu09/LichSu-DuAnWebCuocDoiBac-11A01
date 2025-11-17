@@ -3,6 +3,7 @@
     background: #f7f3ee;
     color: #3a2e25;
     overflow-x: hidden;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 /* HERO */
@@ -66,10 +67,10 @@
 }
 
 .quote {
-    font-style: italic;
     color: #4a3a30;
     font-size: 1.3rem;
     margin-bottom: 25px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .author {

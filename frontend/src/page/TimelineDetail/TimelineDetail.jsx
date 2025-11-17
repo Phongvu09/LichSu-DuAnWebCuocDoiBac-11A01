@@ -26,6 +26,16 @@ import TKSTK from "../../assets/GD1/TKSTK.png";
 import TQHH from "../../assets/GD1/TQHH.png";
 import TTHP from "../../assets/GD1/TTHP.jpg";
 import TTHPV from "../../assets/GD1/TTHPV.png";
+import BCRCD from "../../assets/GD5/BCRCD.png";
+import BHBT from "../../assets/GD5/BHBT.png";
+import BHPB from "../../assets/GD5/BHPB.png"
+import DHD from "../../assets/GD5/DHD.png";
+import GG from "../../assets/GD5/KB.png";
+import HDSB from "../../assets/GD5/HDSB.png";
+import HGCD from "../../assets/GD5/HGCD.png";
+import LKGTQKC from "../../assets/GD5/LKGTQKC.png";
+import NDHC from "../../assets/GD5/NDHC.png";
+import TUVP from "../../assets/GD5/TUVP.png";
 
 
 
@@ -50,7 +60,17 @@ const imagesMap = {
     TKSTK,
     TQHH,
     TTHP,
-    TTHPV
+    TTHPV,
+    BCRCD,
+    BHBT,
+    BHPB,
+    DHD,
+    GG,
+    HDSB,
+    HGCD,
+    LKGTQKC,
+    NDHC,
+    TUVP,
 };
 
 export default function TimelineDetail() {

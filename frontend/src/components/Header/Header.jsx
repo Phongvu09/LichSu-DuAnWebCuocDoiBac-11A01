@@ -156,6 +156,11 @@ export default function Header() {
             ],
 
         },
+        {
+            title: "Âm nhạc",
+            link: "/song",
+
+        }
     ];
 
 
