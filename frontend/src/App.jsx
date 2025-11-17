@@ -28,9 +28,7 @@ import StoryPage6 from "./page/story/children/story6.jsx";
 import StoryDetail from "./page/story/coc/storyDetail.jsx";
 import Song from "./page/song/song.jsx";
 
-
-
-import "./App.css";
+import RotateWarning from "./config/RotateWarning/rotateWarning.jsx";
 
 function App() {
   return (
@@ -38,45 +36,36 @@ function App() {
       <ScrollToTop />
       <Header />
       <main className="app-content">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/timeline" element={<Timeline />} />
-          <Route path="/quotes" element={<Quotes />} />
-          <Route path="/quiz" element={<Quiz />} />
-          <Route path="/rewards" element={<Rewards />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/timeline/:id" element={<TimelineDetail />} />
-          <Route path="/biography" element={<Biography />} />
-          <Route path="/legacy-tthcm" element={<Legacy_TTHCM />} />
-          <Route path="/legacy-world" element={<LegacyWorld />} />
-          <Route path="/legacy-dsvvhdd" element={<Legacy_DSVVHDD />} />
-          <Route path="/factors" element={<Factors />} />
-          <Route path="/contributions" element={<Contributions />} />
-          <Route path="/story" element={<Story />} />
-          <Route path="/learn/:id?" element={<Learn />} />
-          <Route path="/hcm1" element={<HCM1 />} />
-          <Route path="/hcm2" element={<HCM2 />} />
-          <Route path="/story1" element={<StoryPage1 />} />
-          <Route path="/story2" element={<StoryPage2 />} />
-          <Route path="/story3" element={<StoryPage3 />} />
-          <Route path="/story4" element={<StoryPage4 />} />
-          <Route path="/story5" element={<StoryPage5 />} />
-          <Route path="/story6" element={<StoryPage6 />} />
-          <Route path="/story/:pageId/:storyKey" element={<StoryDetail />} />
-          <Route path="/song" element={<Song />} />
-          <Route path="/song/:id?" element={<Song />} />
-
-
-
-
-
-
-
-
-
-
-
-        </Routes>
+        <RotateWarning>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/timeline" element={<Timeline />} />
+            <Route path="/quotes" element={<Quotes />} />
+            <Route path="/quiz" element={<Quiz />} />
+            <Route path="/rewards" element={<Rewards />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/timeline/:id" element={<TimelineDetail />} />
+            <Route path="/biography" element={<Biography />} />
+            <Route path="/legacy-tthcm" element={<Legacy_TTHCM />} />
+            <Route path="/legacy-world" element={<LegacyWorld />} />
+            <Route path="/legacy-dsvvhdd" element={<Legacy_DSVVHDD />} />
+            <Route path="/factors" element={<Factors />} />
+            <Route path="/contributions" element={<Contributions />} />
+            <Route path="/story" element={<Story />} />
+            <Route path="/learn/:id?" element={<Learn />} />
+            <Route path="/hcm1" element={<HCM1 />} />
+            <Route path="/hcm2" element={<HCM2 />} />
+            <Route path="/story1" element={<StoryPage1 />} />
+            <Route path="/story2" element={<StoryPage2 />} />
+            <Route path="/story3" element={<StoryPage3 />} />
+            <Route path="/story4" element={<StoryPage4 />} />
+            <Route path="/story5" element={<StoryPage5 />} />
+            <Route path="/story6" element={<StoryPage6 />} />
+            <Route path="/story/:pageId/:storyKey" element={<StoryDetail />} />
+            <Route path="/song" element={<Song />} />
+            <Route path="/song/:id?" element={<Song />} />
+          </Routes>
+        </RotateWarning>
       </main>
       <Footer />
     </Router>
