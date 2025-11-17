@@ -28,6 +28,7 @@ import StoryPage6 from "./page/story/children/story6.jsx";
 import StoryDetail from "./page/story/coc/storyDetail.jsx";
 import Song from "./page/song/song.jsx";
 
+import RedirectPage from "./config/RedirectPage.jsx";
 import RotateWarning from "./config/RotateWarning/rotateWarning.jsx";
 
 function App() {
@@ -64,6 +65,8 @@ function App() {
             <Route path="/story/:pageId/:storyKey" element={<StoryDetail />} />
             <Route path="/song" element={<Song />} />
             <Route path="/song/:id?" element={<Song />} />
+            <Route path="/redirect" element={<RedirectPage />} />
+
           </Routes>
         </RotateWarning>
       </main>
