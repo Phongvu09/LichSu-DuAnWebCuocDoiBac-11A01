@@ -693,3 +693,15 @@
     pointer-events: auto;
     /* để nhận click nhưng không lan ra cha */
 }
+
+.header-nav {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.header-nav.open {
+    max-height: 1000px;
+    /* hoặc chiều cao đủ lớn để chứa menu */
+    overflow: visible;
+}
