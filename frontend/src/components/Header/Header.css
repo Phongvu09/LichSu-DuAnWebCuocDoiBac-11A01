@@ -693,35 +693,3 @@
     pointer-events: auto;
     /* để nhận click nhưng không lan ra cha */
 }
-
-@media (max-width: 880px) {
-    .header-nav {
-        max-height: 0;
-        overflow: hidden;
-        transition: max-height 0.3s ease;
-    }
-
-    .header-nav.open {
-        max-height: 600px;
-        /* ví dụ đủ chứa toàn bộ menu */
-        overflow: visible;
-    }
-
-    .header {
-        position: fixed;
-        top: 0;
-        width: 100%;
-        z-index: 1500;
-    }
-
-    main.app-content {
-        padding-top: 60px;
-        /* chiều cao header bình thường */
-    }
-
-    /* Nếu mở menu, tăng padding-top tương ứng */
-    .header-nav.open~main.app-content {
-        padding-top: 600px;
-        /* tương đương max-height của menu */
-    }
-}
